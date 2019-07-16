@@ -536,7 +536,7 @@ export const menu = [{
 }, {
   group: `official_languages`,
   name: { en: `Official Languages`, fr: `Langues officielles` },
-  links: [ { category: `Learn`, link: `/official_languages/art-introduction_to_official_languages`, description: { en: `Introduction to official languages`, fr: `Introduction aux langues officielles` } },
+  links: [{ category: `Learn`, link: `/official_languages/art-introduction_to_official_languages`, description: { en: `Introduction to official languages`, fr: `Introduction aux langues officielles` } },
     { category: `Learn`, link: `/official_languages/art-ol_guidelines_for_gccampus_content`, description: { en: `Guidelines for GCcampus content`, fr: `Obligations pour le contenu GCcampus` } },
     { category: `Learn`, link: `/official_languages/art-ol_guidelines_for_gcconnex_and_gcpedia_use`, description: { en: `Guidelines for GCconnex and GCpedia use`, fr: `  Obligations pour GCconnex et GCpédia` } },
     { category: `Learn`, link: `/official_languages/art-ol_guidelines_for_video_production`, description: { en: `Guidelines for video production`, fr: `Obligations pour le développement de vidéos` } },
@@ -578,7 +578,7 @@ export const menu = [{
 {
   group: `video`,
   name: { en: `Videos`, fr: `Vidéos` },
-  links: [ { category: `Learn`, link: `/video/art-designing-instructionnal-videos`, description: { en: `Designing effective instructional videos`, fr: `Conception de vidéo pédagogique de qualité` } },
+  links: [{ category: `Learn`, link: `/video/art-designing-instructionnal-videos`, description: { en: `Designing effective instructional videos`, fr: `Conception de vidéo pédagogique de qualité` } },
     { category: `Learn`, link: `/video/art-instructor-vs-video`, description: { en: `Instructor-led vs. Video-based`, fr: `Formation par enseignant vs formation sur vidéo` } },
     { category: `Learn`, link: `/video/art-creative_concept_meeting`, description: { en: `The creative concept meeting`, fr: `La réunion sur le concept de création` } },
     { category: `Learn`, link: `/video/art-guide_for_video_topics`, description: { en: `Guide for video topics`, fr: `Guide de sujets vidéos` } },
