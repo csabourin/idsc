@@ -44,7 +44,7 @@ export default {
       },
       forID: {
         en: `for instructional designers`,
-        fr: `pour concepteurs d'apprentissage`
+        fr: `pour concepteurs pédagogiques`
       }
     }
   },

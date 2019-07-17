@@ -48,7 +48,7 @@ export default {
 
 </script>
 <style>
-.nuxt-link-exact-active:before {content:'> ';
+.nuxt-link-exact-active:before {content:'‣ ';
 margin-left:-1em;}
 
 #articleContent {
