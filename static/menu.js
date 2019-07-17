@@ -372,14 +372,6 @@ export const menu = [{
   },
   {
     category: `Learn`,
-    link: `/instructional_design/art-learning_mode_decision_making_framework`,
-    description: {
-      en: `Learning Mode Decision Making Framework`,
-      fr: `Cadre décisionnel relatif aux modes d’apprentissage`
-    }
-  },
-  {
-    category: `Learn`,
     link: `/instructional_design/art-learn_more`,
     description: {
       en: `Learn More`,

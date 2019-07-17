@@ -22,7 +22,8 @@ export default {
   head: {
     htmlAttrs: {
       lang: `en`
-    }
+    },
+    title: `Instructional Designer Support Centre - Centre de soutien pour concepteurs pédagogiques`
   },
   data() {
     return {
