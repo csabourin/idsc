@@ -4,6 +4,9 @@ export default {
   router: {
     base: '/idsc/'
   },
+  generate: {
+    concurrency: 100
+  },
   /*
   ** Headers of the page
   */

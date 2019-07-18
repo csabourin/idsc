@@ -1,7 +1,7 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
     <div class="text-center">
-      <a href="#" onclick="window.open(&quot;../../articles/ecosystem/eschool_calendar-fr.svg#svg4504&quot;,&quot;&quot;,&quot;status=no,titlebar=no,location=no,toolbar=no,left=0,top=0,width=1024, height=768&quot;);"><img alt="" height="auto" src="eschool_calendar-fr.png" width="100%"><br>
+      <a href="#" onclick="window.open('../../articles/ecosystem/eschool_calendar-fr.svg#svg4504','','status=no,titlebar=no,location=no,toolbar=no,left=0,top=0,width=1024, height=768');"><img alt="" height="auto" src="./eschool_calendar-fr.png" width="100%"><br>
         Cliquez pour agrandir</a>
     </div><!--<div class="wb-tabs ignore-session" id="Timeline">
         <div class="tabpanels">

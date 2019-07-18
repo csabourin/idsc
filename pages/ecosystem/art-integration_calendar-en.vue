@@ -1,7 +1,7 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
     <div class="text-center">
-      <a href="#" onclick="window.open(&quot;../../articles/ecosystem/eschool_calendar-en.svg#svg4504&quot;,&quot;&quot;,&quot;fullscreen=yes,status=no,titlebar=no,location=no,toolbar=no,left=0,top=0,width=1024, height=768&quot;);"><img src="eschool_calendar-en.png" width="100%" height="auto" alt=""><br>Click to enlarge</a>
+      <a href="#" onclick="window.open('../../articles/ecosystem/eschool_calendar-en.svg#svg4504','','fullscreen=yes,status=no,titlebar=no,location=no,toolbar=no,left=0,top=0,width=1024, height=768');"><img src="./eschool_calendar-en.png" width="100%" height="auto" alt=""><br>Click to enlarge</a>
     </div>
     <!--    <div class="wb-tabs ignore-session" id="Timeline">
         <div class="tabpanels">
