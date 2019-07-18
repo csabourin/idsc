@@ -4,7 +4,7 @@
 
     <!-- InstanceBeginEditable name="VideoBlurb" -->
     <div id="kaltura_player_1430312092" class="col-md-12 ajaxed-in KalturaVideo" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" />
     <script type="text/javascript" src="//video.csps-efpc.gc.ca/p/1../../10100/embedIframeJs/uiconf_id/23448244/partner_id/101" />
 
     <script>

@@ -1,6 +1,6 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
-  <script src="/lib/js/KalturaEmbedCodeGenerator-1.0.6.min.js" />
+    <script src="/lib/js/KalturaEmbedCodeGenerator-1.0.6.min.js" />
     <!-- InstanceBeginEditable name="VideoBlurb" -->
     <h2 style="text-align:center">
       Introduction au 713
