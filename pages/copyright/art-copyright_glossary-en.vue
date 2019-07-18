@@ -4,30 +4,102 @@
     <p>
       This glossary contains definitions and examples concerning terms related to copyrights. You can use the links below to navigate to the different terms directly.
     </p>
-    <div class="col-md-6 col-xs-12">
+    <div class="col-md-6">
       <ul>
-        <li><a title="navigate to Author" href="#author">Author</a></li>
-        <li><a title="navigate to Access Copyright and Copibec" href="#access">Access Copyright and Copibec</a></li>
-        <li><a title="navigate to Copyright" href="#copyright">Copyright</a></li>
-        <li><a title="navigate to Copyright Act" href="#act">Copyright Act</a></li>
-        <li><a title="navigate to Crown copyright" href="#crown">Crown copyright</a></li>
-        <li><a title="navigate to Copyright Infringement" href="#infringement">Copyright Infringement</a></li>
-        <li><a title="navigate to Creative Commons" href="#cc">Creative Commons</a></li>
-        <li><a title="navigate to Creative Commons license" href="#cc-license">Creative Commons license</a></li>
-        <li><a title="navigate to Digital locks" href="#locks">Digital locks</a></li>
+        <li>
+          <router-link title="navigate to Author" to="#author">
+            Author
+          </router-link>
+        </li>
+        <li>
+          <router-link title="navigate to Access Copyright and Copibec" to="#access">
+            Access Copyright and Copibec
+          </router-link>
+        </li>
+        <li>
+          <router-link title="navigate to Copyright" to="#copyright">
+            Copyright
+          </router-link>
+        </li>
+        <li>
+          <router-link title="navigate to Copyright Act" to="#act">
+            Copyright Act
+          </router-link>
+        </li>
+        <li>
+          <router-link title="navigate to Crown copyright" to="#crown">
+            Crown copyright
+          </router-link>
+        </li>
+        <li>
+          <router-link title="navigate to Copyright Infringement" to="#infringement">
+            Copyright Infringement
+          </router-link>
+        </li>
+        <li>
+          <router-link title="navigate to Creative Commons" to="#cc">
+            Creative Commons
+          </router-link>
+        </li>
+        <li>
+          <router-link title="navigate to Creative Commons license" to="#cc-license">
+            Creative Commons license
+          </router-link>
+        </li>
+        <li>
+          <router-link title="navigate to Digital locks" to="#locks">
+            Digital locks
+          </router-link>
+        </li>
       </ul>
     </div>
-    <div class="col-md-6 col-xs-12">
+    <div class="col-md-6">
       <ul>
-        <li><a title="navigate to exemption for educational Institutions" href="#exemption">exemption for educational institutions</a></li>
-        <li><a title="navigate to Fair dealing" href="#fair">Fair dealing</a></li>
-        <li><a title="navigate to Intellectual property" href="#ip">Intellectual property</a></li>
-        <li><a title="navigate to License" href="#license">License</a></li>
-        <li><a title="navigate to Moral Rights" href="#moral">Moral Rights</a></li>
-        <li><a title="navigate to Public domain" href="#public">Public domain</a></li>
-        <li><a title="navigate to Royalty" href="#royalty">Royalty</a></li>
-        <li><a title="navigate to Royalty free" href="#royalty-free">Royalty free</a></li>
-        <li><a title="navigate to Trademark" href="#trademark">Trademark</a></li>
+        <li>
+          <router-link title="navigate to exemption for educational Institutions" to="#exemption">
+            Exemption for educational institutions
+          </router-link>
+        </li>
+        <li>
+          <router-link title="navigate to Fair dealing" to="#fair">
+            Fair dealing
+          </router-link>
+        </li>
+        <li>
+          <router-link title="navigate to Intellectual property" to="#ip">
+            Intellectual property
+          </router-link>
+        </li>
+        <li>
+          <router-link title="navigate to License" to="#license">
+            License
+          </router-link>
+        </li>
+        <li>
+          <router-link title="navigate to Moral Rights" to="#moral">
+            Moral Rights
+          </router-link>
+        </li>
+        <li>
+          <router-link title="navigate to Public domain" to="#public">
+            Public domain
+          </router-link>
+        </li>
+        <li>
+          <router-link title="navigate to Royalty" to="#royalty">
+            Royalty
+          </router-link>
+        </li>
+        <li>
+          <router-link title="navigate to Royalty free" to="#royalty-free">
+            Royalty free
+          </router-link>
+        </li>
+        <li>
+          <router-link title="navigate to Trademark" to="#trademark">
+            Trademark
+          </router-link>
+        </li>
       </ul>
     </div>
     <div class="col-md-12">
@@ -44,8 +116,8 @@
           </th>
         </thead>
         <tbody>
-          <tr id="author">
-            <td>Author</td>
+          <tr>
+            <td><a id="author">Author</a></td>
             <td>
               The creator of an artistic, literary, musical, or dramatic work. The author can be an individual, a group of individuals, a company, an organization, or government, etc. There can be several authors for a work.
             </td>
@@ -281,6 +353,6 @@
         </tbody>
       </table>
     </div>
-    <a href="#" title="Go to the top of the page">Top of page <span class="glyphicon glyphicon-chevron-up" /></a>
+    <a to="#" title="Go to the top of the page">Top of page <span class="glyphicon glyphicon-chevron-up" /></a>
   </div>
 </template>

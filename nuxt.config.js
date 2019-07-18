@@ -5,7 +5,8 @@ export default {
     base: '/idsc/'
   },
   generate: {
-    concurrency: 100
+    concurrency: 100,
+    dir: 'docs'
   },
   /*
   ** Headers of the page

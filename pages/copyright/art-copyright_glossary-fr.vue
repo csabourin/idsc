@@ -6,28 +6,95 @@
     </p>
     <div class="col-md-6 col-xs-12">
       <ul>
-        <li><a title="naviguer vers Auteur" href="#author">Auteur</a></li>
-        <li><a title="naviguer vers Access Copyright et Copibec" href="#access">Access Copyright et Copibec</a></li>
-        <li><a title="naviguer vers Droit d’auteur" href="#copyright">Droit d’auteur</a></li>
-        <li><a title="naviguer vers Loi sur le droit d'auteur" href="#act"><em>Loi sur le droit d'auteur</em></a></li>
-        <li><a title="naviguer vers Droit d’auteur de la Couronne" href="#crown">Droit d’auteur de la Couronne</a></li>
-        <li><a title="naviguer vers Violation du droit d’auteur" href="#infringement">Violation du droit d’auteur</a></li>
-        <li><a title="naviguer vers Creative Commons" href="#cc">Creative Commons</a></li>
-        <li><a title="naviguer vers Licence de Creative Commons" href="#cc-license">Licence de Creative Commons</a></li>
-        <li><a title="naviguer vers Serrure numérique" href="#locks">Serrure numérique</a></li>
+        <li>
+          <router-link title="naviguer vers Auteur" to="#author">
+            Auteur
+          </router-link>
+        </li>
+        <li>
+          <router-link title="naviguer vers Access Copyright et Copibec" to="#access">
+            Access Copyright et Copibec
+          </router-link>
+        </li>
+        <li>
+          <router-link title="naviguer vers Droit d’auteur" to="#copyright">
+            Droit d’auteur
+          </router-link>
+        </li>
+        <li>
+          <router-link title="naviguer vers Loi sur le droit d'auteur" to="#act">
+            <em>Loi sur le droit d'auteur</em>
+          </router-link>
+        </li>
+        <li>
+          <router-link title="naviguer vers Droit d’auteur de la Couronne" to="#crown">
+            Droit d’auteur de la Couronne
+          </router-link>
+        </li>
+        <li>
+          <router-link title="naviguer vers Creative Commons" to="#cc">
+            Creative Commons
+          </router-link>
+        </li>
+        <li>
+          <router-link title="naviguer vers Licence de Creative Commons" to="#cc-license">
+            Licence de Creative Commons
+          </router-link>
+        </li>
+        <li>
+          <router-link title="naviguer vers Serrure numérique" to="#locks">
+            Serrure numérique
+          </router-link>
+        </li>
       </ul>
     </div>
     <div class="col-md-6 col-xs-12">
       <ul>
-        <li><a title="naviguer vers exemption pour les établissements d’enseignement" href="#exemption">exemption pour les établissements d’enseignement</a></li>
-        <li><a title="naviguer vers Utilisation équitable" href="#fair">Utilisation équitable</a></li>
-        <li><a title="naviguer vers Propriété intellectuelle" href="#ip">Propriété intellectuelle</a></li>
-        <li><a title="naviguer vers Licence" href="#license">Licence</a></li>
-        <li><a title="naviguer vers Droits moraux" href="#moral">Droits moraux</a></li>
-        <li><a title="naviguer vers Domaine public" href="#public">Domaine public</a></li>
-        <li><a title="naviguer vers Redevance" href="#royalty">Redevance</a></li>
-        <li><a title="naviguer vers Libre de redevances" href="#royalty-free">Libre de redevances</a></li>
-        <li><a title="naviguer vers Marque de commerce" href="#trademark">Marque de commerce</a></li>
+        <li>
+          <router-link title="naviguer vers exemption pour les établissements d’enseignement" to="#exemption">
+            exemption pour les établissements d’enseignement
+          </router-link>
+        </li>
+        <li>
+          <router-link title="naviguer vers Utilisation équitable" to="#fair">
+            Utilisation équitable
+          </router-link>
+        </li>
+        <li>
+          <router-link title="naviguer vers Propriété intellectuelle" to="#ip">
+            Propriété intellectuelle
+          </router-link>
+        </li>
+        <li>
+          <router-link title="naviguer vers Licence" to="#license">
+            Licence
+          </router-link>
+        </li>
+        <li>
+          <router-link title="naviguer vers Droits moraux" to="#moral">
+            Droits moraux
+          </router-link>
+        </li>
+        <li>
+          <router-link title="naviguer vers Domaine public" to="#public">
+            Domaine public
+          </router-link>
+        </li>
+        <li>
+          <router-link title="naviguer vers Redevance" to="#royalty">
+            Redevance
+          </router-link>
+        </li>
+        <li>
+          <router-link title="naviguer vers Libre de redevances" to="#royalty-free">
+            Libre de redevances
+          </router-link>
+        </li>
+        <li>
+          <router-link title="naviguer vers Marque de commerce" to="#trademark">
+            Marque de commerce
+          </router-link>
+        </li>
       </ul>
     </div>
     <div class="col-md-12">
@@ -286,6 +353,6 @@
         </tbody>
       </table>
     </div>
-    <a href="#" title="Aller au haut de la page">Haut de la page <span class="glyphicon glyphicon-chevron-up" /></a>
+    <a to="#" title="Aller au haut de la page">Haut de la page <span class="glyphicon glyphicon-chevron-up" /></a>
   </div>
 </template>
