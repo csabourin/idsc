@@ -1,7 +1,7 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
     <h2>Guidelines for Video Production</h2>
-    <p>The School offers video production services. The studio&rsquo;s practices with respect to official languages are outlined below.</p>
+    <p>The School offers video production services. The studio's practices with respect to official languages are outlined below.</p>
     <h4>Videos produced in the two official languages:</h4>
     <ul>
       <li>Transcription and subtitling of each version</li>

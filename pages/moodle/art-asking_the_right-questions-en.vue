@@ -14,7 +14,7 @@
     </ul>
     <p>
       Effective questions are the key to an effective discussion. Analysis, synthesis, and evaluation questions generally lend themselves
-      to more in-depth discussion of the topic.&nbsp; However, starting with a few knowledge-type questions is an excellent way to get
+      to more in-depth discussion of the topic. However, starting with a few knowledge-type questions is an excellent way to get
       students warmed-up. Then progressing through comprehension and application questions will ensure that they understand the topic before
       you get to the in-depth discussion.
     </p>

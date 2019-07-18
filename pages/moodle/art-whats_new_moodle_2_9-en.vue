@@ -20,7 +20,7 @@
       <dl class="dl-horizontal">
         <dt>Time spent on lesson activity</dt><dd> You can now set how much time the user has to spend on a Lesson in order to complete it.</dd>
         <dt>Grade to pass</dt><dd> You can now set the passing grade in the activity setting instead of going through the gradebook.</dd>
-        <dt>Activity result block</dt><dd> A new block is available to display the user&rsquo;s &nbsp;score in each activity of the course.</dd>
+        <dt>Activity result block</dt><dd> A new block is available to display the user's &nbsp;score in each activity of the course.</dd>
         <dt>Drag &amp; Drop in Text Editor</dt><dd> You can now drag and drop images right into the text editor without having to upload it first.</dd>
         <dt>Search server file</dt><dd> Managers can now search files that are on the server.</dd>
         <dt>Quiz headers</dt><dd> You can create headings inside the quiz navigation block.</dd>

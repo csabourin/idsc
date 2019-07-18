@@ -2,20 +2,20 @@
   <div id="articleContent" class="ajaxed-in">
     <h2>Liste des ressources existantes</h2>
     <p>
-      Ceci est une liste &eacute;volutive de ressources existantes que vous
-      devriez consulter avant de cr&eacute;er du nouveau contenu.&nbsp; Vous
-      devriez l&rsquo;utiliser comme un outil de r&eacute;f&eacute;rence.
+      Ceci est une liste évolutive de ressources existantes que vous
+      devriez consulter avant de créer du nouveau contenu. Vous
+      devriez l'utiliser comme un outil de référence.
     </p>
     <p>
-      Si vous d&eacute;sirez ajouter des ressources &agrave; la liste,
-      veuillez faire parvenir un courriel &agrave; <a
+      Si vous désirez ajouter des ressources à la liste,
+      veuillez faire parvenir un courriel à <a
         href="mailto:Louise.Lambert@efpc-csps.gc.ca"
       >Louise.Lambert@efpc-csps.gc.ca</a> avec les titres et les
       descriptions dans les deux langues officielles ainsi que les liens dans
       GCDOCS.
     </p>
     <p>
-      Acc&eacute;dez &agrave; liste en cliquant sur ce lien : <a
+      Accédez à liste en cliquant sur ce lien : <a
         href="http://gcdocs.csps-efpc.gc.ca/otcs/llisapi.dll/properties/5888219"
         target="_blank"
       >Content Curation

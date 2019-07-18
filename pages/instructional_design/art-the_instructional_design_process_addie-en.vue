@@ -88,7 +88,7 @@
         </b-tab>
         <b-tab title="D">
           <h3>Design Phase</h3>
-          <p>The design phase is where you use the information from your analyses to create the blueprint for a learning product that meets your clients&rsquo; needs. The design phase involves identifying strategies to fulfill the learning objectives, establishing an evaluation methodology, creating exercises and content, selecting the appropriate delivery method. If you are using multi-media elements you will also develop storyboards and scripts. The design phase is where you systematically chunk your learning content in a logical manner.</p>
+          <p>The design phase is where you use the information from your analyses to create the blueprint for a learning product that meets your clients' needs. The design phase involves identifying strategies to fulfill the learning objectives, establishing an evaluation methodology, creating exercises and content, selecting the appropriate delivery method. If you are using multi-media elements you will also develop storyboards and scripts. The design phase is where you systematically chunk your learning content in a logical manner.</p>
           <p>This phase has 4 steps:</p>
           <ol>
             <li>
@@ -107,7 +107,7 @@
             <li>
               <details>
                 <summary><h4>Select the Course Format</h4></summary>
-                <p>You will find information on the School&rsquo;s Learning ecosystem <a href="learning_ecosystem_delivery_modes-en.html" target="_blank">here</a>.</p>
+                <p>You will find information on the School's Learning ecosystem <a href="learning_ecosystem_delivery_modes-en.html" target="_blank">here</a>.</p>
               </details>
             </li>
             <li>
@@ -143,7 +143,7 @@
                     <li>The <a href="../../content_sections/self-paced/self-paced_development_process-en.html" target="_blank"><strong>High Level Design</strong></a> document </li>
                     <li>Refinement of the <strong>Learning Design Plan</strong> (started in the Analysis Phase)</li>
                     <li> <a href="http://gcdocs.csps-efpc.gc.ca/otcs/llisapi.dll?func=ll&amp;objId=6019920&amp;objAction=download" target="_blank"><strong>Storyboards</strong></a> and <strong>Scripts</strong> (if creating multi-media elements) </li>
-                    <li> <strong>Wireframes</strong> and <strong>mock-ups from the</strong> <a href="//sb-es-demo.csps-efpc.com/catalog/index_en.html" target="_blank"><strong>CSPS eLearning Framework</strong></a> for any multimedia elements<strong>,</strong> contact Jen Kerr&rsquo;s Multi-media development team </li>
+                    <li> <strong>Wireframes</strong> and <strong>mock-ups from the</strong> <a href="//sb-es-demo.csps-efpc.com/catalog/index_en.html" target="_blank"><strong>CSPS eLearning Framework</strong></a> for any multimedia elements<strong>,</strong> contact Jen Kerr's Multi-media development team </li>
                     <li><strong>Course materials</strong> (guides and job-aids)</li>
                   </ul>
                   <p>
@@ -160,7 +160,7 @@
           <p>The development phase focuses on creating prototypes and developing course materials. Pilots should be run and evaluated during this phase. The key deliverables of the Development phase can include:</p>
           <ul>
             <li>Course materials</li>
-            <li>Instructor&rsquo;s guides</li>
+            <li>Instructor's guides</li>
             <li>Job aids</li>
             <li>Assessment instruments</li>
             <li>Course schedules</li>

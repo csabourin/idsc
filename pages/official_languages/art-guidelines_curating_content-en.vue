@@ -19,7 +19,7 @@
         <a
           href="//sb-es-demo.csps-efpc.com/idsc/content_sections/copyright/copyright_FAQS-en.html"
           target="_blank"
-        >Copyright FAQ section</a> on the School&rsquo;s Support Centre webpage.
+        >Copyright FAQ section</a> on the School's Support Centre webpage.
       </li>
 
       <li>Find equivalent content of the same quality in the other language.</li>

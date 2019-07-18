@@ -14,7 +14,7 @@
       <div class="row">
         <div class="col-xs-12 clearfix">
           <header>
-            <h3>&eacute;cosyst&egrave;me d'apprentissage<br></h3>
+            <h3>écosystème d'apprentissage<br></h3>
             <br><br>
           </header>
           <div class="col-xs-12 col-sm-8 col-sm-offset-2">
@@ -22,7 +22,7 @@
               <div class="DashedCircle hidden-sm hidden-xs" />
               <div class="ContourCircle hidden-sm hidden-xs" />
               <div class="gOn-valign text-center">
-                <img src="~/assets/official_languages/ecosystem_4.png">&eacute;cosyst&egrave;me d'apprentissage
+                <img src="~/assets/official_languages/ecosystem_4.png">écosystème d'apprentissage
               </div>
             </div>
           </div>
@@ -68,7 +68,7 @@
             Apprentissage<br>en ligne, à rythme libre
           </p>
         </li>
-        <li>Ressources en ligne<br><small><em>(vid&eacute;os, pratiques exemplaires, produits disponibles sur le march&eacute;)</em></small></li>
+        <li>Ressources en ligne<br><small><em>(vidéos, pratiques exemplaires, produits disponibles sur le marché)</em></small></li>
         <li>
           <p>Salle de classe</p>
         </li>

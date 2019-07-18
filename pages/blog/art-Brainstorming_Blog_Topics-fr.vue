@@ -32,18 +32,18 @@
 
       <li>Répondez aux questions de vos lecteurs;</li>
 
-      <li>Rédigez une réponse au billet d&rsquo;une autre personne;</li>
+      <li>Rédigez une réponse au billet d'une autre personne;</li>
 
       <li>Livrez-vous régulièrement à des séances de remue-méninges;</li>
 
-      <li>Revenez sur d&rsquo;anciens sujets et donnez de nouvelles raisons de s&rsquo;y intéresser;</li>
+      <li>Revenez sur d'anciens sujets et donnez de nouvelles raisons de s'y intéresser;</li>
 
       <li>
         Faites des entrevues avec diverses personnes (un spécialiste de votre domaine, un autre blogueur,
         etc.);
       </li>
 
-      <li>Communiquez avec des communautés liées à votre domaine pour trouver de l&rsquo;inspiration;</li>
+      <li>Communiquez avec des communautés liées à votre domaine pour trouver de l'inspiration;</li>
 
       <li>Soyez toujours prêt à consigner vos idées.</li>
     </ul>

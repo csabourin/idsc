@@ -143,7 +143,7 @@
             <dt class="brdr-bttm">
               Nombre de participants
             </dt>
-            <dd>15 &agrave; 20</dd>
+            <dd>15 à 20</dd>
             <dt class="brdr-bttm">
               Durée&nbsp;de&nbsp;l'activité
             </dt>

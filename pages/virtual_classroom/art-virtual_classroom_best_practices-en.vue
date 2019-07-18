@@ -23,7 +23,7 @@
       <li>Avoid aggressive or flashy colours</li>
       <li>Use relevant images</li>
       <li>Avoid clipart and poor quality images</li>
-      <li>Don&rsquo;t use crowded backgrounds</li>
+      <li>Don't use crowded backgrounds</li>
       <li>Avoid altering font sizes and font types</li>
       <li>Use animations appropriately and sparingly to focus on content</li>
       <li>Leave ample white space on your slides for annotations</li>
@@ -54,7 +54,7 @@
     <ul>
       <li>ensures objectives are being met</li>
       <li>Helps determine the actual duration of your course</li>
-      <li>Allows you to obtain feedback on the participants&rsquo; experience</li>
+      <li>Allows you to obtain feedback on the participants' experience</li>
       <li>Allows you to see if the course looks and feels like you envisioned it</li>
       <li>ensures the slides and visuals look and function as they should in the virtual classroom platform</li>
     </ul>

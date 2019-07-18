@@ -40,7 +40,7 @@
     </details>
     <details>
       <summary>
-        <h3>R&egrave;gles</h3>
+        <h3>Règles</h3>
       </summary>
       <dl class="dl-horizontal">
         <dt>1.1 Équivalents textuels :</dt>

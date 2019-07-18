@@ -2,10 +2,10 @@
   <div id="articleContent" class="ajaxed-in">
     <h2>Learner Identification Analysis</h2>
     <p>
-      The Learner Identification Analysis Job-aid is designed to be used by Instructional Designer&rsquo;s to gather
+      The Learner Identification Analysis Job-aid is designed to be used by Instructional Designer's to gather
       information about learners. The questions are used to gather information about who the learners are, where they are
       located and other general information about their working environment and set-up. The questions are intended to
-      help Instructional Designer&rsquo;s understand what factors they need to consider when selecting a learning
+      help Instructional Designer's understand what factors they need to consider when selecting a learning
       delivery mode for their learners.
     </p>
     <p>

@@ -132,7 +132,7 @@
       </tr>
       <tr>
         <td align="right" valign="top">
-          <p>Option d'aper&ccedil;u</p>
+          <p>Option d'aperçu</p>
         </td>
         <td align="center" valign="top">
           <p>Oui</p>

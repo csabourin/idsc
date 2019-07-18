@@ -1,19 +1,19 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
-    <h2>Avez-vous vraiment besoin<br>d&rsquo;un outil de travail&nbsp;? <span data-pop="Outil d&rsquo;aide &agrave; la d&eacute;cision!" /></h2>
+    <h2>Avez-vous vraiment besoin<br>d'un outil de travail&nbsp;? <span data-pop="Outil d'aide à la décision!" /></h2>
     <p>
-      Parfois un outil de travail n&rsquo;est pas la meilleure solution pour les
-      besoins de nos clients.&nbsp; &eacute;vitez le d&eacute;veloppement d&rsquo;un
+      Parfois un outil de travail n'est pas la meilleure solution pour les
+      besoins de nos clients. évitez le développement d'un
       outil inutile en analysant, en premier lieu, si la t&acirc;che en question sera
-      un bon candidat pour un outil de travail. Le plus vous r&eacute;pondez Oui
-      &agrave; chacune des caract&eacute;ristiques ci-dessous, le plus un outil de
-      travail peut &ecirc;tre une solution appropri&eacute;e pour r&eacute;pondre au
+      un bon candidat pour un outil de travail. Le plus vous répondez Oui
+      à chacune des caractéristiques ci-dessous, le plus un outil de
+      travail peut être une solution appropriée pour répondre au
       besoin.
     </p>
     <div class="row">
       <div class="col-md-3">
         <p id="t1">
-          Fr&eacute;quence de la t&acirc;che
+          Fréquence de la t&acirc;che
         </p>
       </div>
       <div class="col-md-3">
@@ -35,7 +35,7 @@
     <div class="row">
       <div class="col-md-3">
         <p id="t2">
-          Nombre d&rsquo;&eacute;tapes
+          Nombre d'étapes
         </p>
       </div>
       <div class="col-md-3">
@@ -57,7 +57,7 @@
     <div class="row">
       <div class="col-md-3">
         <p id="t3">
-          Complexit&eacute; de la t&acirc;che
+          Complexité de la t&acirc;che
         </p>
       </div>
       <div class="col-md-3">
@@ -79,7 +79,7 @@
     <div class="row">
       <div class="col-md-3">
         <p id="t4">
-          Rapidit&eacute; de la t&acirc;che
+          Rapidité de la t&acirc;che
         </p>
       </div>
       <div class="col-md-3">
@@ -101,7 +101,7 @@
     <div class="row">
       <div class="col-md-3">
         <p id="t5">
-          Impact en cas d&rsquo;erreur
+          Impact en cas d'erreur
         </p>
       </div>
       <div class="col-md-3">
@@ -116,7 +116,7 @@
       </div>
       <div class="col-md-3">
         <button aria-labelledby="t5" @click="incr('p5');">
-          S&eacute;rieux
+          Sérieux
         </button>
       </div>
     </div>

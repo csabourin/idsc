@@ -13,10 +13,10 @@
       more open and informal context, however, entails challenges for the School in terms of its official languages
       obligations: how can we continue to ensure high-quality, bilingual products for our clients? The Official Languages
       Committee understands that it will have a key role to play in this transition and that it must be in a position to
-      support instructional designers in respecting the School&rsquo;s official languages obligations.
+      support instructional designers in respecting the School's official languages obligations.
     </p>
     <p>
-      This information is intended for instructional designers to be aware of the School&rsquo;s official languages
+      This information is intended for instructional designers to be aware of the School's official languages
       obligations and to guide them in developing the tools that will populate its learning ecosystem.
     </p>
     <section>

@@ -1,37 +1,37 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
-    <h2>Introduction &agrave; la conception p&eacute;dagogique</h2>
+    <h2>Introduction à la conception pédagogique</h2>
     <img src="~/assets/instructional_design/instructional_design_into.jpg" class="pull-right" width="50%" height="auto" alt="">
     <p>
-      Les m&eacute;thodes de conception p&eacute;dagogique permettent &agrave;
-      vous et &agrave; votre &eacute;quipe de diviser un processus complexe en
-      &eacute;tapes simples.
+      Les méthodes de conception pédagogique permettent à
+      vous et à votre équipe de diviser un processus complexe en
+      étapes simples.
     </p>
     <p>
-      Que vous souhaitiez int&eacute;grer de la technologie (audio,
-      vid&eacute;o, blogues, Moodle, s&eacute;minaires Web, etc.) dans un cours
-      actuel donn&eacute; en salle de classe (apprentissage mixte) ou transformer
-      compl&egrave;tement un cours pour le donner en ligne, l&rsquo;objectif de
-      la conception p&eacute;dagogique est d&rsquo;organiser les &eacute;tapes,
-      de rassembler l&rsquo;&eacute;quipe et de r&eacute;aliser le projet, pour
-      assurer la r&eacute;ussite du cours et de ses nouvelles
-      fonctionnalit&eacute;s. La t&acirc;che est complexe. &Agrave; titre de
-      concepteur p&eacute;dagogique, vous devez &ecirc;tre en mesure de
-      consid&eacute;rer l&rsquo;ensemble des &eacute;l&eacute;ments d&rsquo;une
-      situation pour en assurer la r&eacute;ussite. Heureusement, il existe des
-      outils qui peuvent vous appuyer dans cette d&eacute;marche.
+      Que vous souhaitiez intégrer de la technologie (audio,
+      vidéo, blogues, Moodle, séminaires Web, etc.) dans un cours
+      actuel donné en salle de classe (apprentissage mixte) ou transformer
+      complètement un cours pour le donner en ligne, l'objectif de
+      la conception pédagogique est d'organiser les étapes,
+      de rassembler l'équipe et de réaliser le projet, pour
+      assurer la réussite du cours et de ses nouvelles
+      fonctionnalités. La t&acirc;che est complexe. &Agrave; titre de
+      concepteur pédagogique, vous devez être en mesure de
+      considérer l'ensemble des éléments d'une
+      situation pour en assurer la réussite. Heureusement, il existe des
+      outils qui peuvent vous appuyer dans cette démarche.
     </p>
     <p>
-      en &lsquo;apprendre&rsquo; plus au sujet de la th&eacute;orie, des
-      &eacute;tapes et des processus de la conception p&eacute;dagogique.
+      en &lsquo;apprendre' plus au sujet de la théorie, des
+      étapes et des processus de la conception pédagogique.
     </p>
     <p>
-      &lsquo;Voir&rsquo; des exemples de conceptions p&eacute;dagogiques
-      termin&eacute;es.
+      &lsquo;Voir' des exemples de conceptions pédagogiques
+      terminées.
     </p>
     <p>
-      &lsquo;Faire&rsquo; vous-m&ecirc;me le processus, &agrave; l&rsquo;aide
-      d&rsquo;un ensemble de mod&egrave;les et d&rsquo;outils de travail.
+      &lsquo;Faire' vous-même le processus, à l'aide
+      d'un ensemble de modèles et d'outils de travail.
     </p>
   </div>
   </div>

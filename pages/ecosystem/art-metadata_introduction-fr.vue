@@ -1,16 +1,16 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
-    <h2>Le th&eacute;saurus de l&rsquo;EFPC</h2>
-    <p>Un th&eacute;saurus nous aide &agrave; comprendre les termes, par exemple des &eacute;l&eacute;ments de menu, de deux fa&ccedil;ons, &agrave; savoir&nbsp;:</p>
+    <h2>Le thésaurus de l'EFPC</h2>
+    <p>Un thésaurus nous aide à comprendre les termes, par exemple des éléments de menu, de deux façons, à savoir&nbsp;:</p>
     <ol>
-      <li>la s&eacute;mantique des termes, c&rsquo;est-&agrave;-dire leurs descriptions&nbsp;;</li>
-      <li>et leurs relations avec d'autres termes, o&ugrave; le terme plus g&eacute;n&eacute;ral est en dessus et plus sp&eacute;cifique en dessous.</li>
+      <li>la sémantique des termes, c'est-à-dire leurs descriptions&nbsp;;</li>
+      <li>et leurs relations avec d'autres termes, o&ugrave; le terme plus général est en dessus et plus spécifique en dessous.</li>
     </ol>
-    <p>Le <em>Th&eacute;saurus de l&rsquo;&eacute;cole de la fonction publique du Canada</em> est un vocabulaire bilingue dont la terminologie repr&eacute;sente des domaines trait&eacute;s dans les ressources d'information d&rsquo;EFPC.</p>
-    <p>Le <em>Th&eacute;saurus de l&rsquo;&eacute;cole de la fonction publique du Canada</em> est g&eacute;r&eacute; et mis &agrave; jour par le <a href="http://gcdocs.csps-efpc.gc.ca/otcs/llisapi.dll?func=ll&amp;objId=6064189&amp;objAction=browse&amp;sort=name" target="_blank">Groupe de travail des intendants de métadonnées</a>.</p>
-    <h3>Caract&eacute;ristiques, contenu et structure</h3>
-    <p>Le <em>Th&eacute;saurus de l&rsquo;&eacute;cole de la fonction publique du Canada suit les lignes directrices utilisées par le</em> <em><em>Th&eacute;saurus</em> des sujets de base du gouvernement du</em> <em>Canada</em> a &eacute;t&eacute; &eacute;labor&eacute; conform&eacute;ment aux <em>Principes directeurs pour</em> <em>l'&eacute;tablissement et le d&eacute;veloppement de th&eacute;saurus</em> <em>monolingues</em> (ISO 2788-1986) et aux <em>Principes directeurs pour l'&eacute;tablissement</em> <em>et le d&eacute;veloppement de th&eacute;saurus multilingues</em> (ISO 5964-1985).</p>
-    <p>On retrouve dans le th&eacute;saurus des <a class="wb-lbx" href="#descript">descripteurs</a> (termes pr&eacute;f&eacute;r&eacute;s) et des <a class="wb-lbx" href="#non-descript">non-descripteurs</a> (synonymes ou termes non pr&eacute;f&eacute;r&eacute;s). Les descripteurs sont li&eacute;s entre eux par des relations hi&eacute;rarchiques (<a class="wb-lbx" href="#generic">terme générique</a> et <a class="wb-lbx" href="#specific">terme spécifique</a>), associatives (<a class="wb-lbx" href="#associ">terme associé</a>) et des relations d'&eacute;quivalence interlinguistique (&eacute;quivalents anglais et fran&ccedil;ais).</p><cite class="small">- Source: <a href="http://www.thesaurus.gc.ca/default.asp?lang=Fr&n=0594D979-1" target="_blank">Thésaurus des sujets de base du gouvernement du Canada</a></cite>
+    <p>Le <em>Thésaurus de l'école de la fonction publique du Canada</em> est un vocabulaire bilingue dont la terminologie représente des domaines traités dans les ressources d'information d'EFPC.</p>
+    <p>Le <em>Thésaurus de l'école de la fonction publique du Canada</em> est géré et mis à jour par le <a href="http://gcdocs.csps-efpc.gc.ca/otcs/llisapi.dll?func=ll&amp;objId=6064189&amp;objAction=browse&amp;sort=name" target="_blank">Groupe de travail des intendants de métadonnées</a>.</p>
+    <h3>Caractéristiques, contenu et structure</h3>
+    <p>Le <em>Thésaurus de l'école de la fonction publique du Canada suit les lignes directrices utilisées par le</em> <em><em>Thésaurus</em> des sujets de base du gouvernement du</em> <em>Canada</em> a été élaboré conformément aux <em>Principes directeurs pour</em> <em>l'établissement et le développement de thésaurus</em> <em>monolingues</em> (ISO 2788-1986) et aux <em>Principes directeurs pour l'établissement</em> <em>et le développement de thésaurus multilingues</em> (ISO 5964-1985).</p>
+    <p>On retrouve dans le thésaurus des <a class="wb-lbx" href="#descript">descripteurs</a> (termes préférés) et des <a class="wb-lbx" href="#non-descript">non-descripteurs</a> (synonymes ou termes non préférés). Les descripteurs sont liés entre eux par des relations hiérarchiques (<a class="wb-lbx" href="#generic">terme générique</a> et <a class="wb-lbx" href="#specific">terme spécifique</a>), associatives (<a class="wb-lbx" href="#associ">terme associé</a>) et des relations d'équivalence interlinguistique (équivalents anglais et français).</p><cite class="small">- Source: <a href="http://www.thesaurus.gc.ca/default.asp?lang=Fr&n=0594D979-1" target="_blank">Thésaurus des sujets de base du gouvernement du Canada</a></cite>
     <section id="descript" class="mfp-hide modal-dialog modal-content overlay-def">
       <header class="modal-header">
         <h3 class="modal-title">

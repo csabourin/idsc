@@ -1,6 +1,6 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
-    <h2>Comment motiver et susciter l&rsquo;int&eacute;r&ecirc;t des participants</h2>
+    <h2>Comment motiver et susciter l'intérêt des participants</h2>
     <ol>
       <li>enseignez comment utiliser la technologie (en classe  ou pendant l'exercice de préparation)</li>
       <li>Renseignez-vous sur les participants : centrez le  cours sur eux</li>

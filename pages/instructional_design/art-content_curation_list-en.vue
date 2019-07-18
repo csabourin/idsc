@@ -13,7 +13,7 @@
       GCDOCS.
     </p>
     <p>
-      Access the list by clicking on the link:&nbsp; <a href="http://gcdocs.csps-efpc.gc.ca/otcs/llisapi.dll/properties/5888219" target="_blank">Content
+      Access the list by clicking on the link: <a href="http://gcdocs.csps-efpc.gc.ca/otcs/llisapi.dll/properties/5888219" target="_blank">Content
         Curation - List _ Liste - Curation du contenu.xlsx</a>
     </p>
     <p class="text-center">

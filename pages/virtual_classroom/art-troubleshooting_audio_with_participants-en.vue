@@ -26,7 +26,7 @@
               <li>Writes &ldquo;Call in Jonathan&rdquo; on Whiteboard and uses arrows to point to where they should call in. Have the PowerPoint open to copy and paste the 3‑step instructions from the audio slide into the chat.</li>
             </ol>
           </dd><dd>
-            <p><em>Facilitator finally sees telephone handset next to Jonathan&rsquo;s name.</em></p>
+            <p><em>Facilitator finally sees telephone handset next to Jonathan's name.</em></p>
           </dd><dt>Facilitator:</dt>
           <dd>Hi Jonathan, I see you have dialed in because there is a handset next to your name in the participant box which is found in the upper right-hand corner of your screen. Can you please say hello, so we can hear you?</dd>
           <dd>NO SOUND/INFO FROM JONATHAN</dd>
@@ -40,7 +40,7 @@
           <p><strong>Note:</strong> Your may have to resort to Producer calling participant on a 2<sup>nd</sup>&nbsp;line to walk the participant through the process.</p>
           <h4>example&nbsp;2</h4>
           <p>Participant Is Dialed In as a &ldquo;call-in user&rdquo;</p>
-          <p>Facilitator tells the participant to log out of the classroom and dial back in. It is important that the participant&rsquo;s name is linked to audio (especially for breakouts)</p>
+          <p>Facilitator tells the participant to log out of the classroom and dial back in. It is important that the participant's name is linked to audio (especially for breakouts)</p>
           <p><strong>Note:</strong> In GTS Meeting Centre, all callers will be a call-in-user.</p>
           <p>Calling the Participant</p>
           <p>Tell the participant the following and follow along on your screen to provide step-by-step instructions and include technical directions.</p>
@@ -56,7 +56,7 @@
           <p>You Have a Participant on the Phone but Not in the Class</p>
           <ol>
             <li>Tell them to find the email and follow the instructions to first log into class and then dial in. Tell them they will have to hang up to do this.</li>
-            <li>If #1 doesn&rsquo;t work you may suggest that you can call them to give them step-by-step directions to log in.</li>
+            <li>If #1 doesn't work you may suggest that you can call them to give them step-by-step directions to log in.</li>
           </ol>
         </h4>
       </div>

@@ -16,7 +16,7 @@
       formulaire signé dans GcDocs.
     </p>    <p class="text-center">
       <img
-        alt="Apper&ccedil;u du formulaire de consentement"
+        alt="Apperçu du formulaire de consentement"
         src="~/assets/video/Consent-Release_form.jpg"
       >
     </p>

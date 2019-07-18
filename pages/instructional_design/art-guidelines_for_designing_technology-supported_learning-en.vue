@@ -30,7 +30,7 @@
         <li>Opportunities for reflection</li>
         <li>Informal communities of practice</li>
       </ul>
-      <p>It&rsquo;s also important to ask why incorporate technologies now? What&rsquo;s your goal?</p>
+      <p>It's also important to ask why incorporate technologies now? What's your goal?</p>
       <ul class="list-unstyled mrgn-lft-lg">
         <li>Reduce class time?</li>
         <li>eliminate class time?</li>
@@ -139,13 +139,13 @@
       <h5>Accessibility</h5>
       <p> As Instructional Designers you play an important part in the accessibility of your content design and course material. You must always consider accessibility at all stages of content development, whether in designing, developing, implementing or evaluating. To meet the Government of Canada commitment to Web accessibility, the Government of Canada has adopted the WCAG 2.0. For more information on the accessibility guidelines or designing and developing accessible learning products, please see the <strong>Accessibility</strong>  section of the Instructional Designers Support Centre.</p>
       <h3>Official Languages</h3>
-      <p>Instructional designers need to understand the School&rsquo;s official languages obligations and to keep them in mind when developing new learning products. See the <strong>Official Languages</strong>  section of the Instructional Designer&rsquo;s Support Centre for specific guidelines and recommendations.</p>
+      <p>Instructional designers need to understand the School's official languages obligations and to keep them in mind when developing new learning products. See the <strong>Official Languages</strong>  section of the Instructional Designer's Support Centre for specific guidelines and recommendations.</p>
     </details>
     <details>
       <summary>
         <h4>Learning Mode Decision Making Framework</h4>
       </summary>
-      <p>This table offers a quick reference to the School&rsquo;s available learning modes (learning ecosystem) and each mode&rsquo;s suitability to respond to the key business factors, e.g. requirement to reduce time to performance, requirement for anytime, anywhere.</p>
+      <p>This table offers a quick reference to the School's available learning modes (learning ecosystem) and each mode's suitability to respond to the key business factors, e.g. requirement to reduce time to performance, requirement for anytime, anywhere.</p>
       <p> Consult the <a href="http://gcdocs.csps-efpc.gc.ca/otcs/llisapi.dll?func=ll&amp;objId=6026457&amp;objAction=download" target="_blank"><strong>Learning Mode Decision Making Framework</strong></a></p>
     </details>
   </div>

@@ -4,7 +4,7 @@
     <p>
       Merely putting learners into an online forum for discussion does not necessarily lead to learning taking place. Indeed, discussion
       forums can far too easily degenerate into a swapping of opinions between learners, without any change in understanding, attitudes or
-      knowledge. Thus the teacher&rsquo;s role in moderating online discussions is critical.
+      knowledge. Thus the teacher's role in moderating online discussions is critical.
     </p><p>
       What is the optimum group size for an online discussion? This will depend on a number of factors, but some general guidelines can be given:
       <strong>a teacher-learner ratio of between 20-30 learners is recommended</strong>, for both pedagogical and workload reasons. A minimum

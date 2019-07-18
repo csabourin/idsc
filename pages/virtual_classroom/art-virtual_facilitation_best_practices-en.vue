@@ -16,7 +16,7 @@
       in your virtual session. One of the biggest mistakes you can make as a virtual
       facilitator is to talk to your computer screen. On the other side of your
       screen are real people &ndash; never forget that. Connect with your audience!
-      Just because you can&rsquo;t see them, does not mean that you cannot move
+      Just because you can't see them, does not mean that you cannot move
       beyond the screen and make a connection. Crack a joke (an appropriate one), get
       to know participant names and expertise, share stories, be open, honest and
       very respectful.
@@ -33,7 +33,7 @@
     <p>
       Time really does fly by quickly in the virtual world. Be sure to start on
       time and end on time and keep an eye on your activity timing throughout the
-      session so that you don&rsquo;t run out of time on your final slides. Your
+      session so that you don't run out of time on your final slides. Your
       participants may ask very pertinent questions or may start up an interesting
       discussion during your sessions. If you see value in allotting more time than
       what was planned on a particular topic, feel free to do so, but it is a good
@@ -47,17 +47,17 @@
     <p>
       Think back to a boring, monotonous teacher from your past (we all have one)
       and how easy it was to zone out and escape that class. How motivated did you
-      feel? How much did you actually learn and retain from that teacher? Don&rsquo;t
+      feel? How much did you actually learn and retain from that teacher? Don't
       be that teacher!
     </p>
 
     <p>
       Your voice is an important tool in the traditional classroom and this
       applies tenfold in a virtual classroom. Your audience has two main stimulators:
-      their screen and your voice.&nbsp; Show your enthusiasm, your passion, your
+      their screen and your voice. Show your enthusiasm, your passion, your
       confidence and your smile through your voice. Accentuate intonations, speak up,
       be expressive, and maintain a good pace. Ask your producer to let you know
-      privately if there&rsquo;s an energy drop in your voice during the session. Try
+      privately if there's an energy drop in your voice during the session. Try
       standing up on occasion, using hand gestures when you speak, stretching
       regularly - whatever works for you.
     </p>
@@ -68,13 +68,13 @@
       One of the biggest challenges in the virtual classroom for many instructors
       is the lack of non-verbal cues. How do I know if someone is checking their
       email or zoning out during my session? How do I know if they understand my
-      content if I can&rsquo;t read it in their eyes?
+      content if I can't read it in their eyes?
     </p>
 
     <p>
       There are ways to &ldquo;see&rdquo; your audience without non-verbal cues of
-      the traditional classroom.&nbsp; Generally speaking, low participation is a big
-      indicator that your participants aren&rsquo;t &ldquo;with you&rdquo;. Slow
+      the traditional classroom. Generally speaking, low participation is a big
+      indicator that your participants aren't &ldquo;with you&rdquo;. Slow
       response times can (on occasion) also be an indicator of absent
       participants.
     </p>
@@ -90,7 +90,7 @@
     <p>
       We have all felt butterflies before delivering presentation or course
       before. You will likely feel those same jitters before your first few virtual
-      sessions as well. It&rsquo;s normal when you move to a new teaching
+      sessions as well. It's normal when you move to a new teaching
       environment, when the technology is new and when your audience is distant.
     </p>
 
@@ -101,7 +101,7 @@
       &ldquo;see&rdquo; is your trembling or cracking voice. Increase your confidence
       by rehearsing your content and knowing your new virtual environment as best you
       can. Be forthcoming about being a WebEx newbie, let your producer support you
-      and try to have fun. If you aren&rsquo;t, THeY aren&rsquo;t!
+      and try to have fun. If you aren't, THeY aren't!
     </p>
 
     <h3>Stick to the need-to-know</h3>
@@ -157,7 +157,7 @@
       &ldquo;Click on the pencil tool at the top left of the screen.&rdquo; Sounds
       simple enough, yes, but all too often inexperienced virtual instructors forget
       to accompany the what with the how, which results in participants feeling lost,
-      incompetent, frustrated and disengaged.&nbsp; Never leave anyone in the
+      incompetent, frustrated and disengaged. Never leave anyone in the
       dust.
     </p>
 
@@ -167,7 +167,7 @@
       dead silence or total chaos. Do you expect a verbal answer? Should they raise
       their hand, answer via chat, use a green checkmark or red X, or jot their
       answer on the whiteboard? If you do not tell them how to answer, they simply
-      won&rsquo;t or they will answer using different tools making the answers hard
+      won't or they will answer using different tools making the answers hard
       to manage.
     </p>
 
@@ -175,7 +175,7 @@
 
     <p>
       even if you did accompany your question with technical direction,
-      don&rsquo;t always expect that answers to be instantaneous. Your participants
+      don't always expect that answers to be instantaneous. Your participants
       not only need to process your question and locate the right functionality, they
       also need time to reflect on their answer (and sometimes type it!). A few
       seconds can seem like eternity in the virtual world so resist the urge to
@@ -184,13 +184,13 @@
       rephrasing your question or calling on a participant.
     </p>
 
-    <h3>Create trust &ndash; don&rsquo;t expect it</h3>
+    <h3>Create trust &ndash; don't expect it</h3>
 
     <p>
       Your participants are all adults and adults like to feel respected,
       appreciated and contributing. They do not like to be put on the spot or made to
       feel incompetent. Thank your volunteers, hand out virtual high fives, ask the
-      experts, be the guide on the side. Remember that they can&rsquo;t see you
+      experts, be the guide on the side. Remember that they can't see you
       either and that can make them feel more reserved or uncomfortable. Make your
       virtual classroom a &ldquo;safe place&rdquo; for participation and opinions.
       The earlier on in your session that you are able to display this, the more your
@@ -210,7 +210,7 @@
       continue your session with regained energy.
     </p>
 
-    <h3>Don&rsquo;t blame the technology</h3>
+    <h3>Don't blame the technology</h3>
 
     <p>
       When something goes wrong in the virtual classroom, all too often people are
@@ -231,8 +231,8 @@
       You will run into the occasional glitch during your sessions &ndash; that is
       simply a risk we must accept when we use technology. That being said, glitches
       are usually minimal and can be resolved rather quickly. The golden rule to
-      remember is to keep your cool. Don&rsquo;t panic, control the anxiety in your
-      voice, keep your group&rsquo;s stress-level to a minimum and focus on how best
+      remember is to keep your cool. Don't panic, control the anxiety in your
+      voice, keep your group's stress-level to a minimum and focus on how best
       to get everyone on track as quickly as possible. If the issue only involves a
       single participant, ask your producer to lend assistance using private chat
       while you continue your session.

@@ -43,7 +43,7 @@
           Copyright Agreement
         </h3>
         <p> BeTWeeN: <span class="rouge">[Name and address of Copyright holder of Work(s)]</span> hereinafter the "Copyright holder" </p>
-        <p> AND: Canada School of Public Service hereinafter "CSPS"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 373 Sussex Drive, Ottawa, ON K1N 6Z2 </p>
+        <p> AND: Canada School of Public Service hereinafter "CSPS"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 373 Sussex Drive, Ottawa, ON K1N 6Z2 </p>
         <p> The CSPS has acquired the Work(s) set out below and wishes to enter into this Agreement with the Copyright holder to enable the CSPS to reproduce the Work(s) in the CSPS’s curricula, publications, web sites, and online databases and other purposes within the CSPS’s mandate to develop and maintain curriculum and create and disseminate knowledge. </p>
         <p> The Copyright holder and the CSPS agree as follows: </p>
         <h4 class="titre">
@@ -171,8 +171,8 @@
         <h3 class="titre">
           Agreement for use of copyrighted work(s) owned by the Canada School of Public Service
         </h3>
-        <p> BeTWeeN APPLICANT:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="rouge">[Name and address of applicant]</span> </p>
-        <p> AND: Canada School of Public Service, hereafter “CSPS”<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 373 Sussex Drive, Ottawa, ON, K1N 6Z2 </p>
+        <p> BeTWeeN APPLICANT:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="rouge">[Name and address of applicant]</span> </p>
+        <p> AND: Canada School of Public Service, hereafter “CSPS”<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 373 Sussex Drive, Ottawa, ON, K1N 6Z2 </p>
         <p> The CSPS is the copyright owner of the following work(s) and wishes to enter into a non-exclusive and non-transferable agreement with the applicant to allow the applicant to use the work(s) solely for authorized uses. </p>
         <p> The CSPS and the applicant agree as follows: </p>
         <h4 class="titre">

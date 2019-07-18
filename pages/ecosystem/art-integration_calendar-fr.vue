@@ -32,16 +32,16 @@
                     <li>Changement et Innovation phase 2</li>
                     <li>Programme de perfectionnement des superviseurs</li>
                     <li>Formation en langue seconde</li>
-                    <li>Am&eacute;liorations techniques</li>
+                    <li>Améliorations techniques</li>
                 </ul>
                 <h4>Lancement 4: Avril</h4>
                 <ul>
                     <li>essentiels phase 2</li>
-                    <li>Perfectionnement sp&eacute;cialis&eacute; / Communaut&eacute;s fonctionnelles</li>
+                    <li>Perfectionnement spécialisé / Communautés fonctionnelles</li>
                 </ul>
                 <h4>Lancement 5: Septembre</h4>
                 <ul>
-                    <li>Orientation &agrave; la fonction publique</li>
+                    <li>Orientation à la fonction publique</li>
                     <li>Perfectionnement des cadres phase 2</li>
                     <li>Programme de perfectionnement des superviseurs phase 2</li>
                     <li>Ajouts et changements prioritaires</li>
@@ -53,7 +53,7 @@
                 </summary>
                 <h4>Lancement 6: Janvier</h4>
                 <ul>
-                    <li>Perfectionnement sp&eacute;cialis&eacute; / Communaut&eacute;s fonctionnelles phase 2</li>
+                    <li>Perfectionnement spécialisé / Communautés fonctionnelles phase 2</li>
                 </ul>
                 <h4>Lancement 7: Avril</h4>
                 <ul>

@@ -15,14 +15,14 @@
     <ul>
       <li>Subscribe to other Blogs (Google alerts, Twitter, Facebook, RSS feeder, Linked In)</li>
       <li>expand: Post follow ups to your previous posts</li>
-      <li>Readers&rsquo; Choice:&nbsp;Ask them what they want to read about</li>
+      <li>Readers' Choice:&nbsp;Ask them what they want to read about</li>
       <li>Write About experiences</li>
       <li>Welcome Guest Posts</li>
       <li>Mind Mapping: Jot down whatever comes to your head about a topic</li>
       <li>Make Top 10 Lists</li>
-      <li>Ask your readers&rsquo; questions</li>
+      <li>Ask your readers' questions</li>
       <li>Accept questions from your readers</li>
-      <li>Write a response to someone else&rsquo;s post</li>
+      <li>Write a response to someone else's post</li>
       <li>Have regular topic brainstorming sessions</li>
       <li>Reintroduce old topics and give a new reason to read it</li>
       <li>Interview someone (expert in your field, another blogger)</li>

@@ -43,7 +43,7 @@
           Accord sur le droit d'auteur
         </h3>
         <p> ENTRE : <span class="rouge">[Nom et adresse du ou de la titulaire du droit d’auteur d’une ou de plusieurs &oelig;uvres]</span> ci-après le ou la « titulaire du droit d’auteur » </p>
-        <p> ET : École de la fonction publique du Canada, ci-après « EFPC »<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 373, promenade Sussex, Ottawa, ON K1N 6Z2 </p>
+        <p> ET : École de la fonction publique du Canada, ci-après « EFPC »<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 373, promenade Sussex, Ottawa, ON K1N 6Z2 </p>
         <p> L’ EFPC a acquis l’&oelig;uvre ou les &oelig;uvres listées ci-dessous et désire conclure le présent accord avec le ou la titulaire du droit d’auteur en vue de permettre à l’ EFPC de reproduire l’&oelig;uvre ou les &oelig;uvres dans son programme, ses publications, ses bases de données en ligne et sur ses sites Web, ainsi qu’à d’autres fins dans le cadre de son mandat d’élaborer et de mettre à jour des programmes, ainsi que de créer et de diffuser le savoir. </p>
         <p> Le ou la titulaire du droit d’auteur convient de ce qui suit : </p>
         <h4 class="titre">
@@ -171,8 +171,8 @@
         <h3 class="titre">
           Entente d’utilisation d’une ou des &oelig;uvres dont les droits d’auteur appartiennent à l’École de la Fonction publique du Canada
         </h3>
-        <p> ENTRE LE DEMANDEUR :<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="rouge">[Nom et adresse du demandeur]</span> </p>
-        <p> ET : l’École de la fonction publique du Canada, ci-après « l’EFPC »<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 373, promenade Sussex, Ottawa, ON K1N 6Z2 </p>
+        <p> ENTRE LE DEMANDEUR :<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="rouge">[Nom et adresse du demandeur]</span> </p>
+        <p> ET : l’École de la fonction publique du Canada, ci-après « l’EFPC »<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 373, promenade Sussex, Ottawa, ON K1N 6Z2 </p>
         <p> L’EFPC est titulaire des droits d’auteur pour les &oelig;uvres ci-dessous et désire conclure un accord non-exclusif et non-transférable avec le demandeur en vue de lui permettre de reproduire l’&oelig;uvre ou les &oelig;uvres à des fins non-commerciales. </p>
         <p> L’EFPC et le demandeur conviennent de ce qui suit : </p>
         <h4 class="titre">

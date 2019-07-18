@@ -1,7 +1,7 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
     <h2>exemples de blogues</h2>
-    <p>Voulez-vous voir des exemples de bons blogues? Consultez ces excellents exemples portant sur une variété de thèmes. Vous êtes aussi encouragés à chercher des blogues spécifiques à vos champs d&rsquo;intérêt et vous y abonner. Les blogues sont une excellente méthode d&rsquo;apprentissage sur le pouce pour tous.</p>
+    <p>Voulez-vous voir des exemples de bons blogues? Consultez ces excellents exemples portant sur une variété de thèmes. Vous êtes aussi encouragés à chercher des blogues spécifiques à vos champs d'intérêt et vous y abonner. Les blogues sont une excellente méthode d'apprentissage sur le pouce pour tous.</p>
     <p><a href="http://www.denisebeaulne.com/fr/blogue.html" target="_blank">La magie de la formation animée<br></a> Blogue de Denise Beaulne, consultante en formation et en animation de groupe.</p>
     <p>
       <a href="http://www.elfontario.ca/blog/" target="_blank">Un monde de possibilités</a><br>

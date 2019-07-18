@@ -79,7 +79,7 @@
         <td align="left" valign="top">
           <p>
             No. The blog is posted regardless of the language it is written in.<br>
-            Note: Blogging in a formal capacity, in GCcampus OR in GCconnex,    should be in both OL. The fact that there is no language choice in GCconnex    just means that the language of the interface doesn&rsquo;t sort the language of    the content.
+            Note: Blogging in a formal capacity, in GCcampus OR in GCconnex,    should be in both OL. The fact that there is no language choice in GCconnex    just means that the language of the interface doesn't sort the language of    the content.
           </p>
         </td>
         <td align="left" valign="top">
@@ -170,7 +170,7 @@
           <p>Hyperlinks </p>
         </td>
         <td align="left" valign="top">
-          <p>Need to be inserted (emails and hyperlinks don&rsquo;t become clickable    once the blog is saved) </p>
+          <p>Need to be inserted (emails and hyperlinks don't become clickable    once the blog is saved) </p>
         </td>
         <td align="left" valign="top">
           <p>Web page addresses and e-mail addresses turn into links    automatically.</p>

@@ -2,8 +2,8 @@
   <div id="articleContent" class="ajaxed-in">
     <h2>Learning Mode Decision Making Framework</h2>
     <p>
-      This quick reference tool lists the School&rsquo;s available learning
-      modes (from the learning ecosystem) and each mode&rsquo;s suitability to
+      This quick reference tool lists the School's available learning
+      modes (from the learning ecosystem) and each mode's suitability to
       respond to the key business factors, e.g. reduce time to performance,
       respond to limited time for training, etc. Also see Guidelines for
       Designing Technology Supported Learning for links and information about

@@ -20,7 +20,7 @@
       </dd>
       <dt>Short sentences and paragraphs</dt><dd>
         <ul>
-          <li>Too much wordiness slows down the user&rsquo;s ability to complete the task or procedure quickly.</li>
+          <li>Too much wordiness slows down the user's ability to complete the task or procedure quickly.</li>
         </ul>
       </dd>
       <dt>Clear and simple visuals </dt><dd>
@@ -45,7 +45,7 @@
       </dd>
       <dt>Consistent color palettes</dt><dd>
         <ul>
-          <li>Use approved School color palettes throughout the job-aid&rsquo;s graphic design and font color.</li>
+          <li>Use approved School color palettes throughout the job-aid's graphic design and font color.</li>
           <li>ensure colour contrasts are accessible.</li>
         </ul>
       </dd>

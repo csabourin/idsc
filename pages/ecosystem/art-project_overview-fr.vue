@@ -13,7 +13,7 @@
         </div>
       </div>
       <div class="contentbox cb-ur">
-        <p>Hébergement de vid&eacute;os</p>
+        <p>Hébergement de vidéos</p>
         <div class="round upperright">
           <p>Kaltura</p>
         </div>

@@ -10,7 +10,7 @@
       <li>is the <strong>instructor/facilitator</strong> (including associate faculty and contractors) of learning</li>
     </ul>
     <ul type="disc">
-      <li>Copyright Directive.docx&nbsp; <a href="http://gcdocs/otcs/llisapi.dll/properties/10368983">http://gcdocs/otcs/llisapi.dll/properties/10368983</a></li>
+      <li>Copyright Directive.docx <a href="http://gcdocs/otcs/llisapi.dll/properties/10368983">http://gcdocs/otcs/llisapi.dll/properties/10368983</a></li>
       <li>Copyright Guide.docx <a href="http://gcdocs/otcs/llisapi.dll/properties/10081087">http://gcdocs/otcs/llisapi.dll/properties/10081087</a></li>
     </ul>
   </div>

@@ -81,7 +81,7 @@
     <p>To see an overview of the features, functionalities and uses of the 3 different platforms, please see the <a href="../../content_sections/virtual_classroom/webex-comparison-en.html" target="_blank">WebEx Comparison Table</a>.</p>
     <p>
       If you are a CSPS employee who is wants to host meetings, events, or give presentations and are not delivering training, you can obtain
-      a WebEx account for meeting purposes though GTS.&nbsp; GTS offers basic technical training for Meeting Centre.
+      a WebEx account for meeting purposes though GTS. GTS offers basic technical training for Meeting Centre.
     </p>
     <p>For more information on the GTS WebEx accounts, please visit the <a href="http://www.gcpedia.gc.ca/wiki/GTS_WebEx" target="_blank">GCpedia page</a>.</p>
     <p>

@@ -4,7 +4,7 @@
 
     <p>Si vous désirez en apprendre davantage sur la conception de vidéos ou sur l'enseignement par vidéos, les ressources suivantes sont recommandées</p>
 
-    <h3>Vid&eacute;os</h3>
+    <h3>Vidéos</h3>
 
     <ul class="fa-ul">
       <li>

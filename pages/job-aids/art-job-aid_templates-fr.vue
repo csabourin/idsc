@@ -11,7 +11,7 @@
     </head>
     <body>
       <div id="articleContent" class="ajaxed-in">
-        <h2>Mod&egrave;les pour outils de travail</h2>
+        <h2>Modèles pour outils de travail</h2>
         <div class="row">
           <div class="col-sm-6">
             <img alt="" height="194" src="http://gcdocs.csps-efpc.gc.ca/contentserverdav/nodes/6937685/assets/job-aids/jobaid_template1_fr.png" width="200"><br>

@@ -17,7 +17,7 @@
           <dd>Le coordonnateur du studio transmet par courriel le lien de la vidéo au propriétaire du contenu et à
             GCcampus</dd>
           <dt class="circle" />
-          <dd>Le coordonnateur du studio transmet au fournisseur de services&nbsp; une demande de transcription &nbsp;si
+          <dd>Le coordonnateur du studio transmet au fournisseur de services une demande de transcription &nbsp;si
             nécessaire, &nbsp;ainsi qu'une demande traduction. &nbsp;</dd>
           <dt class="circle" />
           <dd>Le coordonnateur du studio reçoit la transcription du fournisseur de services et les transmet au

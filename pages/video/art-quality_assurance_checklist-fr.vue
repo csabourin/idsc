@@ -7,7 +7,7 @@
     <p>Téléchargez la <a href="~/assets/video/Voiceover_script_quality_assurance_checklist-fr.pdf" download>liste de vérification </a> ici</p>
     <p class="text-center">
       <img
-        alt="Apper&ccedil;u de la liste de vérification"
+        alt="Apperçu de la liste de vérification"
         src="~/assets/video/voiceover_script_QA_checklist-fr.jpg"
       >
     </p>

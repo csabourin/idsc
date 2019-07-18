@@ -87,22 +87,22 @@
               <span class="glyphicon glyphicon-book fa-li" />Lebrun, Marcel&nbsp;: 2002. <a
                 href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO27244&Se=763&RF=Brief+english&eF=&DF=Full+english&IR=3406"
                 target="_blank"
-              >Th&eacute;ories et m&eacute;thodes p&eacute;dagogiques pour enseigner et apprendre</a>.
-              Bruxelles&nbsp;: De Broek Universit&eacute;.
+              >Théories et méthodes pédagogiques pour enseigner et apprendre</a>.
+              Bruxelles&nbsp;: De Broek Université.
             </li>
 
             <li>
               <span class="glyphicon glyphicon-book fa-li" />Lewandowski, Jean-Claude&nbsp;: 2004. <a
                 href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO5641&Se=637&CS=1&RF=Brief+english&eF=&DF=Full+english&RL=1&DL=0&NP=2&ID=&MF=WPFreMsg.ini&IR=3479"
                 target="_blank"
-              >Sur les nouvelles fa&ccedil;ons de former</a>. Cedex, Paris&nbsp;: &eacute;ditions d'Organisation.
+              >Sur les nouvelles façons de former</a>. Cedex, Paris&nbsp;: éditions d'Organisation.
             </li>
             <li>
               <span class="glyphicon glyphicon-book fa-li" />Paquette, Gilbert&nbsp;: 2002. <a
                 href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO7169&Se=640&RN=2&MR=20&TX=1000&CS=1&XP=&RF=Brief+english&eF=&DF=Full+english&IR=3357"
                 target="_blank"
-              >L'ing&eacute;nierie p&eacute;dagogique</a>. Sainte-Foy&nbsp;: Presses de l'Universit&eacute; du
-              Qu&eacute;bec.
+              >L'ingénierie pédagogique</a>. Sainte-Foy&nbsp;: Presses de l'Université du
+              Québec.
             </li>
           </ul>
         </details>
@@ -118,12 +118,12 @@
           </p>
           <ul class="fa-ul">
             <li>
-              <span class="fa fa-book fa-li" />Gauthier, Clermont, et V&eacute;ronique Jobin. <a
+              <span class="fa fa-book fa-li" />Gauthier, Clermont, et Véronique Jobin. <a
                 href="//search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=265652&lang=fr&site=ehost-live"
                 target="_blank"
               >Moins c'est
-                souvent mieux : Guide des principes d'enseignement multim&eacute;dia &eacute;labor&eacute;s &agrave; partir de recherches en psychologie
-                cognitive.</a> Qu&eacute;bec: Les Presses de L'Universite Laval, 2009.
+                souvent mieux : Guide des principes d'enseignement multimédia élaborés à partir de recherches en psychologie
+                cognitive.</a> Québec: Les Presses de L'Universite Laval, 2009.
             </li>
             <li>
               <span class="fa fa-book fa-li" />Kruse, Kevin, et Jason Keil. <a
@@ -171,8 +171,8 @@
           </summary>
           <h3>Web Resources</h3>
           <p>
-            Si vous souhaitez savoir plus sur la conception p&eacute;dagogique, les ressources en ligne suivantes sont
-            recommand&eacute;es.
+            Si vous souhaitez savoir plus sur la conception pédagogique, les ressources en ligne suivantes sont
+            recommandées.
           </p>
           <ul class="fa-ul">
             <li>
@@ -180,11 +180,11 @@
             </li>
             <li>
               <a href="//blogs.articulate.com/les-essentiels-du-elearning/" target="_blank">Les essentiel du e-learning</a> (les concepts
-              s&rsquo;appliquent &agrave; la conception p&eacute;dagogique en g&eacute;n&eacute;rale aussi)
+              s'appliquent à la conception pédagogique en générale aussi)
             </li>
             <li>
               <a href="http://www.fao.org/publications/card/en/c/14a65a2c-6596-5f72-8a82-02cab9a8b150/" target="_blank">Un guide pour concevoir et
-                &eacute;laborer des cours d&rsquo;apprentissage num&eacute;rique</a> &ndash; FAO.org
+                élaborer des cours d'apprentissage numérique</a> &ndash; FAO.org
             </li>
             <li>
               <a href="//educavox.fr/" target="_blank">Les media des formateurs</a>
@@ -213,7 +213,7 @@
                 Strategies</a>
             </li>
             <li>
-              <a href="http://www2.le.ac.uk/projects/oer/oers/beyond-distance-research-alliance/7Cs-toolkit" target="_blank">The 7C&rsquo;s of
+              <a href="http://www2.le.ac.uk/projects/oer/oers/beyond-distance-research-alliance/7Cs-toolkit" target="_blank">The 7C's of
                 Learning Design Toolkit &ndash; University of Leister</a>
             </li>
             <li>

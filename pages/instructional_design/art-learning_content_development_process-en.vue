@@ -1,9 +1,9 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
-    <h2>Learning Content Development Process:&nbsp; Decision Points</h2>
+    <h2>Learning Content Development Process: Decision Points</h2>
     <p>
       The Learning Content Development Process (LCDP) has three objectives: &nbsp;it ensures the standardization of the design and development
-      of content, it aligns with the School&rsquo;s capacity to deliver and it responds to learning needs of the Public Service and Government
+      of content, it aligns with the School's capacity to deliver and it responds to learning needs of the Public Service and Government
       priorities.
     </p>
     <p>

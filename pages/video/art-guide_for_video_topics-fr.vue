@@ -15,11 +15,11 @@
       <li> Conformité </li>
       <li> Responsabilisation  </li>
       <li>Cadre stratégique du Conseil du Trésor </li>
-      <li> Accès à l&rsquo;information et protection des renseignements personnels </li>
+      <li> Accès à l'information et protection des renseignements personnels </li>
       <li> Sécurité </li>
       <li> Finances </li>
       <li> Ressources humaines </li>
-      <li> Gestion de l&rsquo;information </li>
+      <li> Gestion de l'information </li>
       <li> Passation de marchés </li>
       <li> Santé et sécurité au travail </li>
       <li> Maintien des acquis en langues officielles</li>
@@ -31,7 +31,7 @@
       <li>Gestion des processus opérationnels </li>
       <li>Gestion allégée, gestion du changement </li>
       <li>Modifications adaptatives </li>
-      <li>Connaissances en gestion de l&rsquo;information et technologie de l&rsquo;information (GI-TI) </li>
+      <li>Connaissances en gestion de l'information et technologie de l'information (GI-TI) </li>
       <li>Gestion de projet </li>
       <li>Gestion des risques </li>
     </ul>
@@ -49,7 +49,7 @@
         <li>les finances </li>
         <li>les ressources humaines </li>
         <li>la sécurité </li>
-        <li>l&rsquo;approvisionnement </li>
+        <li>l'approvisionnement </li>
       </ul>
     </p><h3>GROUPE CIBLE NO 3</h3>
 
@@ -58,7 +58,7 @@
       <ul>
         <li>la gestion du rendement </li>
         <li>les attentes et comportements des membres de la direction </li>
-        <li>la gestion des personnes et la gestion par l&rsquo;action </li>
+        <li>la gestion des personnes et la gestion par l'action </li>
         <li>la gestion des fonds publics et des ressources </li>
       </ul>
     </p><h3>GROUPE CIBLE NO 4 :</h3>

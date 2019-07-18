@@ -31,7 +31,7 @@
         <h4>When using the job aid could damage credibility</h4>
         <ul>
           <li>In certain situations, using a job aid could damage the credibility of the user. For example, a supervisor who keeps referring to a checklist while giving feedback to an employee about a sensitive issue is not likely to be seen as caring or competent.</li>
-          <li>A job aid that may be appropriate for use in a training situation shouldn&rsquo;t necessarily be used in the same way in a real life situation.</li>
+          <li>A job aid that may be appropriate for use in a training situation shouldn't necessarily be used in the same way in a real life situation.</li>
           <li>When deciding whether a job aid is an appropriate solution, think carefully about how and when it is to be used. Ask yourself whether the person using the job aid might be seen by others as not having the skills or knowledge required to do the job.</li>
         </ul>
         <h4>When a rapid response or quick performance is required</h4>
