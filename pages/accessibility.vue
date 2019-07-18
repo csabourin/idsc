@@ -1,6 +1,6 @@
 <template>
   <div class="row">
-    <div class="col-md-3">
+    <div class="col-md-2">
       <nuxt-link to="/">
         {{ homepage[lang] }}
       </nuxt-link>
@@ -12,9 +12,9 @@
         visible
         role="tabpanel"
       >
-        <a v-b-toggle="'accordion-' + index" href="#" :item="item">
+        <b-button v-b-toggle="'accordion-' + index" variant="light" class="col-md-12 text-left">
           {{ item.name[lang] }}
-        </a>
+        </b-button>
         <b-collapse :id="'accordion-'+ index" accordion="my-accordion" :visible="isVisible(item.group)" role="tabpanel">
           <ul>
             <li v-for="(sub,indexed) in item.links" :key="indexed" class="listItem list-unstyled">
@@ -28,7 +28,7 @@
 
       <br>
     </div>
-    <div class="col-md-9">
+    <div class="col-md-10">
       <nuxt-child />
     </div>
   </div>

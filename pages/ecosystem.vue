@@ -1,14 +1,20 @@
 <template>
   <div class="row">
-    <div class="col-md-3">
+    <div class="col-md-2">
       <nuxt-link to="/">
         {{ homepage[lang] }}
       </nuxt-link>
       <br>
-      <div v-for="(item, index) in menu" :key="index" visible role="tabpanel">
-        <a v-b-toggle="'accordion-' + index" href="#" :item="item">
+
+      <div
+        v-for="(item, index) in menu"
+        :key="index"
+        visible
+        role="tabpanel"
+      >
+        <b-button v-b-toggle="'accordion-' + index" variant="light" class="col-md-12 text-left">
           {{ item.name[lang] }}
-        </a>
+        </b-button>
         <b-collapse :id="'accordion-'+ index" accordion="my-accordion" :visible="isVisible(item.group)" role="tabpanel">
           <ul>
             <li v-for="(sub,indexed) in item.links" :key="indexed" class="listItem list-unstyled">
@@ -19,9 +25,10 @@
           </ul>
         </b-collapse>
       </div>
+
       <br>
     </div>
-    <div class="col-md-9">
+    <div class="col-md-10">
       <nuxt-child />
     </div>
   </div>
@@ -67,10 +74,9 @@ export default {
       this.$router.push(tempPath + this.$store.state.lang)
     }
   },
-  methods: {
-    isVisible(group) {
-      return this.$route.matched[0].name === group
-    }
+  methods: { isVisible(group) {
+    return this.$route.matched[0].name === group
+  }
   }
 }
 
