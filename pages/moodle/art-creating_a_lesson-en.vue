@@ -1,7 +1,5 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
-    <script type="text/javascript" src="../../js/contentreload.js" />
-
     <script src="/lib/js/KalturaEmbedCodeGenerator-1.0.6.min.js" />
 
     <!-- InstanceBeginEditable name="VideoBlurb" -->

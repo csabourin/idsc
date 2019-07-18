@@ -5,7 +5,7 @@
     <p>
       Un remue-méninges vise à trouver des idées. Au début, vous trouverez facilement des sujets pour votre blogue,
       mais après un certain temps, il se pourrait que les idées ne viennent plus aussi facilement. Servez-vous de l'Outil
-      de travail â€“ Remue-méninges sur les sujets de blogues pour consigner des idées pour les mois à venir. Vous aurez
+      de travail - Remue-méninges sur les sujets de blogues pour consigner des idées pour les mois à venir. Vous aurez
       ainsi une vision plus précise qui vous permettra de mieux planifier le contenu de vos billets.
     </p>
 

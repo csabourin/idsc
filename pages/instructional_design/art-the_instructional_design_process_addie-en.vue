@@ -1,22 +1,21 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
     <h2>The Instructional Design Process</h2>
-    <p>When designing instruction, you take a complex activity and break it down into achievable steps. The ADDIE model (an acronym for the 5 major design phases: Analyse, Design, Develop, Implement and evaluate) provides a framework for instructional design. See this <a href="http://www.learndash.com/addie-model-explained-infographic/" target="_blank">blogged infographic</a> for a summary of ADDIe</p>
+    <p>When designing instruction, you take a complex activity and break it down into achievable steps. The ADDIE model (an acronym for the 5 major design phases: Analyse, Design, Develop, Implement and Evaluate) provides a framework for instructional design. See this <a href="http://www.learndash.com/addie-model-explained-infographic/" target="_blank">blogged infographic</a> for a summary of ADDIE</p>
     <p>Remember that although the phases are expressed in a linear fashion, there is some flexibility in the way one designs. In particular, evaluation, though expressed at the end of the process, should be taking place throughout. The ADDIe sequence nevertheless organises the tasks involved in the creation of a learning product.</p>
-    <p>Navigate the lettered tabs below for information and job aids that can be used during your ADDIe design process.</p>
+    <p>Navigate the lettered tabs below for information and job aids that can be used during your ADDIE design process.</p>
     <div class="wb-tabs ignore-session">
-      <div class="tabpanels">
-        <details id="details-panel1" open>
-          <summary> A </summary>
+      <b-tabs content-class="mt-3">
+        <b-tab title="A" active>
           <h3>Analysis Phase:</h3>
           <p>
             During the Analysis Phase you take stock of what exists and what is desired of the learning product. Needs and goals are analysed. Gaps in knowledge, skill and performance are identified. Tasks are broken down into their component parts. <a href="http://www.tbs-sct.gc.ca/psm-fpfm/learning-apprentissage/ptm-grt/pmc-dgr/smart-eng.asp" target="_blank"><abbr
               title="SMART objectives are:
-    Specific â€“ target a specific area for improvement.
-    Measurable â€“ quantify or suggest an indicator of progress.
-    Assignable â€“ specify who will do it.
-    Realistic â€“ state what results can realistically be achieved, given available resources.
-    Time-bound â€“ specify when the result(s) can be achieved.
+    Specific - target a specific area for improvement.
+    Measurable - quantify or suggest an indicator of progress.
+    Assignable - specify who will do it.
+    Realistic - state what results can realistically be achieved, given available resources.
+    Time-bound - specify when the result(s) can be achieved.
 "
             >SMART</abbr></a> learning objectives are developed. Resources and materials are itemized. The information from the analysis is used to complete the deliverables of this phase:
           </p>
@@ -86,9 +85,8 @@
               </details>
             </li>
           </ol>
-        </details>
-        <details id="details-panel2">
-          <summary> D </summary>
+        </b-tab>
+        <b-tab title="D">
           <h3>Design Phase</h3>
           <p>The design phase is where you use the information from your analyses to create the blueprint for a learning product that meets your clients&rsquo; needs. The design phase involves identifying strategies to fulfill the learning objectives, establishing an evaluation methodology, creating exercises and content, selecting the appropriate delivery method. If you are using multi-media elements you will also develop storyboards and scripts. The design phase is where you systematically chunk your learning content in a logical manner.</p>
           <p>This phase has 4 steps:</p>
@@ -156,9 +154,8 @@
               </details>
             </li>
           </ol>
-        </details>
-        <details id="details-panel3">
-          <summary> D </summary>
+        </b-tab>
+        <b-tab title="D">
           <h3>Development Phase</h3>
           <p>The development phase focuses on creating prototypes and developing course materials. Pilots should be run and evaluated during this phase. The key deliverables of the Development phase can include:</p>
           <ul>
@@ -213,9 +210,8 @@
             <li>Get learners feedback from pilot</li>
             <li>Make the necessary changes to materials</li>
           </ul>
-        </details>
-        <details id="details-panel4">
-          <summary> I </summary>
+        </b-tab>
+        <b-tab title="I">
           <h3>Implementation Phase</h3>
           <p>The Implementation Phase is when the course is ready to go live. This involves the logistics and the launch. These will vary depending on the delivery mode or modes employed.</p>
           <ul>
@@ -241,10 +237,10 @@
             <li><strong>Attendance forms</strong> (depending on training delivery mode)</li>
           </ul>
           <p>The Learning Services Team can help you with this. See the <a href="//intranet.myschool-monecole.gc.ca/cdd/ProductDevelopment_e.asp" target="_blank">Product Development page</a> on our intranet for standardized templates and forms for course deliverables.</p>
-        </details>
-        <details id="details-panel5">
-          <summary> e </summary>
-          <h3>evaluation Phase</h3>
+        </b-tab>
+
+        <b-tab title="E">
+          <h3>Evaluation Phase</h3>
           <p>The evaluation Phase spans the entire Analysis to Development (and beyond) process, even if it appears at the end in the stated sequence. evaluation needs to include both formative and summative measures. For example, you will have developed the tools for gathering learner feedback at the design phase. At the development phase you worked on the testing tools to assess achievement of the learning objectives. These will indicate if the course is meeting its stated objectives. The <a href="mailto:csps.evaluation.efpc@canada.ca">evaluation team</a> is there to help you with these things.</p>
           <ul>
             <li>
@@ -262,8 +258,11 @@
             <li>Share report with clients and appropriate management.</li>
             <li>If necessary, develop a revision plan.</li>
           </ul>
-        </details>
-      </div>
+        </b-tab>
+
+        </b-tab>
+      </b-tabs>
     </div>
+  </div>
   </div>
 </template>

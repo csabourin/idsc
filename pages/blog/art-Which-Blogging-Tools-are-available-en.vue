@@ -211,7 +211,7 @@
       </tr>
       <tr>
         <td align="right" valign="top" bgcolor="#eeeeeeeee">
-          Audience â€“ who can see
+          Audience - who can see
         </td>
         <td align="left" valign="top">
           <p>Access can be set to:</p>
@@ -258,7 +258,7 @@
           Group blog: owner and operators have the right to delete or edit comments. Individual blog: blogger can delete comments.
         </td>
         <td align="left" valign="top">
-          No â€“ feature part of future enhancements
+          No - feature part of future enhancements
         </td>
       </tr>
       <tr>
@@ -302,7 +302,7 @@
           Previous  posts by individual or within groups are centralized under Blog or Group blog.
         </td>
         <td align="left" valign="top">
-          Previous posts by individual are centralized under contributors list (left side menu) â€“ with number of posts published to date.
+          Previous posts by individual are centralized under contributors list (left side menu) - with number of posts published to date.
         </td>
       </tr>
       <tr>

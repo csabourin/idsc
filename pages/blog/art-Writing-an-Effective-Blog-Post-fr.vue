@@ -41,7 +41,7 @@
       <ul>
         <li>Commencez par un titre provisoire.</li>
         <li>Au moment de peaufiner votre titre, souvenez vous qu'il est important qu'il soit pertinent, clair et informatif.</li>
-        <li>Puis, tentez de le rendre accrocheur â€“ que ce soit grâce à l'utilisation de termes bien sentis, d'allitérations ou d'un autre procédé littéraire â€“ afin d'inciter vos lecteurs à ouvrir votre billet de blogue.</li>
+        <li>Puis, tentez de le rendre accrocheur - que ce soit grâce à l'utilisation de termes bien sentis, d'allitérations ou d'un autre procédé littéraire - afin d'inciter vos lecteurs à ouvrir votre billet de blogue.</li>
         <li>enfin, voyez s'il est possible de raccourcir votre titre. Personne n'aime un titre long et chargé.</li>
       </ul>
     </details>
@@ -84,7 +84,7 @@
     </details>
     <details>
       <summary><strong>Étape 10 : Maintenir le blogue actif</strong></summary>
-      <p>Chaque billet de blogue que vous publiez comporte une section &laquo; Commentaires &raquo;, où les lecteurs â€“ qu'il s'agisse d'étudiants ou de collègues â€“ peuvent poser des questions et se prononcer sur le contenu de votre article. Tout comme pendant une discussion en salle de classe, vos lecteurs ont l'occasion de contribuer à l'expérience générale d'apprentissage et de la renforcer. Les messages rédigés dans la section &laquo; Commentaires  (y compris les réponses rédigées par l'auteur du blogue) n'ont pas besoin d'être traduits et peuvent être affichés dans la langue choisie par la personne. Ce sont les personnes qui rédigent les commentaires (et non l'auteur du blogue) qui sont responsables des commentaires qu'ils formulent.</p>
+      <p>Chaque billet de blogue que vous publiez comporte une section &laquo; Commentaires &raquo;, où les lecteurs - qu'il s'agisse d'étudiants ou de collègues - peuvent poser des questions et se prononcer sur le contenu de votre article. Tout comme pendant une discussion en salle de classe, vos lecteurs ont l'occasion de contribuer à l'expérience générale d'apprentissage et de la renforcer. Les messages rédigés dans la section &laquo; Commentaires  (y compris les réponses rédigées par l'auteur du blogue) n'ont pas besoin d'être traduits et peuvent être affichés dans la langue choisie par la personne. Ce sont les personnes qui rédigent les commentaires (et non l'auteur du blogue) qui sont responsables des commentaires qu'ils formulent.</p>
       <p><em>Répondre aux commentaires en temps opportun</em> Bien que l'on s'attende à ce que vous preniez connaissance des commentaires tous les deux ou trois jours au cours de la semaine suivant la publication d'un billet (en prenant note des avis que vous recevez par courriel ou en allant visiter la page correspondant à votre billet), il est important de souligner que vous n'êtes pas tenu d'y répondre immédiatement. Vous pouvez vous limiter à accuser réception du commentaire et y revenir plus tard si vous êtes trop occupé pour y répondre dans l'immédiat. </p>
       <p>Tout comme dans la salle de classe, les personnes qui formulent des commentaires peuvent parfois entamer une discussion entre elles. et tout comme dans la salle de classe, vous n'êtes pas tenu d'intervenir à chaque réplique. </p>
     </details>

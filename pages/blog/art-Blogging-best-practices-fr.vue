@@ -65,7 +65,7 @@
       </li>
 
       <li>
-        Il faut savoir assumer notre imperfection â€“ les meilleurs blogueurs sont très humains. Un blogueur peut se
+        Il faut savoir assumer notre imperfection - les meilleurs blogueurs sont très humains. Un blogueur peut se
         permettre d'être moins prudent que l'auteur moyen.
       </li>
     </ul>

@@ -18,10 +18,8 @@
       Naviguez les onglets identifi&eacute;s par des lettres ci-dessous pour avoir de l&rsquo;information et des outils de travail que vous
       pouvez utiliser pendant votre processus de conception &laquo;&nbsp;ADDIE&nbsp;&raquo;.
     </p>
-    <div class="wb-tabs ignore-session">
-      <div class="tabpanels">
-        <details id="details-panel1" open>
-          <summary> A </summary>
+    <b-tabs content-class="mt-3">
+    <b-tab title="A">
           <h3>&eacute;tape d&rsquo;analyse</h3>
           <p>
             Pendant l&rsquo;&eacute;tape d&rsquo;analyse, vous faites le point sur ce qui existe et sur ce que l&rsquo;on souhaite comme
@@ -130,9 +128,8 @@
               </details>
             </li>
           </ol>
-        </details>
-        <details id="details-panel2">
-          <summary> D </summary>
+        </b-tab>
+        <b-tab title="D">
           <h3>&eacute;tape de la conception</h3>
           <p>
             L'&eacute;tape de la conception est le moment où vous utilisez l'information de votre analyse pour cr&eacute;er l'esquisse d'un
@@ -250,9 +247,8 @@
               </details>
             </li>
           </ol>
-        </details>
-        <details id="details-panel3">
-          <summary> D </summary>
+        </b-tab>
+        <b-tab title="D">
           <h3>&eacute;tape de d&eacute;veloppement</h3>
           <p>
             L&rsquo;&eacute;tape de d&eacute;veloppement est ax&eacute;e sur la cr&eacute;ation de prototypes et l&rsquo;&eacute;laboration de
@@ -315,9 +311,8 @@
               <li>Modifications n&eacute;cessaires apport&eacute;es au mat&eacute;riel de cours</li>
             </ul>
           </section>
-        </details>
-        <details id="details-panel4">
-          <summary> I </summary>
+        </b-tab>
+        <b-tab title="I">
           <h3>&eacute;tape de la mise en &oelig;uvre</h3>
           <p>
             L&rsquo;&eacute;tape de la mise en &oelig;uvre, c&rsquo;est le moment o&ugrave; le cours est pr&ecirc;t &agrave; &ecirc;tre
@@ -357,9 +352,8 @@
             </ul>
             <p>L'équipe des Services d'apprentissage peut vous aider. Pour obtenir des gabarits et des formulaires sur les produits livrables, consultez notre <a href="//intranet.myschool-monecole.gc.ca/cdd/ProductDevelopment_f.asp" target="_blank">page de développement des produits</a> sur l'Intranet.</p>
           </section>
-        </details>
-        <details id="details-panel5">
-          <summary> E </summary>
+        </b-tab>
+        <b-tab title="E">
           <h3>&eacute;tape de l&rsquo;&eacute;valuation</h3>
           <p>
             L&rsquo;&eacute;tape de l&rsquo;&eacute;valuation englobe l&rsquo;ensemble du processus, de l&rsquo;analyse au d&eacute;veloppement
@@ -388,8 +382,8 @@
             <li>Transmettre le rapport aux clients et les membres indiqu&eacute;s de la direction.</li>
             <li>Au besoin, &eacute;laborer un plan de r&eacute;vision.</li>
           </ul>
-        </details>
-      </div>
+        </b-tab>
+  </b-tabs>
     </div>
   </div>
   </div>

@@ -16,7 +16,7 @@
           class="menuItem col-md-4"
         >
           <b-card-header v-b-toggle="'accordion-' + index" :item="item">
-            {{ item.name[lang] }}
+            <a href="#"> {{ item.name[lang] }} </a>
           </b-card-header>
           <b-collapse :id="'accordion-'+ index" accordion="my-accordion" role="tabpanel">
             <ul>
@@ -39,12 +39,12 @@ export default {
     return {
       menu,
       SupportCentre: {
-        en: `Support Centre`,
-        fr: `Centre de soutien`
+        en: `Learning Support Centre`,
+        fr: `Centre de soutien à l'apprentissage`
       },
       forID: {
-        en: `for instructional designers`,
-        fr: `pour concepteurs pédagogiques`
+        en: `at the Canada School of Public Service`,
+        fr: `à l'École de la fonction publique du Canada`
       }
     }
   },

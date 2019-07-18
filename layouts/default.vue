@@ -23,7 +23,7 @@ export default {
     htmlAttrs: {
       lang: `en`
     },
-    title: `Instructional Designer Support Centre - Centre de soutien pour concepteurs pédagogiques`
+    title: `CSPS Learning Support Centre - Centre de soutien d'apprentissage de l'EFPC`
   },
   data() {
     return {
@@ -115,4 +115,7 @@ option {
   opacity: 0;
 }
 
+.KalturaVideo{
+  height: 75vh;
+}
 </style>

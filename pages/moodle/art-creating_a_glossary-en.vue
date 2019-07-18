@@ -1,7 +1,6 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
     <!-- codeOutsideHTMLIsLocked="true" -->
-    <script type="text/javascript" src="../../js/contentreload.js" />
     <script src="/lib/js/KalturaEmbedCodeGenerator-1.0.6.min.js" />
     <div id="kaltura_player_1432133541" class="col-md-12 ajaxed-in KalturaVideo" />
     <script>
