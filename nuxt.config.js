@@ -1,6 +1,9 @@
 
 export default {
   mode: 'universal',
+  router: {
+    base: '/idsc/'
+  },
   /*
   ** Headers of the page
   */

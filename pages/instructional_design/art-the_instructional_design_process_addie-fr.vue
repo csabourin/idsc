@@ -4,14 +4,14 @@
     <p>
       Au moment de concevoir du matériel pédagogique, vous prenez une activité complexe et vous la divisez en
       étapes réalisables. Le modèle &laquo;&nbsp;ADDIE&nbsp;&raquo; (un acronyme qui signifie les cinq principales
-      étapes de la conception&nbsp;: Analyse, Conception, Développement, Mise en &oelig;uvre et évaluation) fournit un
+      étapes de la conception&nbsp;: Analyse, Conception, Développement, Mise en œuvre et évaluation) fournit un
       cadre pour la conception pédagogique. Pour en savoir plus, consultez le résumé graphique dans le <a href="//blogs.articulate.com/les-essentiels-du-elearning/une-introduction-au-modele-addie-pour-les-concepteurs-pedagogiques/" target="_blank">ce blogue</a>
     </p>
     <p>
       N'oubliez pas que même si les étapes sont présentées de manière linéaire, il peut y
       avoir de la souplesse dans la façon dont on effectue la conception. Soulignons notamment que même si
       l'évaluation se trouve à la fin du processus, elle doit se faire tout au long de celui-ci. La séquence ADDIE
-      permet néanmoins d'organiser les t&acirc;ches à réaliser au moment de créer un produit
+      permet néanmoins d'organiser les tâches à réaliser au moment de créer un produit
       d'apprentissage.
     </p>
     <p>
@@ -24,7 +24,7 @@
         <p>
           Pendant l'étape d'analyse, vous faites le point sur ce qui existe et sur ce que l'on souhaite comme
           produit d'apprentissage. Vous faites l'analyse des besoins et des objectifs. Vous déterminez les lacunes en
-          matière de connaissances, de compétences et de rendement. Vous décomposez les t&acirc;ches en
+          matière de connaissances, de compétences et de rendement. Vous décomposez les tâches en
           éléments constitutifs. Vous créez des objectifs d'apprentissage <a href="http://www.tbs-sct.gc.ca/psm-fpfm/learning-apprentissage/ptm-grt/pmc-dgr/smart-fra.asp" target="_blank"><abbr title="S-Spécifique M-Measurable A-Atteignable R-Réaliste T-Temporellement défini ">SMART</abbr></a>. Vous
           énumérez les ressources et les documents. L'information qui découle de l'analyse sert à
           réaliser les produits livrables de cette étape :
@@ -115,7 +115,7 @@
           <li>
             <details>
               <summary>
-                <h4>Analyse de la t&acirc;che</h4>
+                <h4>Analyse de la tâche</h4>
               </summary>
               Lorsque vous savez en quoi consiste le cours ou le produit et savez qui sont les apprenants, il
               est temps de décomposer le sujet en segments ou en tâches. Décomposez par la suite ces segments ou tâches en
@@ -175,7 +175,7 @@
               <summary>
                 <h4>élaborer le Plan de conception de l'apprentissage</h4>
               </summary>
-              <p>Le r&ocirc;le du plan de conception</p>
+              <p>Le rôle du plan de conception</p>
               <ul>
                 <li>Décrire l'approche globale à l'égard de l'apprentissage</li>
                 <li>Déterminer les choix des supports pédagogiques</li>
@@ -190,7 +190,7 @@
               <p>
                 <em>(Remarque&nbsp;: La <strong>fiche signalétique du produit</strong> sera diffusée au cours du prochain
                   exercice. Il s'agit d'un document de référence</em> <em>qui contient toute l'information au sujet
-                  d'un produit et qui servira tout au long de son cycle de vie &ndash; de l'analyse à la mise en &oelig;uvre. elle
+                  d'un produit et qui servira tout au long de son cycle de vie &ndash; de l'analyse à la mise en œuvre. elle
                   remplacera un grand nombre de processus et de modèles).</em>
               </p>
             </details>
@@ -293,7 +293,7 @@
               <ul>
                 <li>Déterminer le temps qu'il faut aux apprenants pour réaliser chaque module et chaque activité</li>
                 <li>évaluer le niveau d'engagement des apprenants à l'égard du matériel</li>
-                <li>Repérer les endroits o&ugrave; le niveau de difficulté du matériel est trop bas ou trop élevé</li>
+                <li>Repérer les endroits où le niveau de difficulté du matériel est trop bas ou trop élevé</li>
                 <li>Confirmer que les apprenants comprennent les consignes des exercices et des activités</li>
                 <li>évaluer le déroulement et l'équilibre du cours</li>
                 <li>
@@ -313,9 +313,9 @@
         </section>
       </b-tab>
       <b-tab title="I">
-        <h3>étape de la mise en &oelig;uvre</h3>
+        <h3>étape de la mise en œuvre</h3>
         <p>
-          L'étape de la mise en &oelig;uvre, c'est le moment o&ugrave; le cours est prêt à être
+          L'étape de la mise en œuvre, c'est le moment où le cours est prêt à être
           lancé. Il est question de logistique et de lancement.
         </p>
         <ul>

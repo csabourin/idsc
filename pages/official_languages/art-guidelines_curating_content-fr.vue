@@ -3,7 +3,7 @@
     <h2>Obligations de langues officielles pour la curation de contenu</h2>
 
     <p>
-      La recherche et curation de contenu existant fait partie des nouvelles t&acirc;ches des concepteurs de produits
+      La recherche et curation de contenu existant fait partie des nouvelles tâches des concepteurs de produits
       d'apprentissage. en tant que concepteurs pédagogiques représentant l'école, vous avez
       la responsabilité de vous assurer que le contenu sélectionné soit disponible dans les deux langues
       officielles.

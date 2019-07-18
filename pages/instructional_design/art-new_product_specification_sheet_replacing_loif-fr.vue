@@ -10,7 +10,7 @@
       par la fiche signalétique du produit &ndash; un document de
       référence qui contient toute l'information au sujet
       d'un produit et qui servira tout au long de son cycle de vie &ndash;
-      de l'analyse à la mise en &oelig;uvre &ndash; et pour toute
+      de l'analyse à la mise en œuvre &ndash; et pour toute
       modification qui sera apportée par la suite.
     </p>
     <p>

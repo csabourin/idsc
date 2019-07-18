@@ -2,14 +2,14 @@
   <div id="articleContent" class="ajaxed-in">
     <h2>Types d'outils de travail et leurs buts</h2>
     <p>
-      Le type d'outil de travail à choisir dépend du genre de t&acirc;che à réaliser. Par exemple, il ne
-      faut pas utiliser une liste de vérification pour effectuer une t&acirc;che o&ugrave; les employés ont à prendre de
+      Le type d'outil de travail à choisir dépend du genre de tâche à réaliser. Par exemple, il ne
+      faut pas utiliser une liste de vérification pour effectuer une tâche où les employés ont à prendre de
       nombreuses décisions.
     </p>
     <dl class="dl-horizontal">
       <dt>étape par étape / Procédural</dt><dd>
         <ul>
-          <li>explique le moment o&ugrave; il faut effectuer une procédure ou un processus et selon quelle séquence</li>
+          <li>explique le moment où il faut effectuer une procédure ou un processus et selon quelle séquence</li>
           <li>exemple&nbsp;: Comment remettre en marche une photocopieuse après un bourrage de papier;</li>
         </ul>
       </dd>
@@ -45,7 +45,7 @@
             Aide les employés à recueillir toute l'information requise pour les calculs, la consultation future ou
             le suivi
           </li>
-          <li>ex.&nbsp;: Formulaire d'imp&ocirc;t, gabarit de rapport</li>
+          <li>ex.&nbsp;: Formulaire d'impôt, gabarit de rapport</li>
         </ul>
       </dd>
 

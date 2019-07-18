@@ -21,8 +21,8 @@
       <li>Codage financier : prévoir deux semaines;</li>
       <li>Code de cours : peut être obtenu dans un délai de 24 heures;</li>
       <li>
-        Titre et description du cours, examen de l'information de schématisation et coordination de la t&acirc;che de traduction par un conseiller en marketing : prévoir jusqu'à trois semaines.
-        <p>Lorsque vous avez obtenu toutes les composantes susmentionnées, vous pouvez créer votre cours/produit d'apprentissage dans l'environnement de production du SHGA. Vous informerez alors les employés des <a href="mailto:csps.ilmsbusinessoperationsoperationsdaffaireshga.efpc@canada.ca">Opérations d'affaires du SHGA</a> pour qu'ils puissent procéder au contr&ocirc;le de la qualité de votre entrée dans le catalogue du SHGA.</p>
+        Titre et description du cours, examen de l'information de schématisation et coordination de la tâche de traduction par un conseiller en marketing : prévoir jusqu'à trois semaines.
+        <p>Lorsque vous avez obtenu toutes les composantes susmentionnées, vous pouvez créer votre cours/produit d'apprentissage dans l'environnement de production du SHGA. Vous informerez alors les employés des <a href="mailto:csps.ilmsbusinessoperationsoperationsdaffaireshga.efpc@canada.ca">Opérations d'affaires du SHGA</a> pour qu'ils puissent procéder au contrôle de la qualité de votre entrée dans le catalogue du SHGA.</p>
         <h3>étape par étape :</h3>
         <ol>
           <li>
@@ -59,7 +59,7 @@
             </ul>
           </li>
           <li>
-            envoyer un courriel à l'adresse <a href="mailto:csps.ilmsbusinessoperationsoperationsdaffaireshga.efpc@canada.ca">ILMS Business Operations</a> et demander le contr&ocirc;le de la qualité du catalogue.
+            envoyer un courriel à l'adresse <a href="mailto:csps.ilmsbusinessoperationsoperationsdaffaireshga.efpc@canada.ca">ILMS Business Operations</a> et demander le contrôle de la qualité du catalogue.
           </li>
           <li>Dès que l'équipe du SHGA confirme que l'activité d'apprentissage est terminée et qu'elle a franchi avec succès l'étape d'assurance de la qualité, créer une séance de cours dans le SHGA. <strong><em>Remarque</em></strong> <em>: Au moment de créer une séance de cours, veillez à ce que le codage financier soit précis. Pour une séance visée par un protocole d'entente, assurez-vous d'inscrire le bon numéro d'article.</em></li>
           <li>

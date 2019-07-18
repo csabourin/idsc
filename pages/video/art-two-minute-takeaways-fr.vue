@@ -36,9 +36,9 @@
       <firstName>Kevin</firstName> <lastName>Guerin</lastName><br>
       <title>Directeur régional</title><br>
       T: <workPhone>416-454-1535</workPhone><br>
-      <email><a href="mailto:&quot;kevin.guerin@canada.ca&quot;">kevin.guerin@canada.ca</a></email><br>
+      <email><a href="mailto:kevin.guerin@canada.ca">kevin.guerin@canada.ca</a></email><br>
       <department>École de la fonction publique du Canada</department><br>
-      <organization>Région de l&apos;Ontario</organization>
+      <organization>Région de l'Ontario</organization>
     </address>
 
     Téléchargez le <a href="~/assets/guide_pour_serie_les_points_cles_%20en_moins_de_deux_minutes_2015-fr.pdf" download>Guide pour la série Les points clés en moins de deux minutes</a>

@@ -4,23 +4,23 @@
     <div class="panel panel-success">
       <header class="panel-heading">
         <h3 class="panel-title">
-          Situations o&ugrave; il convient d'utiliser des outils de travail
+          Situations où il convient d'utiliser des outils de travail
         </h3>
       </header>
       <div class="panel-body">
         <ul>
           <li>
             Lorsqu'une personne n'a pas suffisamment de compétences ou de connaissances pour effectuer correctement une
-            t&acirc;che ou un processus
+            tâche ou un processus
           </li>
           <li>Lorsque le temps de développement est limité</li>
           <li>Lorsque le besoin de formation est limité</li>
           <li>Lorsqu'il y a un besoin de soutien en cours d'emploi</li>
-          <li>Lorsque les étapes à suivre pour effectuer une t&acirc;che ou un processus ont changé</li>
-          <li>Lorsqu'une t&acirc;che ou une procédure n'est pas effectuée fréquemment</li>
-          <li>Lorsqu'une t&acirc;che ou une procédure est complexe</li>
+          <li>Lorsque les étapes à suivre pour effectuer une tâche ou un processus ont changé</li>
+          <li>Lorsqu'une tâche ou une procédure n'est pas effectuée fréquemment</li>
+          <li>Lorsqu'une tâche ou une procédure est complexe</li>
           <li>
-            Lorsqu'une t&acirc;che ou une procédure ne nécessite que peu de connaissances contextuelles ou
+            Lorsqu'une tâche ou une procédure ne nécessite que peu de connaissances contextuelles ou
             expérientielles ou des connaissances limitées
           </li>
           <li>Lorsqu'il y a des quantités importantes de détails</li>
@@ -30,7 +30,7 @@
     <div class="panel panel-danger">
       <header class="panel-heading">
         <h3 class="panel-title">
-          Situations o&ugrave; il ne convient pas d'utiliser des outils de travail
+          Situations où il ne convient pas d'utiliser des outils de travail
         </h3>
       </header>
       <div class="panel-body">
@@ -48,7 +48,7 @@
           </li>
           <li>
             Au moment de déterminer si un outil de travail constitue une solution appropriée, réfléchissez
-            clairement à la façon dont il sera utilisé et au moment o&ugrave; il sera utilisé. Demandez-vous si les
+            clairement à la façon dont il sera utilisé et au moment où il sera utilisé. Demandez-vous si les
             gens qui voient une personne utiliser un outil de travail peuvent trouver que cette personne n'a pas les compétences ou
             les connaissances requises pour accomplir le travail.
           </li>
@@ -56,7 +56,7 @@
         <h4>Lorsqu'il faut donner une réponse rapide ou un rendement rapide</h4>
         <ul>
           <li>
-            Il y a de nombreuses situations o&ugrave; l'utilisation d'un outil de travail n'est pas réaliste, car elle
+            Il y a de nombreuses situations où l'utilisation d'un outil de travail n'est pas réaliste, car elle
             peut nuire au rendement lorsqu'il faut agir rapidement. Par exemple, les employés d'une organisation peuvent
             être appelés à traiter rapidement un nombre élevé de transactions dans les plus brefs délais
             et avec précision.

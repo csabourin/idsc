@@ -5,7 +5,7 @@
       La participation des étudiants à un forum de discussion en ligne ne signifie pas nécessairement que ceux&shy;ci y
       apprendront quelque chose. en effet, les forums de discussion peuvent facilement dégénérer et devenir un
       échange d'opinions entre les étudiants sans mener à un changement sur le plan de la compréhension, de
-      l'attitude ou des connaissances. Par conséquent, le r&ocirc;le de modérateur joué par le formateur est essentiel
+      l'attitude ou des connaissances. Par conséquent, le rôle de modérateur joué par le formateur est essentiel
       dans le cadre des discussions en ligne.
     </p>
     <p>

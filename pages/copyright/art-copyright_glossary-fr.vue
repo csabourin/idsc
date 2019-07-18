@@ -47,7 +47,7 @@
           <tr id="author">
             <td>Auteur</td>
             <td>
-              Créateur d’une &oelig;uvre artistique, littéraire, musicale ou dramatique. Il peut s’agir d’une personne, d’un groupe de personnes, d’une entreprise, d’une organisation, d’un gouvernement, etc. Une œuvre peut être le fruit de plusieurs auteurs.
+              Créateur d’une œuvre artistique, littéraire, musicale ou dramatique. Il peut s’agir d’une personne, d’un groupe de personnes, d’une entreprise, d’une organisation, d’un gouvernement, etc. Une œuvre peut être le fruit de plusieurs auteurs.
             </td>
             <td>
               Robert est un graphiste de l'équipe de Communication de l'École et a créé une affiche pour une nouvelle initiative en milieu de travail. Dans ce cas, Robert est l'auteur de l'affiche, et l'affiche est une œuvre artistique pour laquelle le droit d'auteur appartient à la Couronne puisqu'il est fonctionnaire
@@ -80,7 +80,7 @@
                 Ce droit comporte le droit d’interpréter une œuvre ou toute partie importante de cette œuvre ou, dans le cas d’une conférence, le droit de la donner.
               </p>
               <p>
-                Si l’&oelig;uvre n’est pas publiée, le droit d’auteur inclut le droit de publier l’œuvre ou d’en publier une partie importante.
+                Si l’œuvre n’est pas publiée, le droit d’auteur inclut le droit de publier l’œuvre ou d’en publier une partie importante.
               </p>
             </td>
             <td>
@@ -116,7 +116,7 @@
                 Le droit d’auteur de la Couronne s’applique à la majorité des produits originaux  développés à l’École (ex. les cours, les rapports, les publications, les bases de données, vidéos, blogues et les applications informatiques ), puisqu’il s’agit d’une organisation fédérale. La <em>Loi sur le droit d’auteur</em> protège les toutes les œuvres créées par les employés du gouvernement pendant une période de 50 ans (art. 12 de la <em>Loi sur le droit d’auteur</em>).
               </p>
               <p style="word-break: break-word; word-break: break-all; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto;">
-                Le droit d’auteur de la Couronne s’applique également aux &oelig;uvres d’entrepreneurs travaillant sous contrat pour le gouvernement du Canada (y compris l’École), <em>sauf</em> lorsque le contrat accorde spécifiquement les droits d’auteur à l’entrepreneur. Pour de plus amples renseignements, consultez la Politique sur les droits de propriété intellectuelle issus de marchés conclus avec l’État à l’endroit suivant : <a title="Ce lien s'ouvrira dans une nouvelle fenêtre" href="https://www.ic.gc.ca/eic/site/068.nsf/fra/00005.html" target="_blank">https://www.ic.gc.ca/eic/site/068.nsf/fra/00005.html</a>.
+                Le droit d’auteur de la Couronne s’applique également aux œuvres d’entrepreneurs travaillant sous contrat pour le gouvernement du Canada (y compris l’École), <em>sauf</em> lorsque le contrat accorde spécifiquement les droits d’auteur à l’entrepreneur. Pour de plus amples renseignements, consultez la Politique sur les droits de propriété intellectuelle issus de marchés conclus avec l’État à l’endroit suivant : <a title="Ce lien s'ouvrira dans une nouvelle fenêtre" href="https://www.ic.gc.ca/eic/site/068.nsf/fra/00005.html" target="_blank">https://www.ic.gc.ca/eic/site/068.nsf/fra/00005.html</a>.
               </p>
             </td>
             <td>
@@ -164,7 +164,7 @@
                 Mécanisme de contrôle de l’accès et de l’utilisation qui contrôle ou restreint l’accès à une œuvre, ce qui comprend les mots de passe.
               </p>
               <p>
-                Le fait de contourner un mécanisme contrôlant l’accès à une &oelig;uvre constitue une infraction à la <em>Loi sur le droit d’auteur</em>.
+                Le fait de contourner un mécanisme contrôlant l’accès à une œuvre constitue une infraction à la <em>Loi sur le droit d’auteur</em>.
               </p>
             </td>
             <td>
@@ -241,7 +241,7 @@
             <td>Domaine public</td>
             <td>
               <p>
-                &OElig;uvres qui ne sont <em>pas</em> protégées par le droit d’auteur. Généralement, une &oelig;uvre appartient au domaine public lors de l’expiration du droit d’auteur.
+                œuvres qui ne sont <em>pas</em> protégées par le droit d’auteur. Généralement, une œuvre appartient au domaine public lors de l’expiration du droit d’auteur.
               </p>
               <p>
                 Au Canada, le droit d’auteur s’appliquant à une œuvre vient habituellement à échéance 50 ans après le décès de son créateur. Après ce délai, les œuvres font partie du domaine public.

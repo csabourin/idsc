@@ -93,7 +93,7 @@
     <p>
       Même si les mots parlés peuvent être modifiés par souci de clarté, il ne
       faut jamais modifier les paroles d’une personne qui cite des textes
-      religieux ou des passages d’une &oelig;uvre littéraire, qui fait une
+      religieux ou des passages d’une œuvre littéraire, qui fait une
       citation directe, etc. Si ces personnes font une erreur, il faut laisser
       l’erreur telle quelle.
     </p>

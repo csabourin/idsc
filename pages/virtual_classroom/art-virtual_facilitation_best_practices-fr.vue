@@ -16,7 +16,7 @@
     <p>
       Le temps passe très vite dans le monde virtuel. Assurez-vous de
       débuter et de terminer la formation selon l'horaire établi.
-      Garder un &oelig;il sur le temps de vos activités tout au long de la
+      Garder un œil sur le temps de vos activités tout au long de la
       séance. De cette façon vous risquez moins de manquer de temps
       pour vos dernières diapositives. Vos participants auront fort
       probablement des questions pertinentes à vous poser ou voudront
@@ -25,7 +25,7 @@
       prévu sur un sujet particulier, sentez-vous bien à l'aise
       de le faire. Par contre, c'est une bonne idée de savoir à
       l'avance quel contenu du cours serait susceptible d'être
-      coupé dans le cas o&ugrave; vous voudriez passer plus de temps sur un
+      coupé dans le cas où vous voudriez passer plus de temps sur un
       sujet précis et ce dans le but de prendre une décision rapide sur
       la gestion de votre temps.
     </p>
@@ -38,12 +38,12 @@
       l'écran&nbsp;&raquo; dès le début de votre
       séance virtuelle. Une des plus grandes erreurs que vous pouvez faire en
       tant que formateur virtuel est de parler à votre écran. De
-      l'autre c&ocirc;té, il y a de vraies personnes &ndash;
+      l'autre côté, il y a de vraies personnes &ndash;
       n'oubliez jamais cela. Créez des liens avec votre auditoire. Ce
       n'est pas parce que vous ne pouvez les voir, que cela vous empêche
-      de traverser de l'autre c&ocirc;té de votre écran pour
+      de traverser de l'autre côté de votre écran pour
       &laquo;&nbsp;connecter&nbsp;&raquo; avec les participants. Lancez une blague
-      (appropriée bien s&ucirc;r), apprenez à connaître le nom de
+      (appropriée bien sûr), apprenez à connaître le nom de
       vos participants et leur expertise. Partagez vos histoires, soyez ouvert,
       honnête et très respectueux.
     </p>
@@ -104,7 +104,7 @@
       qui vous aidera à garder l'attention de votre audience.
     </p>
 
-    <h3>Savoir comment contr&ocirc;ler votre nervosité</h3>
+    <h3>Savoir comment contrôler votre nervosité</h3>
 
     <p>
       Nous avons tous déjà ressentie des papillons dans
@@ -120,7 +120,7 @@
       vos joues qui rougissent. Vous avez vos notes pour vous guider lors de trous de
       mémoire ainsi que dans votre gestion du temps. Le seul vrai signe de
       votre nervosité que votre auditoire virtuelle percevra est votre voix
-      tremblante et incertaine. C'est donc cela que vous devez contr&ocirc;ler.
+      tremblante et incertaine. C'est donc cela que vous devez contrôler.
       Augmentez votre niveau de confiance en étudiant le contenue de votre
       cours et en connaissant bien votre environnement virtuel. Laissez savoir que
       vous êtes un novice de WebEx, laissez votre producteur vous apporter le
@@ -161,7 +161,7 @@
       d'aller vérifier leurs courriels pendant votre séance.
     </p>
 
-    <h3>Les outils d'annotation co&ucirc;tent 0$</h3>
+    <h3>Les outils d'annotation coûtent 0$</h3>
 
     <p>
       Au haut de votre interface WebEx, vous allez y retrouver des outils
@@ -252,7 +252,7 @@
     <p>
       Toutes les séances de plus d'une heure et demie comprennent une
       pause de 10 minutes à la mi-temps. Ne négligez jamais cette pause
-      même si les participants vous demandent de terminer plus t&ocirc;t.
+      même si les participants vous demandent de terminer plus tôt.
       Demeurer trop longtemps assis devant un écran d'ordinateur
       influence le niveau de participation et la capacité de rétention
       d'information chez les participants, ce qui rendra votre formation moins
@@ -261,7 +261,7 @@
       s'étirer pendant la pause.
     </p>
 
-    <h3>Ne bl&acirc;mez pas la technologie</h3>
+    <h3>Ne blâmez pas la technologie</h3>
 
     <p>
       Lorsqu'il y a des pépins dans la classe virtuelle, trop souvent
@@ -287,7 +287,7 @@
       lorsque nous utilisons la technologie. Les pépins sont habituellement
       minimes et peuvent généralement être corrigés
       rapidement. La règle d'or dont on doit se rappeler est de rester
-      calme. Ne paniquez pas, contr&ocirc;lez l'anxiété dans
+      calme. Ne paniquez pas, contrôlez l'anxiété dans
       votre voix, gardez le niveau de stress de votre groupe au minimum et faites de
       votre mieux pour rétablir la situation le plus rapidement possible. Si
       le problème implique seulement une seule personne du groupe, demandez au

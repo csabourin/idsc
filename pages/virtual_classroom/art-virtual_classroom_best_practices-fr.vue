@@ -15,11 +15,11 @@
     </ul>
     <h3>Travaillez en équipe</h3>
     <ul>
-      <li>Attribuez des r&ocirc;les et des responsabilités bien clairs (expert, producteur, animateur, assurance de la qualité)</li>
+      <li>Attribuez des rôles et des responsabilités bien clairs (expert, producteur, animateur, assurance de la qualité)</li>
     </ul>
     <h3>Conception des diapositives et éléments visuels</h3>
     <ul>
-      <li>Utilisez des puces plut&ocirc;t que des blocs de texte</li>
+      <li>Utilisez des puces plutôt que des blocs de texte</li>
       <li>évitez les couleurs agressives ou criardes</li>
       <li>Utilisez des images pertinentes</li>
       <li>évitez les images clipart et de mauvaise qualité</li>
@@ -44,7 +44,7 @@
       <li>Adaptez les exemples à votre public cible</li>
       <li>Intégrez les commentaires des participants dans le cours</li>
       <li>Distribuez un manuel du participant pour que les apprenants puissent l'imprimer, en suivre les étapes et prendre des notes</li>
-      <li>Créez un manuel de l'enseignant comportant un scénario, des notes, un horaire ainsi que les r&ocirc;les et responsabilités afin que les enseignants se concentrent sur la t&acirc;che à effectuer</li>
+      <li>Créez un manuel de l'enseignant comportant un scénario, des notes, un horaire ainsi que les rôles et responsabilités afin que les enseignants se concentrent sur la tâche à effectuer</li>
     </ul>
     <h3>Faites un essai pilote et une répétition</h3>
     <ul>

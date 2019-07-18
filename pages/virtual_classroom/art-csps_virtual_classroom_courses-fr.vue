@@ -21,7 +21,7 @@
     </p>
     <h3>Cours de base sur GCDOCS : salle de classe virtuelle (I012)</h3>
     <p>
-      La mise en &oelig;vre de GCDOCS, une solution pangouvernementale de gestion du contenu
+      La mise en œvre de GCDOCS, une solution pangouvernementale de gestion du contenu
       d'entreprise, jette les bases du bureau « virtuel » de demain. Ce cours en
       ligne dirigé par un enseignant présente aux participants les principales
       fonctionnalités de GCDOCS. Les participants apprendront les notions de base

@@ -11,14 +11,14 @@
       <summary>
         <h4>Domaine public</h4>
       </summary>
-      <p>Les &oelig;uvres <em>non</em> protégées par droit d’auteur appartiennent au <em><a title="Ce lien s'ouvrira dans une nouvelle fenêtre" href="copyright_glossary-fr.html#public" target="_blank">domaine public</a></em>. Autrement dit :</p>
+      <p>Les œuvres <em>non</em> protégées par droit d’auteur appartiennent au <em><a title="Ce lien s'ouvrira dans une nouvelle fenêtre" href="copyright_glossary-fr.html#public" target="_blank">domaine public</a></em>. Autrement dit :</p>
       <ul>
         <li>aucune restriction ne s’applique en ce qui a trait à leur copie et à leur adaptation</li>
         <li>aucune autorisation n’est nécessaire pour les utiliser</li>
         <li>rien dans la loi ne vous oblige à faire mention du créateur de l’œuvre.</li>
       </ul>
       <p>
-        Généralement, une œuvre tombe dans le domaine public lorsque le droit d’auteur expire. Une œuvre peut également faire partie du domaine public parce qu’elle n’était pas au départ admissible à la protection des droits d’auteur, ou parce que le titulaire des droits d’auteur a abandonné ses droits pour rendre l’&oelig;uvre au domaine public.
+        Généralement, une œuvre tombe dans le domaine public lorsque le droit d’auteur expire. Une œuvre peut également faire partie du domaine public parce qu’elle n’était pas au départ admissible à la protection des droits d’auteur, ou parce que le titulaire des droits d’auteur a abandonné ses droits pour rendre l’œuvre au domaine public.
       </p>
       <p>
         Cependant, il peut être compliqué de déterminer si une œuvre appartient au domaine public, puisque la durée du droit d’auteur varie souvent selon l’auteur, le format, la date de publication et le pays d’origine de l’œuvre. Pour déterminer si une œuvre produite au Canada appartient au domaine public, reportez-vous à <em><a title="Ce lien s'ouvrira dans une nouvelle fenêtre" href="~/assets/3. Public_domain_decision_tree_fr.pdf" target="_blank">l’arbre de décision : Domaine public</a></em> figurant dans la section Outils du présent site Web.
@@ -61,7 +61,7 @@
         </tbody>
       </table>
       <p>
-        Par conséquent, avant d’utiliser toute &oelig;uvre sous licence Open Access, vérifiez s’il existe des restrictions à l’utilisation du contenu, puisque « Open Access » n’est <span class="underlined">PAS</span> synonyme de « libre de droit d’auteur ».
+        Par conséquent, avant d’utiliser toute œuvre sous licence Open Access, vérifiez s’il existe des restrictions à l’utilisation du contenu, puisque « Open Access » n’est <span class="underlined">PAS</span> synonyme de « libre de droit d’auteur ».
       </p>
       <p>
         Toutes les formes de résultats de recherche publiés (p. ex. articles de revues savantes avec ou sans comité de lecture, actes de conférences, thèses, chapitres de livre, monographies) peuvent bénéficier d’une licence Open Access. On peut trouver la plupart de ces documents dans des fonds en ligne, dont les deux plus couramment employés sont :
@@ -73,7 +73,7 @@
     </details>
     <details>
       <summary>
-        <h4>&OElig;uvres Creative Commons</h4>
+        <h4>œuvres Creative Commons</h4>
       </summary>
       <p>
         Creative Commons est un organisme sans but lucratif qui se consacre à faciliter le partage et l’enrichissement de travaux d’une manière respectueuse des règles du droit d’auteur. Tout comme l’accès ouvert, le statut Creative Commons ne rend PAS l’œuvre libre de droits. Creative Commons octroie un certain nombre de licences standardisées pour du contenu protégé par des droits d’auteur, qui communiquent clairement le type d’utilisation que le créateur accorde aux utilisateurs, de même que les droits qu’il souhaite se réserver.
@@ -122,7 +122,7 @@
             <li>une page ou un article entier d’un journal</li>
             <li>un article en entier</li>
             <li>un passage entier provenant d’une encyclopédie, d’une bibliographie annotée, d’un dictionnaire ou d’un ouvrage de référence similaire</li>
-            <li>la reproduction entière d’une &oelig;uvre artistique</li>
+            <li>la reproduction entière d’une œuvre artistique</li>
             <li>un chapitre entier, pourvu qu’il ne constitue pas plus de vingt pour cent (20 %) d’un livre</li>
           </ol>
         </li>

@@ -4,7 +4,7 @@
     <p>
       Parfois un outil de travail n'est pas la meilleure solution pour les
       besoins de nos clients. évitez le développement d'un
-      outil inutile en analysant, en premier lieu, si la t&acirc;che en question sera
+      outil inutile en analysant, en premier lieu, si la tâche en question sera
       un bon candidat pour un outil de travail. Le plus vous répondez Oui
       à chacune des caractéristiques ci-dessous, le plus un outil de
       travail peut être une solution appropriée pour répondre au
@@ -13,7 +13,7 @@
     <div class="row">
       <div class="col-md-3">
         <p id="t1">
-          Fréquence de la t&acirc;che
+          Fréquence de la tâche
         </p>
       </div>
       <div class="col-md-3">
@@ -57,7 +57,7 @@
     <div class="row">
       <div class="col-md-3">
         <p id="t3">
-          Complexité de la t&acirc;che
+          Complexité de la tâche
         </p>
       </div>
       <div class="col-md-3">
@@ -79,7 +79,7 @@
     <div class="row">
       <div class="col-md-3">
         <p id="t4">
-          Rapidité de la t&acirc;che
+          Rapidité de la tâche
         </p>
       </div>
       <div class="col-md-3">
@@ -123,7 +123,7 @@
     <div class="row">
       <div class="col-md-3">
         <p id="t6">
-          Changements de t&acirc;che
+          Changements de tâche
         </p>
       </div>
       <div class="col-md-3">

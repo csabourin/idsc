@@ -39,13 +39,13 @@
               <h5><em>Pourquoi le droit d’auteur est-il important pour l’École?</em></h5>
             </summary>
             <p>
-              L’École est à la fois un <em>créateur/producteur</em> et un <em>utilisateur</em> d’&oelig;uvres protégées par le droit d’auteur.
+              L’École est à la fois un <em>créateur/producteur</em> et un <em>utilisateur</em> d’œuvres protégées par le droit d’auteur.
             </p>
             <p>
-              Il est important de noter que les droits d’auteur restreignent l’utilisation <em>sans autorisation d</em>es œuvres intellectuelles, universitaires et littéraires comme des livres, articles, discours, essais, tableaux, cadres de travail, illustrations et traductions. Pour les employés de l’École utilisant des &oelig;uvres protégées par le droit d’auteur pour la création de vidéos, de cours, de modules de formation, d’outils de travail, d’évènements, de produits de communication et autres il est essentiel de comprendre ce qui est permis lorsque vient le moment d’utiliser les œuvres d’autrui ou de s’en inspirer.
+              Il est important de noter que les droits d’auteur restreignent l’utilisation <em>sans autorisation d</em>es œuvres intellectuelles, universitaires et littéraires comme des livres, articles, discours, essais, tableaux, cadres de travail, illustrations et traductions. Pour les employés de l’École utilisant des œuvres protégées par le droit d’auteur pour la création de vidéos, de cours, de modules de formation, d’outils de travail, d’évènements, de produits de communication et autres il est essentiel de comprendre ce qui est permis lorsque vient le moment d’utiliser les œuvres d’autrui ou de s’en inspirer.
             </p>
             <p>
-              Sans le consentement du titulaire du droit d’auteur, la reproduction, la modification ou <span class="underlined">la traduction</span> du travail d’autrui constituent une violation. Les droits d’auteur donnent à l’auteur le droit de déterminer si son &oelig;uvre peut être utilisée par d’autres et, si c’est le cas, comment elle sera utilisée. Les employés de l’École qui utilisent des documents protégés par le droit d’auteur en salle de classe ou lors de la création de produits d’apprentissage sont encouragés à se familiariser avec la <em><a href="http://laws-lois.justice.gc.ca/fra/lois/c-42/" target="_blank" title="Ce lien s'ouvrira dans une nouvelle fenêtre">Loi sur le droit d’auteur</a></em>.
+              Sans le consentement du titulaire du droit d’auteur, la reproduction, la modification ou <span class="underlined">la traduction</span> du travail d’autrui constituent une violation. Les droits d’auteur donnent à l’auteur le droit de déterminer si son œuvre peut être utilisée par d’autres et, si c’est le cas, comment elle sera utilisée. Les employés de l’École qui utilisent des documents protégés par le droit d’auteur en salle de classe ou lors de la création de produits d’apprentissage sont encouragés à se familiariser avec la <em><a href="http://laws-lois.justice.gc.ca/fra/lois/c-42/" target="_blank" title="Ce lien s'ouvrira dans une nouvelle fenêtre">Loi sur le droit d’auteur</a></em>.
             </p>
           </details>
           <details>
@@ -53,7 +53,7 @@
               <h5><em>Qui peut détenir des droits d’auteur?</em></h5>
             </summary>
             <p>
-              en règle générale, c’est l’auteur de l’œuvre qui est le titulaire du droit d’auteur. Cependant, dans certains cas, il est possible que l’œuvre ait été produite dans le cadre de conditions de travail spécifiques. Dans la fonction publique fédérale, par exemple, le droit d’auteur appartient à l’employeur, c’est-à-dire la <a href="copyright_glossary-fr.html#crown" target="_blank" title="Ce lien s'ouvrira dans une nouvelle fenêtre">Couronne</a>. La Couronne détient les droits d'auteurs lorsque l&oelig;uvre est préparée dans le cadre des tâches d’un employé, mais elle pourrait ne pas être la détentrice des droits si l’&oelig;uvre est préparée par un entrepreneur (pour de plus amples renseignements, communiquez avec <a href="mailto:csps.procurementapprovisionnements.efpc@canada.ca" title="Ce lien ouvrira une fenêtre de votre application de messagerie">l’équipe d’approvisionnement de l’École</a>).
+              en règle générale, c’est l’auteur de l’œuvre qui est le titulaire du droit d’auteur. Cependant, dans certains cas, il est possible que l’œuvre ait été produite dans le cadre de conditions de travail spécifiques. Dans la fonction publique fédérale, par exemple, le droit d’auteur appartient à l’employeur, c’est-à-dire la <a href="copyright_glossary-fr.html#crown" target="_blank" title="Ce lien s'ouvrira dans une nouvelle fenêtre">Couronne</a>. La Couronne détient les droits d'auteurs lorsque lœuvre est préparée dans le cadre des tâches d’un employé, mais elle pourrait ne pas être la détentrice des droits si l’œuvre est préparée par un entrepreneur (pour de plus amples renseignements, communiquez avec <a href="mailto:csps.procurementapprovisionnements.efpc@canada.ca" title="Ce lien ouvrira une fenêtre de votre application de messagerie">l’équipe d’approvisionnement de l’École</a>).
             </p>
           </details>
           <details>
@@ -157,11 +157,11 @@
               <dt>Synthèse</dt>
               <dd>Un effort créatif indépendant, même modeste, est suffisant pour rendre une œuvre originale.</dd>
               <dt>Utiliser plusieurs sources</dt>
-              <dd>en vous appuyant sur plusieurs auteurs, vous réduisez la proportion d’« inspirations » tirées d’une seule &oelig;uvre.</dd>
+              <dd>en vous appuyant sur plusieurs auteurs, vous réduisez la proportion d’« inspirations » tirées d’une seule œuvre.</dd>
               <dt>Utiliser des citations brèves</dt>
               <dd>La source (incluant l’auteur, le titre, l’éditeur, l’année de publication) doit toujours accompagner une citation reprise textuellement.</dd>
               <dt>Acheter</dt>
-              <dd>Il est possible de négocier des prix réduits si de grandes quantités d’une &oelig;uvre sont achetées.</dd>
+              <dd>Il est possible de négocier des prix réduits si de grandes quantités d’une œuvre sont achetées.</dd>
               <dd>Vous pouvez demander l’autorisation par téléphone, courriel, lettre, entre autres, mais il est toujours préférable d’obtenir une autorisation écrite.</dd>
               <dt>Demander une licence</dt>
               <dd>Une licence permet d’utiliser une œuvre protégée d’une manière spécifique, généralement en échange d’un montant forfaitaire ou de redevances versées au titulaire du droit d’auteur.</dd>
@@ -204,7 +204,7 @@
               en avril 2016, le gouvernement du Canada (par l’entremise de Services publics et Approvisionnement Canada) a signé une entente avec <em><a href="copyright_glossary-fr.html#access" target="_blank" title="Ce lien s'ouvrira dans une nouvelle fenêtre">Access Copyright</a></em> et <em><a href="copyright_glossary-fr.html#access" target="_blank" title="Ce lien s'ouvrira dans une nouvelle fenêtre">Copibec</a></em>. La <em><a href="https://www.tpsgc-pwgsc.gc.ca/app-acq/communications-licence-fra.html" target="_blank" title="Ce lien s'ouvrira dans une nouvelle fenêtre">licence de copie du gouvernement du Canada</a></em> permet aux employés du gouvernement fédéral (y compris les experts-conseils, les employés temporaires, les consultants et les étudiants) de copier du matériel protégé compris dans le répertoire de ces organisations.
             </p>
             <p>
-              Chaque organisation offre un accès à un vaste répertoire d’œuvres dans les deux langues officielles du Canada et provenant de milliers d’auteurs, d’artistes visuels et d’éditeurs canadiens ou étrangers. Pour obtenir de plus amples renseignements, veuillez consulter la section sur <em><a href="suggested_resources-fr.html" target="_blank" title="Ce lien s'ouvrira dans une nouvelle fenêtre">Ressources suggérées pour les &oelig;uvres libres de droit d’auteur ou sous licence</a></em> de ce site Web.
+              Chaque organisation offre un accès à un vaste répertoire d’œuvres dans les deux langues officielles du Canada et provenant de milliers d’auteurs, d’artistes visuels et d’éditeurs canadiens ou étrangers. Pour obtenir de plus amples renseignements, veuillez consulter la section sur <em><a href="suggested_resources-fr.html" target="_blank" title="Ce lien s'ouvrira dans une nouvelle fenêtre">Ressources suggérées pour les œuvres libres de droit d’auteur ou sous licence</a></em> de ce site Web.
             </p>
           </details>
           <details>

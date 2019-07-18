@@ -33,7 +33,7 @@
         <ul>
           <li>
             Un excès de verbosité nuit à la capacité de l'employé de réaliser
-            rapidement la t&acirc;che ou la procédure.
+            rapidement la tâche ou la procédure.
           </li>
         </ul>
       </dd>
@@ -112,7 +112,7 @@
       <dd>
         <ul>
           <li>
-            De nombreux outils de travail contiennent des directives sur la façon de réaliser une t&acirc;che.
+            De nombreux outils de travail contiennent des directives sur la façon de réaliser une tâche.
             S'assurer que ces directives sont organisées en étapes claires et structurées pour aider
             l'employé.
           </li>

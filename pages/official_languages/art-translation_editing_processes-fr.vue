@@ -14,7 +14,7 @@
         href="mailto:csps.learningservicerequest-demandeserviceapprentissage.efpc@canada.ca"
         target="_blank"
       >L'équipe des Services d'apprentissage et technologies</a>
-      couvrent les co&ucirc;ts de toutes les traductions et révisions du matériel
+      couvrent les coûts de toutes les traductions et révisions du matériel
       d'apprentissage.
     </p>
 
@@ -31,7 +31,7 @@
       <dt class="circle" /><dd>envoi de la demande de traduction à Learning Service Request - Demande Service Apprentissage (CSPS -EFPC) et identifier l'auteur pour toute question;</dd>
       <dt class="circle" /><dd>Vérification de la traduction par l'auteur;</dd>
       <dt class="circle" /><dd>Soumission de la traduction au service de révision;</dd>
-      <dt class="circle" /><dd>Approbation des services rendus par le gestionnaire du centre de co&ucirc;t.</dd>
+      <dt class="circle" /><dd>Approbation des services rendus par le gestionnaire du centre de coût.</dd>
     </dl>
 
     <p>Lorsque l'échéance souhaitée ne peut être respectée par les services internes, les Services d'apprentissage et technologies feront appel aux services du Bureau de la traduction. Veuillez noter que des frais s'appliquent dans ce cas.</p>

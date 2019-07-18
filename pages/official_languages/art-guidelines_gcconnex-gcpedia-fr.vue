@@ -19,7 +19,7 @@
       <li>
         Les employés sont libres de contribuer dans la langue de leur choix dans les média sociaux, et ce
         dans toutes les sphères de leur travail, y compris sur les Outils GC2.0. De sorte que si vous avez une
-        page/section en français et une page/section en anglais o&ugrave; vous invitez les employés à
+        page/section en français et une page/section en anglais où vous invitez les employés à
         s'exprimer, l'une ne sera pas la copie parfaite de l'autre et cela est tout à fait
         légitime.
       </li>
@@ -43,7 +43,7 @@
         soumet un commentaire ou des informations en son nom, il est encouragé à le faire dans la langue de
         son choix. Lorsque le commentaire ou l'information est diffusé(e) au nom de l'école ou de
         sa fonction au sein de l'école, il doit le faire dans les 2 langues officielles. Si
-        l'information fournie provient de l'organisation, rediriger les utilisateurs vers le site web o&ugrave;
+        l'information fournie provient de l'organisation, rediriger les utilisateurs vers le site web où
         le contenu est disponible dans les deux langues.
       </li>
     </ul>

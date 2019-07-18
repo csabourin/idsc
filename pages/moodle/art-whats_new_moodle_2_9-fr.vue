@@ -13,7 +13,7 @@
         <dd>L'information saisie dans l'éditeur de texte (WYSIWYG) est enregistrée automatiquement.</dd>
         <dt>Amélioration du carnet de notes </dt>
         <dd>
-          Il est maintenant plus facile de noter l'étudiant gr&acirc;ce aux nouvelles améliorations apportées au
+          Il est maintenant plus facile de noter l'étudiant grâce aux nouvelles améliorations apportées au
           carnet de notes.
         </dd>
         <dt>Fonction &laquo; J'aime &raquo; dans les forums </dt>
@@ -25,17 +25,17 @@
         <dd>Des liens permettent dorénavant de consulter les fils de discussion précédents et suivants.</dd>
         <dt>Amélioration de la fonction de correction des questionnaires </dt>
         <dd>
-          Gr&acirc;ce à l'amélioration de la page de correction des questionnaires, il est maintenant plus facile
+          Grâce à l'amélioration de la page de correction des questionnaires, il est maintenant plus facile
           d'ajouter des questions ou de gérer les questions dans un questionnaire. Des paramètres relatifs aux
           activités conditionnelles ont aussi été ajoutés.
         </dd>
         <dt>Choix multiples</dt>
         <dd>
-          L'utilisateur peut être autorisé à choisir plus d'une réponse gr&acirc;ce à
+          L'utilisateur peut être autorisé à choisir plus d'une réponse grâce à
           l'activité Choix.
         </dd>
-        <dt>Joindre un fichier à une t&acirc;che </dt>
-        <dd>Le professeur peut joindre des fichiers à une t&acirc;che à confier à un étudiant.</dd>
+        <dt>Joindre un fichier à une tâche </dt>
+        <dd>Le professeur peut joindre des fichiers à une tâche à confier à un étudiant.</dd>
       </dl>
       <p>Pour une liste complète des nouveautés dans la version 2.8, visitez le site de <a href="//docs.moodle.org/2x/fr/Mise_%C3%A0_jour_%C3%A0_Moodle_2.8" target="_blank">Moodle</a>.</p>
     </section>
@@ -46,7 +46,7 @@
         <dd>Vous pouvez maintenant préciser de combien de temps l'utilisateur dispose pour terminer une leçon.</dd>
         <dt>Note de passage</dt>
         <dd>
-          Vous pouvez maintenant préciser la note de passage dans les paramètres de l'activité plut&ocirc;t
+          Vous pouvez maintenant préciser la note de passage dans les paramètres de l'activité plutôt
           qu'à partir du bulletin de notes.
         </dd>
         <dt>Bloc des résultats aux activités</dt>

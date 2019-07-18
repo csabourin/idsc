@@ -53,7 +53,7 @@
       T:
       <workPhone>416-454-1535</workPhone>
       <br>
-      <email><a href="mailto:&quot;kevin.guerin@canada.ca&quot;">kevin.guerin@canada.ca</a></email>
+      <email><a href="mailto:kevin.guerin@canada.ca">kevin.guerin@canada.ca</a></email>
       <br>
       <department>Canada School of Public Service</department>
       <br>

@@ -6,7 +6,7 @@
       l'avancement d'un projet du début à la fin.
     </p>
     <p>
-      Ils incluent toutes les t&acirc;ches, les sous-t&acirc;ches, les
+      Ils incluent toutes les tâches, les sous-tâches, les
       échéances et les responsabilités de chacun. Aucun
       gabarit fixe n'est requis présentement; vous pouvez les
       réaliser en utilisant MS Project, MS Word ou excel.

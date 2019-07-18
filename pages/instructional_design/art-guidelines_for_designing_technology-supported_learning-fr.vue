@@ -3,7 +3,7 @@
     <h2>Guide pour la conception d'un produit d'apprentissage assisté par la technologie</h2>
     <p>Les concepteurs pédagogiques se posent diverses questions sur l'utilisation des technologies dans les méthodes d'apprentissage. Par exemple&nbsp;: Comment convertir un cours en salle de classe en cours à distance? Comment concevoir un cours selon une méthode d'apprentissage mixte? Comment intégrer une communauté virtuelle à un cours en salle de classe? Quels outils utiliser?</p>
     <p>en somme, comment déterminer la ou les meilleures méthodes d'apprentissage? Cela dépend. Peu importe les méthodes et les technologies utilisées, il faut toujours suivre les principes de l'andragogie et les pratiques exemplaires de la conception pédagogique. Il n'y a pas de recette miracle pour en arriver à la combinaison parfaite. Cependant, certains facteurs doivent être pris en considération. Ce sont en fait de nombreux facteurs qui, examinés ensemble, aident à établir la stratégie gagnante.</p>
-    <p>Le présent document ne se veut pas un questionnaire exhaustif d'analyse des exigences ou d'évaluation des besoins. Il s'agit plut&ocirc;t d'un guide pour choisir les méthodes et les technologies à utiliser. Il détaille les questions à se poser, exemples à l'appui, pour analyser les facteurs entrant en ligne de compte dans le recours à des technologies d'apprentissage.</p>
+    <p>Le présent document ne se veut pas un questionnaire exhaustif d'analyse des exigences ou d'évaluation des besoins. Il s'agit plutôt d'un guide pour choisir les méthodes et les technologies à utiliser. Il détaille les questions à se poser, exemples à l'appui, pour analyser les facteurs entrant en ligne de compte dans le recours à des technologies d'apprentissage.</p>
     <h3>Facteurs à prendre en considération pour concevoir un produit d'apprentissage assisté par la technologie</h3>
     <details>
       <summary>
@@ -71,7 +71,7 @@
         <li>Le cours devra-t-il être refait avec le temps?</li>
         <li>Le contenu est-il personnalisé?</li>
         <li>Quelle est sa durée utile?</li>
-        <li>Quelle marge de man&oelig;uvre sera requise à long terme?</li>
+        <li>Quelle marge de manœuvre sera requise à long terme?</li>
       </ul>
       <p>Si le contenu doit être mis à jour régulièrement, un cours en ligne n'est pas la meilleure solution, surtout s'il contient du texte, et du contenu audio et vidéo. Modifier ce genre de contenu &ndash; éventuellement dans deux langues &ndash; peut nécessiter beaucoup de temps et d'argent.</p>
     </details>
@@ -127,7 +127,7 @@
         <li>Le contenu de cours est-il disponible dans les deux langues officielles?</li>
       </ul>
       <h5>Accessibilité</h5>
-      <p>Les concepteurs de cours jouent un r&ocirc;le de premier plan pour rendre accessibles le contenu et le matériel pédagogique. Ils doivent tenir compte de l'accessibilité à chaque étape&nbsp;: la conception, l'élaboration, la mise en &oelig;uvre et l'évaluation. Au chapitre de l'accessibilité Web, le gouvernement du Canada a adopté les Règles pour l'accessibilité des contenus Web&nbsp;2.0 <a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=23601" target="_blank">(WCAG&nbsp;2.0)</a> afin d'honorer ses engagements. La section sur <a href="//sb-es-demo.csps-efpc.com/idsc/content_sections/accessibility/GoC_Accessibility_standards-fr.html" target="_blank">l'<strong>accessibilité</strong></a> du Centre de soutien pour les concepteurs pédagogiques présente des lignes directrices et des précisions sur la conception et l'élaboration de produits d'apprentissage accessibles.</p>
+      <p>Les concepteurs de cours jouent un rôle de premier plan pour rendre accessibles le contenu et le matériel pédagogique. Ils doivent tenir compte de l'accessibilité à chaque étape&nbsp;: la conception, l'élaboration, la mise en œuvre et l'évaluation. Au chapitre de l'accessibilité Web, le gouvernement du Canada a adopté les Règles pour l'accessibilité des contenus Web&nbsp;2.0 <a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=23601" target="_blank">(WCAG&nbsp;2.0)</a> afin d'honorer ses engagements. La section sur <a href="//sb-es-demo.csps-efpc.com/idsc/content_sections/accessibility/GoC_Accessibility_standards-fr.html" target="_blank">l'<strong>accessibilité</strong></a> du Centre de soutien pour les concepteurs pédagogiques présente des lignes directrices et des précisions sur la conception et l'élaboration de produits d'apprentissage accessibles.</p>
       <h5>Langues officielles</h5>
       <p>Les concepteurs de cours doivent connaître les obligations de l'école en matière de langues officielles et les garder à l'esprit quand ils créent des produits d'apprentissage. La section sur <a href="//sb-es-demo.csps-efpc.com/idsc/content_sections/official_languages/official_language_introduction-fr.html" target="_blank">les <strong>langues officielles</strong></a> du Centre de soutien pour les concepteurs pédagogiques présente des lignes directrices et des recommandations.</p>
     </details>
@@ -135,7 +135,7 @@
       <summary>
         <h4>Cadre décisionnel relatif aux modes d'apprentissage</h4>
       </summary>
-      <p>Le tableau permet de voir en un coup d'&oelig;il les méthodes d'apprentissage utilisées à l'école (l'écosystème d'apprentissage) selon les principales exigences opérationnelles auxquelles elles répondent (p. ex. réduire le temps de prestation, rendre le contenu accessible n'importe o&ugrave;, n'importe quand).</p>
+      <p>Le tableau permet de voir en un coup d'œil les méthodes d'apprentissage utilisées à l'école (l'écosystème d'apprentissage) selon les principales exigences opérationnelles auxquelles elles répondent (p. ex. réduire le temps de prestation, rendre le contenu accessible n'importe où, n'importe quand).</p>
       <p>Voir le <a href="http://gcdocs.csps-efpc.gc.ca/otcs/llisapi.dll?func=ll&amp;objId=6143633&amp;objAction=download" target="_blank"><strong>Cadre décisionnel relatif aux modes d'apprentissage</strong></a>.</p>
     </details>
   </div>

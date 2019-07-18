@@ -15,7 +15,7 @@
       la conception pédagogique est d'organiser les étapes,
       de rassembler l'équipe et de réaliser le projet, pour
       assurer la réussite du cours et de ses nouvelles
-      fonctionnalités. La t&acirc;che est complexe. &Agrave; titre de
+      fonctionnalités. La tâche est complexe. &Agrave; titre de
       concepteur pédagogique, vous devez être en mesure de
       considérer l'ensemble des éléments d'une
       situation pour en assurer la réussite. Heureusement, il existe des

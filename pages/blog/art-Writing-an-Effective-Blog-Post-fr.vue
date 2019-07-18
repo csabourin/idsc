@@ -75,7 +75,7 @@
       <summary><strong>Étape 8 : Vérifier et prévoir un examen par les pairs</strong></summary>
       <ul>
         <li>Servez vous de l'aide mémoire/la liste de vérification pour la tenue de blogues pour faire une autoévaluation de votre travail.</li>
-        <li>Avant d'afficher votre billet, demandez à un collègue d'y jeter un coup d'&oelig;il. </li>
+        <li>Avant d'afficher votre billet, demandez à un collègue d'y jeter un coup d'œil. </li>
       </ul>
     </details>
     <details>

@@ -94,7 +94,7 @@
     </details>
     <details>
       <summary>Étape 7 : Relire, relire et relire encore!</summary>
-      <p>Un second regard est toujours utile. Avant de publier votre billet, demandez à un collègue d'y jeter un coup d'&oelig;il!</p>
+      <p>Un second regard est toujours utile. Avant de publier votre billet, demandez à un collègue d'y jeter un coup d'œil!</p>
     </details>
 
     <p>Étape 8 : Afficher le billet en suivant le processus d'affichage des blogues de l'École</p>

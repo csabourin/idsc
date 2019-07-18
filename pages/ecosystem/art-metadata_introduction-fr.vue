@@ -4,7 +4,7 @@
     <p>Un thésaurus nous aide à comprendre les termes, par exemple des éléments de menu, de deux façons, à savoir&nbsp;:</p>
     <ol>
       <li>la sémantique des termes, c'est-à-dire leurs descriptions&nbsp;;</li>
-      <li>et leurs relations avec d'autres termes, o&ugrave; le terme plus général est en dessus et plus spécifique en dessous.</li>
+      <li>et leurs relations avec d'autres termes, où le terme plus général est en dessus et plus spécifique en dessous.</li>
     </ol>
     <p>Le <em>Thésaurus de l'école de la fonction publique du Canada</em> est un vocabulaire bilingue dont la terminologie représente des domaines traités dans les ressources d'information d'EFPC.</p>
     <p>Le <em>Thésaurus de l'école de la fonction publique du Canada</em> est géré et mis à jour par le <a href="http://gcdocs.csps-efpc.gc.ca/otcs/llisapi.dll?func=ll&amp;objId=6064189&amp;objAction=browse&amp;sort=name" target="_blank">Groupe de travail des intendants de métadonnées</a>.</p>

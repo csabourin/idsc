@@ -30,7 +30,7 @@
           <h4>L'animateur ne peut pas se connecter au cours</h4>
           <ol>
             <li>envoyez à l'animateur l'invitation à la séance par courriel et demandez-lui de se connecter en tant que participant.</li>
-            <li>Cliquez à droite sur son nom dans la fenêtre Participant et attribuez-lui le r&ocirc;le de coanimateur.</li>
+            <li>Cliquez à droite sur son nom dans la fenêtre Participant et attribuez-lui le rôle de coanimateur.</li>
           </ol>
           <h4>Rejoindre la conférence audio</h4>
           <ol>
@@ -52,19 +52,19 @@
             <li>Veillez à ce que le casque du participant soit équipé d'un micro.</li>
             <li>Veillez à ce que le bouton &laquo;&nbsp;Sourdine&nbsp;&raquo; sur la prise du casque ne soit pas activé.</li>
             <li>Allez au menu &laquo;&nbsp;Audio&nbsp;&raquo; au haut de l'écran, choisissez l'option &laquo;&nbsp;Test audio du haut-parleur/microphone&nbsp;&raquo;. Choisissez le bon casque et le bon micro dans les menus déroulants qui apparaissent (p. ex. si vous avez un casque Platronic, choisissez &laquo;&nbsp;Platronic&nbsp;&raquo; dans les deux menus).</li>
-            <li>Fermez la fenêtre des essais de son et vérifiez votre son en disant &laquo;&nbsp;All&ocirc;&nbsp;&raquo;.</li>
+            <li>Fermez la fenêtre des essais de son et vérifiez votre son en disant &laquo;&nbsp;Allô&nbsp;&raquo;.</li>
           </ol>
           <h4>Le producteur n'entend pas un participant</h4>
           <p>Avec un téléphone, suivez les étapes ci-dessous&nbsp;:</p>
           <ol>
-            <li>Si le téléphone est en mode discrétion (sourdine/mute), l'ic&ocirc;ne du téléphone va apparaitre avec un X rouge. Pour enlever la mode discrétion, cliquez sur l'ic&ocirc;ne du microphone à c&ocirc;té du nom du participant et l'ic&ocirc;ne disparaîtra.</li>
+            <li>Si le téléphone est en mode discrétion (sourdine/mute), l'icône du téléphone va apparaitre avec un X rouge. Pour enlever la mode discrétion, cliquez sur l'icône du microphone à côté du nom du participant et l'icône disparaîtra.</li>
           </ol>
           <p><strong>Le producteur entend un bruit de fond </strong></p>
           <ol>
-            <li>Demandez aux participants de se mettre en mode sourdine en cliquant sur le bouton du micro à c&ocirc;té de leur nom dans la liste des participants.</li>
+            <li>Demandez aux participants de se mettre en mode sourdine en cliquant sur le bouton du micro à côté de leur nom dans la liste des participants.</li>
             <li>Pour rétablir le son, il faut cliquer à nouveau sur le même bouton.</li>
           </ol>
-          <h4>Le participant apparaît comme utilisateur appelant n<sup>o</sup>&nbsp;xx plut&ocirc;t que par son nom</h4>
+          <h4>Le participant apparaît comme utilisateur appelant n<sup>o</sup>&nbsp;xx plutôt que par son nom</h4>
           <ol>
             <li>Demandez au participant de raccrocher et de rappeler. &nbsp;</li>
             <li>Il doit choisir l'option &laquo;&nbsp;Conférence audio&nbsp;&raquo; puis l'option &laquo;&nbsp;J'appelle &raquo;. Le numéro de téléphone, le numéro de la séance et le numéro d'identification s'afficheront. Le participant doit composer tous les numéros dans l'ordre indiqué.</li>
@@ -77,7 +77,7 @@
           </summary>
           <h4>Les diapos ne défilent pas</h4>
           <ul>
-            <li>Vérifiez bien que le présentateur a toujours le r&ocirc;le d'animateur. Sinon, lui redonner le r&ocirc;le d'animateur.</li>
+            <li>Vérifiez bien que le présentateur a toujours le rôle d'animateur. Sinon, lui redonner le rôle d'animateur.</li>
           </ul>
           <h4>Conversation en ligne invisible</h4>
           <ol>
@@ -88,7 +88,7 @@
           <ol>
             <li>Cliquez sur le bouton &laquo;&nbsp;T&nbsp;&raquo; au coin supérieur gauche de l'écran.</li>
             <li>écrivez sur le tableau blanc. &nbsp;</li>
-            <li>Cliquer n'importe o&ugrave; sur l'écran pour permettre aux autres participants de voir apparaître la réponse.</li>
+            <li>Cliquer n'importe où sur l'écran pour permettre aux autres participants de voir apparaître la réponse.</li>
           </ol>
         </details>
         <details>
@@ -101,7 +101,7 @@
             <li>Demandez au participant de retourner au courriel d'invitation à la séance et de cliquer sur le lien de la séance. La page d'information sur la séance s'affiche.</li>
             <li>Demandez au participant de saisir le mot de passe pour la séance et de cliquer sur &laquo;&nbsp;Rejoindre&nbsp;&raquo;. La fenêtre de la séance s'affichera. La boîte de dialogue de l'audioconférence apparaîtra.</li>
             <li>Demandez au participant de raccrocher et de rappeler.</li>
-            <li>Inscrivez le code régional et le numéro de téléphone à c&ocirc;té de l'option &laquo;&nbsp;Utiliser le téléphone &raquo; et cliquer sur &laquo;&nbsp;Appelez-moi&nbsp;&raquo;. WebEx composera le numéro indiqué.</li>
+            <li>Inscrivez le code régional et le numéro de téléphone à côté de l'option &laquo;&nbsp;Utiliser le téléphone &raquo; et cliquer sur &laquo;&nbsp;Appelez-moi&nbsp;&raquo;. WebEx composera le numéro indiqué.</li>
             <li>Acceptez l'appel et suivez les instructions pour joindre la séance WebEx.&nbsp;</li>
           </ol>
         </details>
@@ -156,7 +156,7 @@
           <p>Pour utiliser une webcam autre que celle qui est intégrée à votre ordinateur portable</p>
           <ol>
             <li>Branchez une webcam externe à votre ordinateur portable.</li>
-            <li>Cliquez sur l'ic&ocirc;ne &laquo;&nbsp;Paramètres&nbsp;&raquo; en haut à droite de la fenêtre vidéo.</li>
+            <li>Cliquez sur l'icône &laquo;&nbsp;Paramètres&nbsp;&raquo; en haut à droite de la fenêtre vidéo.</li>
             <li>Sous le menu &laquo;&nbsp;Dispositif de capture &raquo;, choisir la webcam qu'il vous faut.</li>
             <li>Cliquer sur OK.</li>
           </ol>
