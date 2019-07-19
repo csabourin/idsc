@@ -4,8 +4,8 @@
     <p>
       Ce glossaire contient des définitions et des exemples concernant des termes reliés aux droits d'auteur. Vous pouvez utiliser les liens ci-dessous pour naviguer directement aux différents termes.
     </p>
-    <div class="col-md-6 col-xs-12">
-      <ul>
+    <div class="col-md-6">
+      <ul class="list-unstyled">
         <li>
           <router-link title="naviguer vers Auteur" to="#author">
             Auteur
@@ -49,10 +49,10 @@
       </ul>
     </div>
     <div class="col-md-6 col-xs-12">
-      <ul>
+      <ul class="list-unstyled">
         <li>
           <router-link title="naviguer vers exemption pour les établissements d’enseignement" to="#exemption">
-            exemption pour les établissements d’enseignement
+            Exemption pour les établissements d’enseignement
           </router-link>
         </li>
         <li>

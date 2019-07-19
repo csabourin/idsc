@@ -15,9 +15,8 @@
           role="tabpanel"
           class="menuItem col-md-4"
         >
-          <b-card-header v-b-toggle="'accordion-' + index" :item="item">
-            <a href="#"> {{ item.name[lang] }} </a>
-          </b-card-header>
+          <b-button v-b-toggle="'accordion-' + index" variant="light" class="col-md-12">
+            {{ item.name[lang] }}           </b-button>
           <b-collapse :id="'accordion-'+ index" accordion="my-accordion" role="tabpanel">
             <ul>
               <li v-for="(sub,indexed) in item.links" :key="indexed" class="listItem list-unstyled">
