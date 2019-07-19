@@ -9,7 +9,7 @@
         <option value="fr">Français</option>
       </select></span>
     </div>
-    <div class="row">
+    <div class="row nomargin">
       <div class="col-md-12">
         <nuxt :lang="lang" />
       </div>
@@ -104,9 +104,13 @@ option {
   color: #fff;
   background-color: #000;
   box-shadow: 0px 0px 10px 5px #AAA;
-  padding: 5px;
+  padding: .5px;
   height: 2.5em;
+  width:100%;
 }
+
+.row.nomargin{margin-right: 0;
+margin-left: 0;}
 
 .page-enter-active, .page-leave-active {
   transition: opacity .25s;

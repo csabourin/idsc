@@ -7,7 +7,7 @@
       <h2 class="subtitle">
         {{ forID[lang] }}
       </h2>
-      <div class="row">
+      <div class="row nomargin">
         <div
           v-for="(item, index) in menu"
           :key="index"
@@ -16,7 +16,8 @@
           class="menuItem col-md-4"
         >
           <b-button v-b-toggle="'accordion-' + index" variant="light" class="col-md-12">
-            {{ item.name[lang] }}           </b-button>
+            {{ item.name[lang] }}
+          </b-button>
           <b-collapse :id="'accordion-'+ index" accordion="my-accordion" role="tabpanel">
             <ul>
               <li v-for="(sub,indexed) in item.links" :key="indexed" class="listItem list-unstyled">
