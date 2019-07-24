@@ -18,6 +18,7 @@
 </template>
 <script>
 import { menu } from '~/static/menu.js'
+import lscStyle from '~/assets/IDSC_Content.css'
 export default {
   head: {
     htmlAttrs: {
@@ -30,6 +31,9 @@ export default {
       menu,
       lang: `en`
     }
+  },
+  computed: {
+    styles() { return lscStyle }
   },
 
   methods: {

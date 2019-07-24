@@ -53,7 +53,6 @@ address title {
 	margin: 5em;
 	padding: 1em;
 	position: relative;
-	behavior: url(../js/PIE.htc);
 }
 #Glossary.wb-tabs [role=tablist] li {
 	margin-right: 4px;
@@ -89,7 +88,6 @@ address title {
 	border-right: 1px solid #bebebe;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
-	behavior: url(../js/PIE.htc)
 }
 .topNav ul.menu {
 	list-style: none;
@@ -224,7 +222,6 @@ ul.SideNav {
 	border-bottom-right-radius: 5px;
 	position: relative;
 	min-height: 12em;
-	behavior: url(../js/PIE.htc)
 }
 .InsideMainContent {
 	background-color: #FFF;
@@ -232,7 +229,6 @@ ul.SideNav {
 	border: 1px solid #bebebe;
 	margin: 1em;
 	position: relative;
-	behavior: url(../js/PIE.htc)
 }
 .InsideMainContent article {
 	border-left: 1px solid #bebebe;
@@ -257,7 +253,7 @@ margin-bottom:initial;
 	text-align: right;
 	color: #01535e
 }
-}
+
 #wb-sm .active a, #wb-sm .active summary, #wb-sm .sm summary {
 	background-color: transparent
 }
@@ -281,7 +277,7 @@ a[href^="mailto"]:before {
 	left: -1.5em
 }
 ul.CourseIcon {
-	list-style-image: url(../resources/node-type-en-course.png)
+	list-style-image: url(./node-type-en-course.png)
 }
 .wb-mltmd .display:before {
 	line-height: 1.5em
@@ -346,7 +342,6 @@ Article p {
 	-webkit-box-shadow: 0 10px 15px -5px rgba(25,25,25,0.25), 0 -10px 15px -5px rgba(172,172,172,0.5);
 	-moz-box-shadow: 0 10px 15px -5px rgba(25,25,25,0.25), 0 -10px 15px -5px rgba(172,172,172,0.5);
 	box-shadow: 0 10px 15px -5px rgba(25,25,25,0.25), 0 -10px 15px -5px rgba(172,172,172,0.5);
-	behavior: url(../../js/PIE.htc);
 	width: 90%;
 }
 [data-vp] .subcontent > li {
@@ -364,7 +359,6 @@ Article p {
 	box-shadow: 0 0 0 4px rgba(255,255,255,1), 5px 10px 30px 2px rgba(128,128,128,0.5);
 	width: 4em;
 	height: 4em;
-	behavior: url(../../js/PIE.htc);
 }
 /*Content positionning*/
 
@@ -393,11 +387,10 @@ Article p {
 	text-align: center;
 	color: #000;
 	line-height: 2.5em;
-	behavior: url(../../js/PIE.htc);
 }
 /*Stars*/
 [data-vp] .star-five {
-	background: url(../resources/video/star.png) no-repeat center center;
+	background: url(./video/star.png) no-repeat center center;
 	background-attachment: scroll;
 	background-color: #fff;
 	background-position: center center;
@@ -406,19 +399,15 @@ Article p {
 	-moz-background-size: contain;
 	-o-background-size: contain;
 	background-size: contain;
-	behavior: url(../../js/PIE.htc);
 }
 [data-vp] [data-col="1"] .circle {
 	border: 4px solid #0e505f;
-	behavior: url(../../js/PIE.htc);
 }
 [data-vp] [data-col="2"] .circle {
 	border: 4px solid #dc6a0c;
-	behavior: url(../../js/PIE.htc);
 }
 [data-vp] [data-col="3"] .circle {
 	border: 4px solid #727272;
-	behavior: url(../../js/PIE.htc);
 }
 /**************POSTPROD(1)*************/
 
@@ -469,7 +458,6 @@ Article p {
 	background: -o-linear-gradient(224deg, rgb(93, 95, 94) 30%, rgb(214, 210, 212) 100%);
 	background: -ms-linear-gradient(224deg, rgb(93, 95, 94) 30%, rgb(214, 210, 212) 100%);
 	background: linear-gradient(314deg, rgb(93, 95, 94) 30%, rgb(214, 210, 212) 100%);
-	behavior: url(../../js/PIE.htc);
 	background-color: #5d5f5e;
 }
 .upperright {
@@ -486,7 +474,7 @@ Article p {
 	background: -o-linear-gradient(306deg, rgb(188, 127, 72) 30%, rgb(214, 210, 212) 100%);
 	background: -ms-linear-gradient(306deg, rgb(188, 127, 72) 30%, rgb(214, 210, 212) 100%);
 	background: linear-gradient(36deg, rgb(188, 127, 72) 30%, rgb(214, 210, 212) 100%);
-	behavior: url(../../js/PIE.htc);
+	
 	background-color: #bc7f48;
 }
 .bottomleft {
@@ -503,7 +491,7 @@ Article p {
 	background: -o-linear-gradient(129deg, rgb(16, 84, 97) 30%, rgb(214, 210, 212) 100%);
 	background: -ms-linear-gradient(129deg, rgb(16, 84, 97) 30%, rgb(214, 210, 212) 100%);
 	background: linear-gradient(219deg, rgb(16, 84, 97) 30%, rgb(214, 210, 212) 100%);
-	behavior: url(../../js/PIE.htc);
+	
 	background-color: #105461;
 }
 .bottomright {
@@ -520,7 +508,7 @@ Article p {
 	background: -o-linear-gradient(45deg, rgb(121, 121, 47) 30%, rgb(214, 210, 212) 100%);
 	background: -ms-linear-gradient(45deg, rgb(121, 121, 47) 30%, rgb(214, 210, 212) 100%);
 	background: linear-gradient(135deg, rgb(121, 121, 47) 30%, rgb(214, 210, 212) 100%);
-	behavior: url(../../js/PIE.htc);
+	
 	background-color: #79792F;
 }
 .cb-ul {
@@ -562,7 +550,7 @@ Article p {
 	font-weight: 700;
 	font-size: 1.1em;
 	text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
-		behavior: url(../../js/PIE.htc);
+		
 }
 .upperleft p {
 	bottom: 1.75em;
@@ -619,7 +607,7 @@ Article p {
 	font-stretch: extra-expanded;
 	font-weight: 900;
 	text-shadow: 1px 1px 1px #bebebe, 2px 2px 1px #bebebe, -1px -1px 1px #bebebe, -2px -2px 1px #bebebe, -2px 0px 1px #bebebe, 0px 2px 1px #bebebe;
-	behavior: url(../../js/PIE.htc);
+	
 }
 
 #VideoSum {width:100%;
