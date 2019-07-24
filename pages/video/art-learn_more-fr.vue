@@ -58,22 +58,22 @@
 
     <ul class="fa-ul">
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Halls, Jonathan. 2012.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO21078&Se=414&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11094&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>Rapid video development for trainers how to create learning videos fast and affordably</em></a>. Alexandria, Va: ASTD Press.<br>
+        🕮 Halls, Jonathan. 2012.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO21078&Se=414&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11094&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>Rapid video development for trainers how to create learning videos fast and affordably</em></a>. Alexandria, Va: ASTD Press.<br>
         ISBN 9781562868116
       </li>
 
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Koumi, Jack. 2006.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO23769&Se=418&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=3997&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>Designing video and multimedia for open and flexible learning</em></a>. London: Routledge.<br>
+        🕮 Koumi, Jack. 2006.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO23769&Se=418&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=3997&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>Designing video and multimedia for open and flexible learning</em></a>. London: Routledge.<br>
         ISBN 041538303X
       </li>
 
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Spannaus, Tim. 2012.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO22410&Se=417&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11039&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>Creating video for trainers and teachers: producing professional video with amateur equipment</em></a>. San Francisco, Calif: Jossey-Bass.<br>
+        🕮 Spannaus, Tim. 2012.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO22410&Se=417&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11039&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>Creating video for trainers and teachers: producing professional video with amateur equipment</em></a>. San Francisco, Calif: Jossey-Bass.<br>
         ISBN 9781118088098
       </li>
 
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Tozman, Reuben. 2012.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO21254&Se=415&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11102&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>Learning on demand how the evolution of the Web is shaping the future of learning</em></a>. Alexandria, Va: ASTD Press.&nbsp;<br>
+        🕮 Tozman, Reuben. 2012.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO21254&Se=415&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11102&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>Learning on demand how the evolution of the Web is shaping the future of learning</em></a>. Alexandria, Va: ASTD Press.&nbsp;<br>
         ISBN 9781562868468
       </li>
     </ul>

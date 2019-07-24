@@ -69,7 +69,7 @@
     </ul>
     <h3>Livres</h3>
     <ul class="fa-ul">
-      <li><span class="glyphicon glyphicon-book fa-li" />Berman, David B. 2013.<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GET_RECORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO16034&SE=506&RN=0&MR=20&TR=0&TX=1000&ES=0&CS=1&XP=&RF=Brief+French&EF=&DF=Full+French&RL=1&EL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=12091&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OEX=ISO-8859-1&OEH=ISO-8859-1" target="_blank"><em>The new standard on web accessibility: WCAG 2.0... Web, Office, Indesign, PDF</em></a>. Ottawa, ON: David Berman Communications.</li>
+      <li>🕮Berman, David B. 2013.<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GET_RECORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO16034&SE=506&RN=0&MR=20&TR=0&TX=1000&ES=0&CS=1&XP=&RF=Brief+French&EF=&DF=Full+French&RL=1&EL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=12091&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OEX=ISO-8859-1&OEH=ISO-8859-1" target="_blank"><em>The new standard on web accessibility: WCAG 2.0... Web, Office, Indesign, PDF</em></a>. Ottawa, ON: David Berman Communications.</li>
     </ul>
     <p>&nbsp;</p>
   </div>

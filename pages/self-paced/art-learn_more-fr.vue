@@ -9,89 +9,89 @@
     </p>
     <ul class="fa-ul">
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Gil, Philippe.
+        🕮 Gil, Philippe.
         2000.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/&TN=Catalog&SN=AUTO10613&Se=392&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=2569&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>e-formation:
           NTIC et reengineering de la formation professionnelle</em></a>.
         Paris: Dunod.<br>
         ISBN 2100051768
       </li>
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Potvin,
+        🕮 Potvin,
         Claude, Thomas Michael Power, and Anne Ronchi. 2014.<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO3482&Se=451&RN=1&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11953&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>&nbsp;La
           formation en ligne les conseillers et ingénieurs pédagogiques : 20
           études de cas</em></a>. [Paris]: Hermann.<br>
         ISBN 9782763720975
       </li>
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Clark, Ruth
+        🕮 Clark, Ruth
         Colvin. 2013.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO3727&Se=453&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11192&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>Scenario-based
           e-learning: evidence-based guidelines for online workforce
           learning.</em></a><br>
         ISBN 9781118127254
       </li>
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Conrad,
+        🕮 Conrad,
         Rita-Marie, and J. Ana Donaldson. 2012.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO3792&Se=454&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11150&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>Continuing
           to engage the online learner: activities and resources for creative
           instruction.</em></a><br>
         ISBN 9781118000175
       </li>
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Haber,
+        🕮 Haber,
         Jonathan. 2014.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO3861&Se=455&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11914&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>Moocs</em></a>.<br>
         ISBN 9780262526913
       </li>
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Palloff, Rena
+        🕮 Palloff, Rena
         M., and Keith Pratt. 2011.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO4024&Se=457&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=10243&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>The
           excellent online Instructor: strategies for professional
           development.</em></a> San Francisco, CA: Jossey-Bass.<br>
         ISBN 9780470635230
       </li>
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Parker, Robyn
+        🕮 Parker, Robyn
         e. 2013.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO4096&Se=458&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=12058&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>Redesigning
           courses for online delivery: design, interaction, media &amp;
           evaluation.</em></a><br>
         ISBN 9781781906903
       </li>
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Phillips,
+        🕮 Phillips,
         Robert, Carmel McNaught, and Gregor Kennedy. 2012.<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO4151&Se=459&RN=1&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11793&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>&nbsp;evaluating
           e-learning: guiding research and practice.</em></a> New York:
         Routledge.<br>
         ISBN 9781781906903
       </li>
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Quinn, Clark
+        🕮 Quinn, Clark
         N. 2012.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO4213&Se=460&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=10712&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>The
           mobile academy: mLearning for higher education.</em></a> San
         Francisco (CA): Jossey-Bass.<br>
         ISBN 9781118072653
       </li>
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Smith, Robin
+        🕮 Smith, Robin
         M. 2014.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO4276&Se=461&RN=1&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11921&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>Conquering
           the content: a blueprint for online course design and
           development.</em></a><br>
         ISBN 9781118717080
       </li>
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Stavredes,
+        🕮 Stavredes,
         Tina, and Tiffany Herder. 2014.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO4354&Se=462&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11726&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>A
           guide to online course design: strategies for student
           success.</em></a><br>
         ISBN 9781118462669
       </li>
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Vai, Marjorie,
+        🕮 Vai, Marjorie,
         and Kristen Sosulski. 2011.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO4409&Se=463&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11161&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>essentials
           of online course design: a standards-based guide.</em></a> New
         York: Routledge.<br>
         ISBN 9780415873000
       </li>
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> Cargile Cook,
+        🕮 Cargile Cook,
         Kelli, and Keith Grant-Davie. 2013.&nbsp;<a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A//10.128.0.45%3A8080/fr.htm&TN=Catalog&SN=AUTO3658&Se=452&RN=3&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=12059&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"><em>Online
           education 2.0 evolving, Adapting, and Reinventing Online Technical
           Communication.</em></a> Amityville, N.Y.: Baywood Pub. Co.<br>

@@ -14,17 +14,17 @@
           </p>
           <ul class="fa-ul">
             <li>
-              <span class="glyphicon glyphicon-book fa-li" />Lebrun, Marcel&nbsp;: 2002. <a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO27244&Se=763&TX=1000&CS=1&RF=Brief+english&DF=Full%20english&DL=0&NP=2&MF=WPFReMSG.ini&DT=&IR=3406&FG=&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank">Théories et méthodes pédagogiques pour enseigner et apprendre</a>.
+              🕮Lebrun, Marcel&nbsp;: 2002. <a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO27244&Se=763&TX=1000&CS=1&RF=Brief+english&DF=Full%20english&DL=0&NP=2&MF=WPFReMSG.ini&DT=&IR=3406&FG=&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank">Théories et méthodes pédagogiques pour enseigner et apprendre</a>.
               Bruxelles&nbsp;: De Broek Université.
             </li>
             <li>
-              <span class="glyphicon glyphicon-book fa-li" />Lewandowski, Jean-Claude&nbsp;: 2004. <a
+              🕮Lewandowski, Jean-Claude&nbsp;: 2004. <a
                 href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO5641&Se=637&MR=20&TX=1000&CS=1&RF=Brief+english&DF=Full%20english&RL=1&DL=0&NP=2&MF=WPFreMsg.ini&DT=&IR=3479"
                 target="_blank"
               >Sur les nouvelles façons de former</a>. Cedex, Paris&nbsp;: éditions d'Organisation.
             </li>
             <li>
-              <span class="glyphicon glyphicon-book fa-li" />Paquette, Gilbert&nbsp;: 2002. <a
+              🕮Paquette, Gilbert&nbsp;: 2002. <a
                 href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO7169&Se=640&RN=2&MR=20&TX=1000&CS=1&RF=Brief+english&DF=Full%20english&RL=1&DL=0&NP=2&MF=WPFreMsg.ini&DT=&IR=3357"
                 target="_blank"
               >L'ingénierie pédagogique</a>. Sainte-Foy&nbsp;: Presses de l'Université du
@@ -34,70 +34,70 @@
           <h4>Livres en anglais</h4>
           <ul class="fa-ul">
             <li>
-              <span class="glyphicon glyphicon-book fa-li" />Bean, Cammy: 2014. <a
+              🕮Bean, Cammy: 2014. <a
                 href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO19335&Se=624&RN=2&MR=20&TX=1000&CS=1&RF=Brief+english&DF=Full%20english&RL=1&DL=0&NP=2&MF=WPFreMsg.ini&DT=&IR=11796&NB=3"
                 target="_blank"
               >The accidental instructional designer</a>. Alexandria, VA.: ASTD Press.
             </li>
             <li>
-              <span class="glyphicon glyphicon-book fa-li" />Dirksen, Julie: 2012. <a
+              🕮Dirksen, Julie: 2012. <a
                 href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO19335&Se=624&RN=7&MR=20&TX=1000&CS=1&RF=Brief+english&DF=Full%20english&RL=1&DL=0&NP=2&MF=WPFreMsg.ini&DT=&IR=11280&NB=3"
                 target="_blank"
               >Design for how people learn</a>. Berkeley, CA: New Riders.
             </li>
             <li>
-              <span class="glyphicon glyphicon-book fa-li" />ertmer, Peggy A and Quinn, James: 2007. <a
+              🕮ertmer, Peggy A and Quinn, James: 2007. <a
                 href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO19335&Se=624&RN=21&MR=20&TX=1000&CS=1&RF=Brief+english&DF=Full%20english&RL=1&DL=0&NP=2&MF=WPFreMsg.ini&DT=&IR=3872&NB=4"
                 target="_blank"
               >The ID casebook, case studies in instructional design</a>. Upper Saddle River, NJ: Pearson/Merrill.
             </li>
             <li>
-              <span class="glyphicon glyphicon-book fa-li" />Hodell, Chuck: 2006. <a
+              🕮Hodell, Chuck: 2006. <a
                 href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=PReV_ReCORD&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO19335&Se=624&RN=29&MR=20&TX=1000&CS=1&RF=Brief+english&DF=Full%20english&RL=1&DL=0&NP=2&MF=WPFreMsg.ini&DT=&IR=3872&NR=14"
                 target="_blank"
               >ISD from the ground up, a no-nonsense approach to instructional design (3rd ed.)</a>. Alexandria,
               VA: American Society for Training & Development.
             </li>
             <li>
-              <span class="glyphicon glyphicon-book fa-li" />Lee, William W. and Owens, Diana L.: 2000. <a
+              🕮Lee, William W. and Owens, Diana L.: 2000. <a
                 href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=CHANGe_DISPLAY&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO19335&Se=624&RN=35&MR=20&TX=1000&CS=1&RF=Brief+english&DF=Full%20english&RL=1&DL=0&NP=2&MF=WPFreMsg.ini&DT=&IR=7939&NR=23"
                 target="_blank"
               >Multimedia-based instructional design</a>. San Francisco: Jossey-Bass/Pfeiffer.
             </li>
             <li>
-              <span class="glyphicon glyphicon-book fa-li" />Manning, Susan and Kevin e. Johnson: 2011. <a
+              🕮Manning, Susan and Kevin e. Johnson: 2011. <a
                 href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO1219&Se=631&MR=20&TX=1000&CS=1&RF=Brief+english&DF=Full%20english&RL=1&DL=0&NP=2&MF=WPFreMsg.ini&DT=&IR=11447"
                 target="_blank"
               >The technology toolbelt for teaching</a>. San Francisco: Jossey-Bass
             </li>
             <li>
-              <span class="glyphicon glyphicon-book fa-li" />McArdle, Geri e. H.: 2011. <a
+              🕮McArdle, Geri e. H.: 2011. <a
                 href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=CHANGe_DISPLAY&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO19335&Se=624&RN=24&MR=20&TX=1000&CS=1&RF=Brief+english&DF=Full%20english&RL=1&DL=0&NP=2&MF=WPFreMsg.ini&DT=&IR=3872&NR=6"
                 target="_blank"
               >Instructional design for action learning</a>. New York: American Management Association.
             </li>
             <li>
-              <span class="glyphicon glyphicon-book fa-li" />Piskurich, George M.: 2006. <a
+              🕮Piskurich, George M.: 2006. <a
                 href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=PReV_ReCORD&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO19335&Se=624&RN=42&MR=20&TX=1000&CS=1&RF=Brief+english&DF=Full%20english&RL=1&DL=0&NP=2&MF=WPFreMsg.ini&DT=&IR=7939&NR=31"
                 target="_blank"
               >Rapid instructional design, learning ID fast and right, (2nd ed.).</a> San Francisco, CA:
               Jossey-Bass Pfeiffer.
             </li>
             <li>
-              <span class="glyphicon glyphicon-book fa-li" />Sites, Richard and Allen, Michael: 2012. <a
+              🕮Sites, Richard and Allen, Michael: 2012. <a
                 href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=CHANGe_DISPLAY&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO19335&Se=624&RN=30&MR=20&TX=1000&CS=1&RF=Brief+english&DF=english%20Print%20Full&RL=1&DL=0&NP=2&MF=WPFreMsg.ini&DT=&IR=3872&NR=17"
                 target="_blank"
               >Leaving ADDIe for SAM, an agile model for developing the best learning experiences.</a> Alexandria,
               VA: ASTD Press.
             </li>
             <li>
-              <span class="glyphicon glyphicon-book fa-li" />Smith, Patricia L. and Ragan, Tillman J: 2005. <a
+              🕮Smith, Patricia L. and Ragan, Tillman J: 2005. <a
                 href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=PReV_ReCORD&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO19335&Se=624&RN=23&MR=20&TX=1000&CS=1&RF=Brief+english&DF=Full%20english&RL=1&DL=0&NP=2&MF=WPFreMsg.ini&DT=&IR=3872&NR=2"
                 target="_blank"
               >Instructional design (3rd ed.)</a> &nbsp;Hoboken, NJ: J. Wiley & Sons
             </li>
             <li>
-              <span class="glyphicon glyphicon-book fa-li" />Shepherd, Clive: 2011. <a
+              🕮Shepherd, Clive: 2011. <a
                 href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&TN=Catalog&SN=AUTO315&Se=630&MR=20&TX=1000&CS=1&RF=Brief+english&DF=Full%20english&RL=1&DL=0&NP=2&MF=WPFreMsg.ini&DT=&IR=11281"
                 target="_blank"
               >The new learning architect</a>. Chesterfield, UK: Onlignment

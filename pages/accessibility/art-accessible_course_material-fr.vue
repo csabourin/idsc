@@ -98,7 +98,7 @@
         <a href="http://www.youtube.com/watch?v=bGphv8jpDwg" target="_blank">Impact de l'accessibilité sur la production de documents téléchargeables</a> (Régie des rentes du Québec)
       </li>
       <li>
-        <span class="glyphicon glyphicon-film" /><a href="//support.office.com/fr-ca/article/Vid%c3%a9o--Rechercher-et-corriger-les-probl%c3%a8mes-daccessibilit%c3%a9-dans-Word-2010-d1dee0af-8cea-40a4-aa1f-4e8b932025f5?CorrelationId=cfa19312-d427-4b98-a2f7-7a62719b7fae&ui=en-US&rs=fr-CA&ad=CA&omkt=fr-CA" target="new">Vidéo : Rechercher et corriger les problèmes d’accessibilité dans Word 2010</a>
+        📽<a href="//support.office.com/fr-ca/article/Vid%c3%a9o--Rechercher-et-corriger-les-probl%c3%a8mes-daccessibilit%c3%a9-dans-Word-2010-d1dee0af-8cea-40a4-aa1f-4e8b932025f5?CorrelationId=cfa19312-d427-4b98-a2f7-7a62719b7fae&ui=en-US&rs=fr-CA&ad=CA&omkt=fr-CA" target="new">Vidéo : Rechercher et corriger les problèmes d’accessibilité dans Word 2010</a>
       </li>
     </ul>
   </div>

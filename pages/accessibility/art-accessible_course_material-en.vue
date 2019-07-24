@@ -114,7 +114,7 @@
         <a href="//webguide.gov.au/accessibility-usability/accessibility/pdf-accessibility/" target="_blank">Australian Government's Guide to PDF
           accessibility</a>
       </li>
-      <li><span class="glyphicon glyphicon-film" /><a href="//support.office.com/en-us/article/Video-Find-and-fix-accessibility-issues-in-Word-2010-d1dee0af-8cea-40a4-aa1f-4e8b932025f5?CorrelationId=cfa19312-d427-4b98-a2f7-7a62719b7fae&ui=en-US&rs=en-US&ad=US" target="new"> Video: Find and fix accessibility issues in Word 2010</a> </li>
+      <li>📽<a href="//support.office.com/en-us/article/Video-Find-and-fix-accessibility-issues-in-Word-2010-d1dee0af-8cea-40a4-aa1f-4e8b932025f5?CorrelationId=cfa19312-d427-4b98-a2f7-7a62719b7fae&ui=en-US&rs=en-US&ad=US" target="new"> Video: Find and fix accessibility issues in Word 2010</a> </li>
     </ul>
   </div>
 </template>

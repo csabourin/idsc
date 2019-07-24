@@ -8,7 +8,7 @@
     </p>
     <ul class="fa-ul">
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> <span>Christopher, Darlene. 2015. </span><em><a
+        🕮 <span>Christopher, Darlene. 2015. </span><em><a
           href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A%2F%2F10.128.0.45%3A8080%2F&TN=Catalog&SN=AUTO9865&Se=388&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+english&eF=&DF=Full+english&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPengMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11898&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1"
           target="_blank"
         >The
@@ -16,28 +16,28 @@
         ISBN 9780814434284
       </li>
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> <span>Huggett, Cindy. 2013.</span> <em><a
+        🕮 <span>Huggett, Cindy. 2013.</span> <em><a
           href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A%2F%2F10.128.0.45%3A8080%2F&TN=Catalog&SN=AUTO9933&Se=389&RN=1&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+english&eF=&DF=Full+english&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPengMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11611&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1"
           target="_blank"
         > The virtual training guidebook how to design, deliver, and implement live online learning. Alexandria, VA: ASTD Press.</a></em> Alexandria, VA: ASTD Press.<br>
         ISBN 9781562868611
       </li>
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> <span>Turmel, Wayne. 2011.</span> <em><a
+        🕮 <span>Turmel, Wayne. 2011.</span> <em><a
           href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A%2F%2F10.128.0.45%3A8080%2F&TN=Catalog&SN=AUTO10012&Se=390&RN=1&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+english&eF=&DF=Full+english&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPengMsg.ini&MQ=&TI=0&DT=&ST=0&IR=10169&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1"
           target="_blank"
         > 10 steps to successful virtual presentations. Alexandria, Va: ASTD Press.</a></em> Alexandria, VA : ASTeD Press.<br>
         ISBN 9781562867461
       </li>
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> <span>Pluth, Becky Pike. 2010.</span> <em><a
+        🕮 <span>Pluth, Becky Pike. 2010.</span> <em><a
           href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A%2F%2F10.128.0.45%3A8080%2F&TN=Catalog&SN=AUTO10097&Se=391&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+english&eF=&DF=Full+english&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPengMsg.ini&MQ=&TI=0&DT=&ST=0&IR=10085&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1"
           target="_blank"
         > Webinars with wow factor: tips, tricks & interactivities for virtual training. excelsior, Minn: Pluth Consulting.</a></em> excelsior, Minn: Pluth Consulting.<br>
         ISBN 9780979410314
       </li>
       <li>
-        <span class="glyphicon glyphicon-book fa-li" /> <span>Potvin, Claude, Thomas Michael Power, and Anne Ronchi. 2014.</span> <em><a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A%2F%2F10.128.0.45%3A8080%2Ffr.htm&TN=Catalog&SN=AUTO29812&Se=444&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11953&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"> La formation en ligne les conseillers et ingénieurs pédagogiques : 20 études de cas. [Paris]: Hermann.</a></em> [Paris]: Hermann.<br>
+        🕮 <span>Potvin, Claude, Thomas Michael Power, and Anne Ronchi. 2014.</span> <em><a href="//10.128.0.45:8080/ics-wpd/exec/icswppro.dll?AC=GeT_ReCORD&XC=/ics-wpd/exec/icswppro.dll&BU=http%3A%2F%2F10.128.0.45%3A8080%2Ffr.htm&TN=Catalog&SN=AUTO29812&Se=444&RN=0&MR=20&TR=0&TX=1000&eS=0&CS=1&XP=&RF=Brief+French&eF=&DF=Full+French&RL=1&eL=0&DL=0&NP=2&ID=&MF=WPFreMsg.ini&MQ=&TI=0&DT=&ST=0&IR=11953&NR=0&NB=0&SV=0&SS=0&BG=ffffff&FG=000000&QS=default_new&OeX=ISO-8859-1&OeH=ISO-8859-1" target="_blank"> La formation en ligne les conseillers et ingénieurs pédagogiques : 20 études de cas. [Paris]: Hermann.</a></em> [Paris]: Hermann.<br>
         ISBN 9782763720975
       </li>
     </ul>
