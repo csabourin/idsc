@@ -2,7 +2,7 @@
   <div id="articleContent" class="ajaxed-in">
     <h2>Procédures de traduction et révision</h2>
     <p>
-      <img src="~/assets/official_languages/hand-pen.jpg" alt="" width="260" height="auto" class="ajaxed-in pull-right">
+      <img src="~/assets/official_languages/hand-pen.jpg" alt="" width="260" height="auto" class="ajaxed-in float-left">
       Il est important que des professionnels traduisent et révisent les textes produits par l'École. L'étape de la traduction doit être incluse dans le processus de production de tout document. Cette étape est précédée par la révision du texte dans la langue de départ, qui vise à s'assurer que le texte est clair et de grande qualité avant d'être envoyé à la traduction. La révision du texte élimine beaucoup de va&#8209;et&#8209;vient au cours de l'étape de la traduction et assure une qualité linguistique de niveau professionnel. La traduction du contenu et la révision du texte traduit sont des tâches importantes afin de bien rendre, dans la langue d'arrivée, le sens et les nuances que l'on trouve dans la langue de départ. Pour y arriver, il faut du temps.
     </p>
     <p>Une bonne planification implique donc de prévoir le temps que requiert la traduction dans le processus de production d'un document et d'envoyer sa demande le plus tôt possible&nbsp;&ndash; quelques semaines à l'avance pour les textes volumineux&nbsp;&ndash; afin d'éviter les retards et les dépassements de coûts.</p>

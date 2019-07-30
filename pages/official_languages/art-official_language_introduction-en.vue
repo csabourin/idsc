@@ -2,7 +2,7 @@
   <div id="articleContent" class="ajaxed-in">
     <h2>Introduction</h2>
     <p>
-      <img alt="Picture of team holding a cardboard with the words 'Français' and 'english equally balanced" class="pull-right" src="~/assets/official_languages/eSchool_OFFICIAL-LANGUAGES_march_2015.jpg">To fulfil its
+      <img alt="Picture of team holding a cardboard with the words 'Français' and 'english equally balanced" class="float-left" src="~/assets/official_languages/eSchool_OFFICIAL-LANGUAGES_march_2015.jpg">To fulfil its
       obligations under Blueprint 2020, the School is working to implement a training approach that favours new ways of
       delivering training to public servants; that is, online learning, workshops, forums such as GCconnex, GCpedia, and
       other social media.

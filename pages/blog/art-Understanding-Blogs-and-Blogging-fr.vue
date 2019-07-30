@@ -3,7 +3,7 @@
     <h2>Comprendre la notion de « blogue »</h2>
 
     <H4>Qu'est-ce qu'un blogue? </H4>
-    <img alt="Doigts dactylographiant sur un clavier d'ordinateur" class="pull-right" src="../../assets/BlogFloat.png"><p>Un <strong>blogue</strong> est en fait une page ou un site Web qui porte sur un thème précis ou sur un domaine plus général, par exemple <em>l'utilisation des réseaux sociaux à des fins d'apprentissage, l'écosystème d'apprentissage ou les stratégies d'évaluation efficaces. </em></p>
+    <img alt="Doigts dactylographiant sur un clavier d'ordinateur" class="float-left" src="../../assets/BlogFloat.png"><p>Un <strong>blogue</strong> est en fait une page ou un site Web qui porte sur un thème précis ou sur un domaine plus général, par exemple <em>l'utilisation des réseaux sociaux à des fins d'apprentissage, l'écosystème d'apprentissage ou les stratégies d'évaluation efficaces. </em></p>
 
     <H4>Qu'est-ce qu'un billet de blogue?</H4>
     <p>Un <strong>billet de blogue </strong> consiste en un article Web portant sur un sujet précis qui est lié à un domaine plus général, et qui est publié sur le blogue par le « propriétaire » du blogue. Les billets de blogue sont habituellement affichés sous forme de liste chronologique, l'article le plus récent figurant au haut de la liste. Le visiteur du blogue choisit un billet qui l'intéresse et peut revenir à tout moment à la liste de billets pour en consulter d'autres. </p>

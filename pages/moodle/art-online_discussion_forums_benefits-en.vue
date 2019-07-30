@@ -3,7 +3,7 @@
     <h2>Discussion Forums</h2>
 
     <p>
-      <img src="../../assets/clip_image002_0002.jpg" alt="smiling woman looking at a computer screen" width="298" height="198" class="pull-right">Discussion  forums, or threaded discussions, are one of the most commonly used tools in  online learning. A discussion forum is  primarily a text-based mode of communication whereby someone will post a start  to a thread based on a "topic" and people respond to that thread. Often, many  threads can be going at the same time on a discussion board, with discussion  lasting from a few hours to a year or longer. <br>
+      <img src="../../assets/clip_image002_0002.jpg" alt="smiling woman looking at a computer screen" width="298" height="198" class="float-left">Discussion  forums, or threaded discussions, are one of the most commonly used tools in  online learning. A discussion forum is  primarily a text-based mode of communication whereby someone will post a start  to a thread based on a "topic" and people respond to that thread. Often, many  threads can be going at the same time on a discussion board, with discussion  lasting from a few hours to a year or longer. <br>
       Discussion forums can be used as adjunct components of  self-paced modules with facilitated virtual classroom programs. Many bloggers  use discussion forums to facilitate discussion. Social media formats rely on  the discussion forum concept to generate ongoing posts. <br>
       Discussion forums allow asynchronous discussions to  occur over a period of time. The ability to learn asynchronously is one of the  primary benefits of online learning. Students are able to reflect upon their  ideas before sharing them with the class, leading to more thoughtful responses  and in-depth learning.
     </p>

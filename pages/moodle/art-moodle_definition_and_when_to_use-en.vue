@@ -3,7 +3,7 @@
     <h2>What is Moodle?</h2>
 
     <p>
-      <img alt="Moodle Logo, the letter M with a graduation hat" class="pull-right col-md-5" height="auto" src="~/assets/moodle/moodle_logo.jpg"> Moodle is an&nbsp;open-source learning management system (LMS) or virtual learning environment. It is designed to help
+      <img alt="Moodle Logo, the letter M with a graduation hat" class="float-left col-md-5" height="auto" src="~/assets/moodle/moodle_logo.jpg"> Moodle is an&nbsp;open-source learning management system (LMS) or virtual learning environment. It is designed to help
       educators create online courses with a focus on interaction and collaborative construction of content. Moodle integrates a wide variety
       of features to create interactive course activities and deliver learning resources.
     </p>

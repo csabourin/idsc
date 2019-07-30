@@ -13,7 +13,7 @@
     <p>When designing job-aids, avoid only aiming  to support employees during a task and consider opportunities to support them  prior to or after a task.</p>
     <blockquote>
       "Common to all performance support definitions is the focus on tools and resources, the emphasis on application, and the timing – "at the moment of need." In other words, you don't use performance support to learn about a task, but rather you use it directly in conjunction with the performance of the task. Its ultimate goal is to deliver  the right support, at the right level of complexity or detail, to the right people, at precisely the right time they need it."
-      <p class="pull-right">
+      <p class="float-left">
         <cite>Marc Rosenberg</cite><br>
         <cite>At the Moment of Need: The Case for Performance Support</cite>
       </p>

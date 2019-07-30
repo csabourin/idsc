@@ -3,7 +3,7 @@
     <h2>Qu'est-ce que Moodle?</h2>
 
     <p>
-      <img alt="Logo de Moodle, la lettre M portant un chapeau de graduation" class="pull-right col-md-5" height="auto" src="~/assets/moodle/moodle_logo.jpg">Moodle est un système de gestion de l'apprentissage (SGA) sous licence libre, ou encore un environnement d'apprentissage virtuel. Il
+      <img alt="Logo de Moodle, la lettre M portant un chapeau de graduation" class="float-left col-md-5" height="auto" src="~/assets/moodle/moodle_logo.jpg">Moodle est un système de gestion de l'apprentissage (SGA) sous licence libre, ou encore un environnement d'apprentissage virtuel. Il
       permet aux éducateurs de créer des cours en ligne en mettant l'accent sur l'interaction et la création de contenu en collaboration. Moodle
       propose un vaste éventail de fonctions pour créer des cours interactifs et diffuser des ressources d'apprentissage.
     </p>

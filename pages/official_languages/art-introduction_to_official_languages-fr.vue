@@ -2,7 +2,7 @@
   <div id="articleContent" class="ajaxed-in">
     <h2>Introduction aux langues officielles</h2>
     <p>
-      <img alt="Portrait d'une équipe tenant un carton affichant les mots 'Français' et 'english' également en équilibre" class="pull-right" src="~/assets/official_languages/GCcampus_OFFICIAL-LANGUAGeS_march_2015_fr.jpg">
+      <img alt="Portrait d'une équipe tenant un carton affichant les mots 'Français' et 'english' également en équilibre" class="float-left" src="~/assets/official_languages/GCcampus_OFFICIAL-LANGUAGeS_march_2015_fr.jpg">
       Afin de remplir ses obligations envers Objectif&nbsp;2020, l'École est en train de mettre en place une approche en matière de prestation de la formation. Cette approche privilégie de nouvelles façons d'offrir de la formation aux fonctionnaires : apprentissage en ligne, ateliers, forums tels que GCconnex, GCpédia et autres média sociaux.
     </p>
     <p>Les méthodes d'apprentissage qui seront maintenant privilégiées offrent une plus grande flexibilité aux apprenants et se fondent aussi davantage sur la collaboration et le réseautage, avec des échanges informels sur les média sociaux où l'on partage des ressources utiles. Ce caractère plus libre et informel pose bien entendu des défis pour l'École en ce qui a trait à ses obligations en matière de langues officielles&nbsp;: comment continuer à assurer à notre clientèle des produits de qualité et bilingues? Le Comité des langues officielles comprend qu'il aura un rôle important à jouer dans cette transition et devrait être en mesure de pouvoir offrir un soutien aux concepteurs pédagogiques pour les aider à respecter les obligations de l'École en termes de langues officielles.</p>

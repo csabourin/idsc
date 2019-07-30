@@ -2,7 +2,7 @@
   <div id="articleContent" class="ajaxed-in">
     <h2>Translation and editing Processes</h2>
     <p>
-      <img src="~/assets/official_languages/hand-pen.jpg" alt="" width="260" height="auto" class="ajaxed-in pull-right">
+      <img src="~/assets/official_languages/hand-pen.jpg" alt="" width="260" height="auto" class="ajaxed-in float-left">
       It is important to have your texts professionally edited and translated. The translation step should be included in the production process of any document. Translation should be preceded by editing of the source-language text to ensure its clarity and quality. This eliminates a lot of back and forth and ensures the high quality of the language. The translation of content and review of the translated document are important steps to ensuring that the finished product has the same meaning, sense, and nuances as the original document. Note that all this takes time.
     </p>
     <p>Proper planning therefore involves estimating the time required for editing and translation during the production process and submitting your request as early as possible (i.e.&nbsp;a few weeks in advance for lengthy texts in order to avoid delays and extra fees).</p>

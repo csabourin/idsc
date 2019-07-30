@@ -11,7 +11,7 @@
           <details>
             <summary />
             <h5><em>What is Copyright and how is it different from Intellectual Property (IP)?</em></h5>
-            <p><img alt="intellectual property" class="pull-right" src="~/assets/Copyright_FAQ-en_2.png" width="400"> There is often confusion between the terms "Copyright" and "Intellectual Property."</p>
+            <p><img alt="intellectual property" class="float-left" src="~/assets/Copyright_FAQ-en_2.png" width="400"> There is often confusion between the terms "Copyright" and "Intellectual Property."</p>
             <p>Copyright is the sole right to produce or reproduce a work (or substantial part of it) in any form. In other words, copyright provides protection for original artistic, dramatic, musical and literary creations, so that they are not copied, performed or broadcast without permission. In Canada, all original works are protected by copyright, including books, journal articles, video recordings, websites, and computer software.</p>
             <p>Intellectual property (IP), in contrast, is a broader term that refers to the legal rights to ideas, inventions and creations in the industrial, scientific, literary and artistic fields. IP includes symbols, names, images, designs and models used in business, patents, trademarks, industrial designs, and more, all of which are legally protected under the Canadian IP system.</p>
             <p>In other words, while copyright refers to an author’s sole right to a work, intellectual property is an umbrella term that includes copyright, as well as other types of rights.</p>

@@ -5,7 +5,7 @@
     <p>
       <img
         alt="Kaltura Logo"
-        class="pull-right"
+        class="float-left"
         height="183"
         src="~/assets/Kaltura-logo-en.jpg"
         width="296"

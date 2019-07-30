@@ -1,7 +1,7 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
     <h2>Les normes d’accessibilité du Gouvernement du Canada</h2>
-    <p><img src="~/assets/Accessibility_image.jpg" width="216" height="150" class="pull-right" alt="Close-up of a computer keyboard with one key showing the accessibility symbol, a person on a wheelchair">L’École de la fonction publique du Canada (EFPC) souscrit aux normes d’accessibilité du Gouvernement du Canada (GdC) pour tous ses produits et services, qu’ils soient en ligne ou hors ligne. Les employés de l’EFPC doivent donc toujours considérer l’accessibilité pour chacune des phases d’élaboration de contenu, que ce soit lors de la conception, le développement, l’implantation ou de l’évaluation.</p>
+    <p><img src="~/assets/Accessibility_image.jpg" width="216" height="150" class="float-left" alt="Close-up of a computer keyboard with one key showing the accessibility symbol, a person on a wheelchair">L’École de la fonction publique du Canada (EFPC) souscrit aux normes d’accessibilité du Gouvernement du Canada (GdC) pour tous ses produits et services, qu’ils soient en ligne ou hors ligne. Les employés de l’EFPC doivent donc toujours considérer l’accessibilité pour chacune des phases d’élaboration de contenu, que ce soit lors de la conception, le développement, l’implantation ou de l’évaluation.</p>
     <h3>Politique sur l’obligation de prendre des mesures d’adaptation</h3>
     <p>
       La Politique est soutenue par le Conseil du Trésor et la Commission de la fonction publique. L’objectif de la Politique est &laquo; …d’établir et de maintenir un milieu de travail ouvert et sans obstacles au sein de la fonction publique fédérale afin d’assurer la participation entière des personnes handicapées. &raquo;<br>

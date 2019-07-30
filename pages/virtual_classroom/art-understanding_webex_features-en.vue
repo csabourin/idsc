@@ -1,7 +1,7 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
     <h2>Understanding WebEx Features</h2>
-    <img alt="smiling man with headset" class="pull-right" src="~/assets/virtual_classrooms/clip_image002_0004.png">
+    <img alt="smiling man with headset" class="float-left" src="~/assets/virtual_classrooms/clip_image002_0004.png">
 
     <p>WebEx offers a range of tools to engage learners and boost learning and training effectiveness. </p>
 

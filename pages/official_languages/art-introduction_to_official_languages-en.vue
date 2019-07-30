@@ -2,7 +2,7 @@
   <div id="articleContent" class="ajaxed-in">
     <h2>Introduction to Official Languages</h2>
     <p>
-      <img alt="Picture of team holding a cardboard with the words 'Français' and 'english' equally balanced" class="pull-right" src="~/assets/official_languages/GCcampus_OFFICIAL-LANGUAGeS_march_2015_en.jpg">
+      <img alt="Picture of team holding a cardboard with the words 'Français' and 'english' equally balanced" class="float-left" src="~/assets/official_languages/GCcampus_OFFICIAL-LANGUAGeS_march_2015_en.jpg">
       To fulfil its obligations under Blueprint&nbsp;2020, the School is working to implement a training approach that favours new ways of delivering training to public servants; that is, online learning, workshops, forums such as GCconnex, GCpedia, and other social media.
     </p>
     <p>Going forward, we will favour training methods that offer greater flexibility to learners and that are based more on collaboration and networking as well as informal exchanges on social media, where useful resources are shared. This more open and informal context, however, entails challenges for the School in terms of its official languages obligations: how can we continue to ensure high-quality, bilingual products for our clients? The Official Languages Committee understands that it will have a key role to play in this transition and that it must be in a position to support instructional designers in respecting the School's official languages obligations.</p>

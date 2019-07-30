@@ -24,7 +24,7 @@
         <p>Au moment de concevoir des outils de travail, ne vous limitez pas à donner un appui aux employés pendant la réalisation d'une tâche. Pensez également à des occasions de leur donner un appui avant et après la tâche.</p>
         <blockquote>
           « Dans toutes les définitions de soutien au rendement, on trouve les éléments suivants : l'accent sur les outils et les ressources, l'importance accordée à l'application, ainsi que le moment propice, c'est-à-dire "lorsque le besoin se fait sentir". Autrement dit, on n'utilise pas le soutien au rendement pour en savoir plus sur une tâche, on l'utilise plutôt directement en parallèle avec la réalisation de la tâche elle-même. Son principal objectif est d'offrir le bon soutien, au niveau approprié de complexité ou de détail, aux bonnes personnes et au moment précis où elles en ont besoin. » [TRADUCTION]
-          <p class="pull-right">
+          <p class="float-left">
             <cite>Marc Rosenberg</cite><br>
             <cite>At the Moment of Need: The Case  for Performance Support</cite>
           </p>

@@ -1,7 +1,7 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
     <h2>Introduction à la conception pédagogique</h2>
-    <img src="~/assets/instructional_design/instructional_design_into.jpg" class="pull-right" width="50%" height="auto" alt="">
+    <img src="~/assets/instructional_design/instructional_design_into.jpg" class="float-left" width="50%" height="auto" alt="">
     <p>
       Les méthodes de conception pédagogique permettent à
       vous et à votre équipe de diviser un processus complexe en

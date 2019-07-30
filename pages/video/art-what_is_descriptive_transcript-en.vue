@@ -7,7 +7,7 @@
         alt="Sheet of paper with writing and a cinema clapper"
         height="201"
         src="~/assets/descriptive_transcript.jpg"
-        class="pull-right"
+        class="float-left"
         width="201"
       >When storyboarding your videos prior to production, you must
       not only include the on-screen content, but you must also include an

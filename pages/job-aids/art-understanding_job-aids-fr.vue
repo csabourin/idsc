@@ -2,7 +2,7 @@
   <div id="articleContent" class="ajaxed-in">
     <h2>Comprendre les outils de travail</h2>
     <h3>Qu'est-ce qu'un outil de travail?</h3>
-    <img class="pull-right" src="~/assets/job-aids/undestanding_job-aids.jpg" width="30%" height="auto" alt="Ordinateur présentant des outils à l'utilisateur"><p>
+    <img class="float-left" src="~/assets/job-aids/undestanding_job-aids.jpg" width="30%" height="auto" alt="Ordinateur présentant des outils à l'utilisateur"><p>
       Un outil de travail est un outil très simple qui fournit des conseils, des instructions ou des rappels pour aider les
       employés à terminer une tâche, à prendre une décision ou à appliquer une procédure dans
       l'exercice de leurs fonctions. Un outil de travail peut comprendre des faits, des procédures, des processus ou des

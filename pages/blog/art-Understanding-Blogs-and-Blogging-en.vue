@@ -3,7 +3,7 @@
     <h2>Understanding Blogs and Blogging</h2>
 
     <H4>What is a Blog?</H4>
-    <img alt="Fingers typing on a computer keyboard" class="pull-right" src="../../assets/BlogFloat.png"><p>
+    <img alt="Fingers typing on a computer keyboard" class="float-left" src="../../assets/BlogFloat.png"><p>
       A blog is a web page or site that has a focus on a particular theme or broad subject area such as
       <em>Using Social Networking for Learning, The Learning ecosystem, and effective evaluation Strategies.</em>
     </p>

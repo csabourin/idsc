@@ -7,7 +7,7 @@
         alt="Feuille de papier avec écriture et clap de cinéma."
         height="201"
         src="~/assets/descriptive_transcript.jpg"
-        class="pull-right"
+        class="float-left"
         width="201"
       >Lorsque vous rédigez un scénario de vidéo, une étape qui
       précède la production, vous devez non seulement y inclure le contenu qui

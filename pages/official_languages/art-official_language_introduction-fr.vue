@@ -4,7 +4,7 @@
     <p>
       <img
         alt="Portrait d'une équipe tenant un carton affichant les mots 'Français' et 'english' égallement en équilibre"
-        class="pull-right"
+        class="float-left"
         src="~/assets/official_languages/eSchool_OFFICIAL-LANGUAGES_march_2015.jpg"
       >Afin de remplir ses obligations envers Objectif 2020, l'École est en train de mettre en place une approche en matière de prestation de la formation. Cette approche privilégie de nouvelles façons d'offrir de la formation aux fonctionnaires : apprentissage en ligne, ateliers, forums tels que GCconnex, GCpedia et autres média sociaux.
     </p>

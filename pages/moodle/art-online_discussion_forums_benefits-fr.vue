@@ -5,7 +5,7 @@
     <p>
       <img
         alt="femme souriante regardant un écran d'ordinateur"
-        class="pull-right"
+        class="float-left"
         height="198"
         src="../../assets/clip_image002_0002.jpg"
         width="298"

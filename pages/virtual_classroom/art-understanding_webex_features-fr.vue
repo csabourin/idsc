@@ -1,7 +1,7 @@
 <template>
   <div id="articleContent" class="ajaxed-in">
     <h2>Comprendre les fonctions de WebEx</h2>
-    <img alt="smiling man with headset" class="pull-right" src="~/assets/virtual_classrooms/clip_image002_0004.png">
+    <img alt="smiling man with headset" class="float-left" src="~/assets/virtual_classrooms/clip_image002_0004.png">
     <p>WebEx offre un éventail d'outils pour stimuler les apprenants et renforcer l'efficacité de l'apprentissage et de la formation.</p>
 
     <p>

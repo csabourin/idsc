@@ -3,7 +3,7 @@
     <h2>Government of Canada Accessibility Standards</h2>
 
     <p>
-      <img src="~/assets/Accessibility_image.jpg" width="216" height="150" class="pull-right" alt="Close-up of a computer keyboard with one key showing the accessibility symbol, a person on a wheelchair">The Canada School of Public Service (CSPS) is committed to ensuring
+      <img src="~/assets/Accessibility_image.jpg" width="216" height="150" class="float-left" alt="Close-up of a computer keyboard with one key showing the accessibility symbol, a person on a wheelchair">The Canada School of Public Service (CSPS) is committed to ensuring
       compliance with Government of Canada (GoC) accessibility standards for all
       its products and services, whether online or offline. CSPS employees must
       always consider accessibility at all stages of content development, whether
