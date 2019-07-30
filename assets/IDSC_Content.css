@@ -1,7 +1,7 @@
 @charset "utf-8";
 /*------------------------------------
  Color palette
- Blue: 			#01535e
+ Blue: 			#3f2a56
  Gray: 			#eee
  Dark gray		#bebebe
  Darker gray	#666
@@ -16,9 +16,12 @@ body {
 
 H2 {
     margin-top: .5em;
-    color: #01535e;
+    color: #3f2a56;
     text-transform: uppercase
 }
+
+h1,h2,h3,h4,h5,h6{font-family: 'Lato', sans-serif; }
+p,li{font-family:'Noto Sans', sans-serif;}
 
 summary {
     margin-bottom: 0.25em;
@@ -78,7 +81,7 @@ address title {
 
 .ModuleNav {
     text-transform: uppercase;
-    color: #01535e;
+    color: #3f2a56;
     font-weight: 600;
     font-size: 110%;
     margin-top: 1em
@@ -98,7 +101,7 @@ address title {
     float: right;
     font-weight: 800;
     font-size: 150%;
-    color: #01535e
+    color: #3f2a56
 }
 
 .topNav {
@@ -192,7 +195,7 @@ html:not([data-lsd="Do"]) #DoMenu:hover {
     position: absolute;
     width: 100.75%;
     height: .33em;
-    background-color: #01535e;
+    background-color: #3f2a56;
     top: -.33em;
     left: -.5%;
     content: "";
@@ -254,7 +257,7 @@ ul.SideNav {
 
 .SideNav li:not(.active):hover {
     background-color: #bebebe;
-    border-right: 5px solid #01535e;
+    border-right: 5px solid #3f2a56;
     padding-right: 0
 }
 
@@ -267,7 +270,7 @@ ul.SideNav {
 
 .SideNav li a,
 SideNav li a:visited {
-    color: #01535e;
+    color: #3f2a56;
     text-decoration: none;
     vertical-align: middle;
     display: inline-block;
@@ -316,7 +319,7 @@ SideNav li a:visited {
     display: block;
     padding: .25em;
     text-align: right;
-    color: #01535e
+    color: #3f2a56
 }
 
 #wb-sm .active a,
@@ -331,9 +334,8 @@ SideNav li a:visited {
 
 a[href^="mailto"]:before {
     margin-right: .25em;
-    content: "\f003";
+    content: "\1f4e7";
     display: inline-block;
-    font-family: FontAwesome;
     font-style: normal;
     font-weight: 400;
     line-height: 1;

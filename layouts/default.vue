@@ -1,6 +1,7 @@
 <template>
   <div @load="getLang">
     <div class="topBar">
+      <link href="https://fonts.googleapis.com/css?family=Lato|Noto+Sans&display=swap" rel="stylesheet">
       <span class="fip">
         <p>&nbsp;</p>
       </span>
