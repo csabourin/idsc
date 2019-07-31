@@ -73,7 +73,7 @@
     </details>
     <details>
       <summary>
-        <h4>œuvres Creative Commons</h4>
+        <h4>&OElig;uvres Creative Commons</h4>
       </summary>
       <p>
         Creative Commons est un organisme sans but lucratif qui se consacre à faciliter le partage et l’enrichissement de travaux d’une manière respectueuse des règles du droit d’auteur. Tout comme l’accès ouvert, le statut Creative Commons ne rend PAS l’œuvre libre de droits. Creative Commons octroie un certain nombre de licences standardisées pour du contenu protégé par des droits d’auteur, qui communiquent clairement le type d’utilisation que le créateur accorde aux utilisateurs, de même que les droits qu’il souhaite se réserver.
